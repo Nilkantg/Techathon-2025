@@ -1,0 +1,9 @@
+Flask
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+
+## Python - 3.11

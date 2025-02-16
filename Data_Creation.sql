@@ -1,11 +1,13 @@
 USE techathon;
-CREATE TABLE data_2022 (
+
+-- DROP TABLE IF EXISTS data_2022 ;
+
+CREATE TABLE IF NOT EXISTS data_2022 (
     Time_Period VARCHAR(25),
     State VARCHAR(100),
     Crop_Type VARCHAR(100),
     Prices INT(25)
 );
--- DROP TABLE IF EXISTS data_2022 ;
 INSERT INTO data_2022 VALUES 
 ("2022-01", "Andhra Pradesh", "Paddy (Massoori)", 1980),
 ("2022-02", "Andhra Pradesh", "Paddy (Massoori)", 1980),
@@ -2136,7 +2138,7 @@ INSERT INTO data_2022 VALUES
 ("2022-12", "Delhi", "Gram (Yellow)", 7000);
 
 
-
+SELECT COUNT(*) AS total_count FROM data_2022;
 
 
 

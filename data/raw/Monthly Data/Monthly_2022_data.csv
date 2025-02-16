@@ -1,0 +1,1898 @@
+Time_Period,State,Crop_Type,Prices
+2022-01,"Andhra Pradesh","Paddy (Massoori)",1980
+2022-02,"Andhra Pradesh","Paddy (Massoori)",1980
+2022-03,"Andhra Pradesh","Paddy (Massoori)",1980
+2022-04,"Andhra Pradesh","Paddy (Massoori)",1976
+2022-05,"Andhra Pradesh","Paddy (Massoori)",1960
+2022-06,"Andhra Pradesh","Paddy (Massoori)",2120
+2022-07,"Andhra Pradesh","Paddy (Massoori)",2476
+2022-08,"Andhra Pradesh","Paddy (Massoori)",2600
+2022-09,"Andhra Pradesh","Paddy (Massoori)",2730
+2022-10,"Andhra Pradesh","Paddy (Massoori)",2850
+2022-11,"Andhra Pradesh","Paddy (Massoori)",2838
+2022-12,"Andhra Pradesh","Paddy (Massoori)",2860
+2022-01,"Andhra Pradesh","Paddy (Common)",1873
+2022-02,"Andhra Pradesh","Paddy (Common)",1888
+2022-03,"Andhra Pradesh","Paddy (Common)",1888
+2022-04,"Andhra Pradesh","Paddy (Common)",1940
+2022-05,"Andhra Pradesh","Paddy (Common)",1940
+2022-06,"Andhra Pradesh","Paddy (Common)",1940
+2022-07,"Andhra Pradesh","Paddy (Common)",1940
+2022-08,"Andhra Pradesh","Paddy (Common)",1940
+2022-09,"Andhra Pradesh","Paddy (Common)",1940
+2022-10,"Andhra Pradesh","Paddy (Common)",1940
+2022-11,"Andhra Pradesh","Paddy (Common)",1940
+2022-12,"Andhra Pradesh","Paddy (Common)",1940
+2022-01,Gujarat,Paddy,1813
+2022-02,Gujarat,Paddy,1775
+2022-03,Gujarat,Paddy,1845
+2022-04,Gujarat,Paddy,1809
+2022-05,Gujarat,Paddy,1760
+2022-06,Gujarat,Paddy,1743
+2022-07,Gujarat,Paddy,1799
+2022-08,Gujarat,Paddy,1700
+2022-09,Gujarat,Paddy,1795
+2022-10,Gujarat,Paddy,1888
+2022-11,Gujarat,Paddy,1868
+2022-12,Gujarat,Paddy,1822
+2022-01,Haryana,"Paddy (Basmati)",4110
+2022-02,Haryana,"Paddy (Basmati)",3873
+2022-03,Haryana,"Paddy (Basmati)",3983
+2022-04,Haryana,"Paddy (Basmati)",4260
+2022-05,Haryana,"Paddy (Basmati)",4310
+2022-06,Haryana,"Paddy (Basmati)",4500
+2022-07,Haryana,"Paddy (Basmati)",4660
+2022-08,Haryana,"Paddy (Basmati)",4648
+2022-09,Haryana,"Paddy (Basmati)",4240
+2022-10,Haryana,"Paddy (Basmati)",3388
+2022-11,Haryana,"Paddy (Basmati)",3469
+2022-12,Haryana,"Paddy (Basmati)",3986
+2022-01,Karnataka,"Paddy (Medium)",1630
+2022-02,Karnataka,"Paddy (Medium)",1570
+2022-03,Karnataka,"Paddy (Medium)",1761
+2022-04,Karnataka,"Paddy (Medium)",1848
+2022-05,Karnataka,"Paddy (Medium)",1791
+2022-06,Karnataka,"Paddy (Medium)",1719
+2022-07,Karnataka,"Paddy (Medium)",1544
+2022-08,Karnataka,"Paddy (Medium)",1720
+2022-09,Karnataka,"Paddy (Medium)",1701
+2022-10,Karnataka,"Paddy (Medium)",1650
+2022-11,Karnataka,"Paddy (Medium)",2133
+2022-12,Karnataka,"Paddy (Medium)",1991
+2022-01,Maharashtra,"Paddy (Common)",1625
+2022-02,Maharashtra,"Paddy (Common)",1613
+2022-03,Maharashtra,"Paddy (Common)",1700
+2022-04,Maharashtra,"Paddy (Common)",1970
+2022-05,Maharashtra,"Paddy (Common)",2175
+2022-06,Maharashtra,"Paddy (Common)",1638
+2022-07,Maharashtra,"Paddy (Common)",1540
+2022-08,Maharashtra,"Paddy (Common)",1625
+2022-09,Maharashtra,"Paddy (Common)",1750
+2022-10,Maharashtra,"Paddy (Common)",1775
+2022-11,Maharashtra,"Paddy (Common)",1750
+2022-12,Maharashtra,"Paddy (Common)",2110
+2022-01,Maharashtra,"Paddy (Coarse)",2075
+2022-02,Maharashtra,"Paddy (Coarse)",2125
+2022-03,Maharashtra,"Paddy (Coarse)",2175
+2022-04,Maharashtra,"Paddy (Coarse)",2120
+2022-05,Maharashtra,"Paddy (Coarse)",2263
+2022-06,Maharashtra,"Paddy (Coarse)",2163
+2022-07,Maharashtra,"Paddy (Coarse)",2100
+2022-08,Maharashtra,"Paddy (Coarse)",2113
+2022-09,Maharashtra,"Paddy (Coarse)",2140
+2022-10,Maharashtra,"Paddy (Coarse)",2125
+2022-11,Maharashtra,"Paddy (Coarse)",2275
+2022-12,Maharashtra,"Paddy (Coarse)",2330
+2022-01,Punjab,"Paddy (Basmati)",3475
+2022-02,Punjab,"Paddy (Basmati)",3650
+2022-03,Punjab,"Paddy (Basmati)",3750
+2022-04,Punjab,"Paddy (Basmati)",3867
+2022-05,Punjab,"Paddy (Basmati)",-1
+2022-06,Punjab,"Paddy (Basmati)",-1
+2022-07,Punjab,"Paddy (Basmati)",-1
+2022-08,Punjab,"Paddy (Basmati)",-1
+2022-09,Punjab,"Paddy (Basmati)",3342
+2022-10,Punjab,"Paddy (Basmati)",3238
+2022-11,Punjab,"Paddy (Basmati)",3825
+2022-12,Punjab,"Paddy (Basmati)",4330
+2022-01,Kerala,"Paddy (Matta)",2000
+2022-02,Kerala,"Paddy (Matta)",2010
+2022-03,Kerala,"Paddy (Matta)",2000
+2022-04,Kerala,"Paddy (Matta)",2060
+2022-05,Kerala,"Paddy (Matta)",2100
+2022-06,Kerala,"Paddy (Matta)",2100
+2022-07,Kerala,"Paddy (Matta)",2100
+2022-08,Kerala,"Paddy (Matta)",2110
+2022-09,Kerala,"Paddy (Matta)",2230
+2022-10,Kerala,"Paddy (Matta)",2380
+2022-11,Kerala,"Paddy (Matta)",1400
+2022-12,Kerala,"Paddy (Matta)",2430
+2022-01,Kerala,"Paddy (Jyoti)",-1
+2022-02,Kerala,"Paddy (Jyoti)",-1
+2022-03,Kerala,"Paddy (Jyoti)",2800
+2022-04,Kerala,"Paddy (Jyoti)",2800
+2022-05,Kerala,"Paddy (Jyoti)",2800
+2022-06,Kerala,"Paddy (Jyoti)",2800
+2022-07,Kerala,"Paddy (Jyoti)",2800
+2022-08,Kerala,"Paddy (Jyoti)",2800
+2022-09,Kerala,"Paddy (Jyoti)",2800
+2022-10,Kerala,"Paddy (Jyoti)",2800
+2022-11,Kerala,"Paddy (Jyoti)",2800
+2022-12,Kerala,"Paddy (Jyoti)",2800
+2022-01,Bihar,"Paddy (Medium)",1820
+2022-02,Bihar,"Paddy (Medium)",1835
+2022-03,Bihar,"Paddy (Medium)",1820
+2022-04,Bihar,"Paddy (Medium)",1800
+2022-05,Bihar,"Paddy (Medium)",1825
+2022-06,Bihar,"Paddy (Medium)",1845
+2022-07,Bihar,"Paddy (Medium)",1850
+2022-08,Bihar,"Paddy (Medium)",1885
+2022-09,Bihar,"Paddy (Medium)",1800
+2022-10,Bihar,"Paddy (Medium)",1760
+2022-11,Bihar,"Paddy (Medium)",1730
+2022-12,Bihar,"Paddy (Medium)",1760
+2022-01,"Tmail Nadu","Paddy (Common)",1705
+2022-02,"Tmail Nadu","Paddy (Common)",1666
+2022-03,"Tmail Nadu","Paddy (Common)",1616
+2022-04,"Tmail Nadu","Paddy (Common)",1560
+2022-05,"Tmail Nadu","Paddy (Common)",1500
+2022-06,"Tmail Nadu","Paddy (Common)",1500
+2022-07,"Tmail Nadu","Paddy (Common)",1512
+2022-08,"Tmail Nadu","Paddy (Common)",1573
+2022-09,"Tmail Nadu","Paddy (Common)",1640
+2022-10,"Tmail Nadu","Paddy (Common)",1740
+2022-11,"Tmail Nadu","Paddy (Common)",1760
+2022-12,"Tmail Nadu","Paddy (Common)",1896
+2022-01,"Uttar Pradesh","Paddy (3)",1940
+2022-02,"Uttar Pradesh","Paddy (3)",1940
+2022-03,"Uttar Pradesh","Paddy (3)",1859
+2022-04,"Uttar Pradesh","Paddy (3)",1695
+2022-05,"Uttar Pradesh","Paddy (3)",1556
+2022-06,"Uttar Pradesh","Paddy (3)",1474
+2022-07,"Uttar Pradesh","Paddy (3)",1490
+2022-08,"Uttar Pradesh","Paddy (3)",1556
+2022-09,"Uttar Pradesh","Paddy (3)",1708
+2022-10,"Uttar Pradesh","Paddy (3)",1918
+2022-11,"Uttar Pradesh","Paddy (3)",2040
+2022-12,"Uttar Pradesh","Paddy (3)",2040
+2022-01,"West Bengal","Paddy (IR30)",1888
+2022-02,"West Bengal","Paddy (IR30)",1942
+2022-03,"West Bengal","Paddy (IR30)",1960
+2022-04,"West Bengal","Paddy (IR30)",1960
+2022-05,"West Bengal","Paddy (IR30)",1960
+2022-06,"West Bengal","Paddy (IR30)",1960
+2022-07,"West Bengal","Paddy (IR30)",1960
+2022-08,"West Bengal","Paddy (IR30)",1960
+2022-09,"West Bengal","Paddy (IR30)",1960
+2022-10,"West Bengal","Paddy (IR30)",1960
+2022-11,"West Bengal","Paddy (IR30)",1960
+2022-12,"West Bengal","Paddy (IR30)",1960
+2022-01,"West Bengal","Paddy (IR30)",1960
+2022-01,Telangana,"Rice (Hamsalu)",2750
+2022-02,Telangana,"Rice (Hamsalu)",2650
+2022-03,Telangana,"Rice (Hamsalu)",2725
+2022-04,Telangana,"Rice (Hamsalu)",2820
+2022-05,Telangana,"Rice (Hamsalu)",2925
+2022-06,Telangana,"Rice (Hamsalu)",3000
+2022-07,Telangana,"Rice (Hamsalu)",3080
+2022-08,Telangana,"Rice (Hamsalu)",3175
+2022-09,Telangana,"Rice (Hamsalu)",3260
+2022-10,Telangana,"Rice (Hamsalu)",3350
+2022-11,Telangana,"Rice (Hamsalu)",3400
+2022-12,Telangana,"Rice (Hamsalu)",3360
+2022-01,"Andhra Pradesh","Rice (Common)",3625
+2022-02,"Andhra Pradesh","Rice (Common)",3625
+2022-03,"Andhra Pradesh","Rice (Common)",3625
+2022-04,"Andhra Pradesh","Rice (Common)",3625
+2022-05,"Andhra Pradesh","Rice (Common)",3625
+2022-06,"Andhra Pradesh","Rice (Common)",3625
+2022-07,"Andhra Pradesh","Rice (Common)",3625
+2022-08,"Andhra Pradesh","Rice (Common)",3625
+2022-09,"Andhra Pradesh","Rice (Common)",3625
+2022-10,"Andhra Pradesh","Rice (Common)",3625
+2022-11,"Andhra Pradesh","Rice (Common)",3625
+2022-12,"Andhra Pradesh","Rice (Common)",3625
+2022-01,Assam,"Rice (Common)",2500
+2022-02,Assam,"Rice (Common)",2300
+2022-03,Assam,"Rice (Common)",2350
+2022-04,Assam,"Rice (Common)",2350
+2022-05,Assam,"Rice (Common)",2450
+2022-06,Assam,"Rice (Common)",2450
+2022-07,Assam,"Rice (Common)",2450
+2022-08,Assam,"Rice (Common)",2450
+2022-09,Assam,"Rice (Common)",2730
+2022-10,Assam,"Rice (Common)",2800
+2022-11,Assam,"Rice (Common)",2800
+2022-12,Assam,"Rice (Common)",2800
+2022-01,Bihar,"Rice (Medium)",3355
+2022-02,Bihar,"Rice (Medium)",3350
+2022-03,Bihar,"Rice (Medium)",3380
+2022-04,Bihar,"Rice (Medium)",3438
+2022-05,Bihar,"Rice (Medium)",3473
+2022-06,Bihar,"Rice (Medium)",3485
+2022-07,Bihar,"Rice (Medium)",3606
+2022-08,Bihar,"Rice (Medium)",3818
+2022-09,Bihar,"Rice (Medium)",3868
+2022-10,Bihar,"Rice (Medium)",3850
+2022-11,Bihar,"Rice (Medium)",3870
+2022-12,Bihar,"Rice (Medium)",3816
+2022-01,Bihar,"Rice (Fine Masuri)",4300
+2022-02,Bihar,"Rice (Fine Masuri)",4350
+2022-03,Bihar,"Rice (Fine Masuri)",4400
+2022-04,Bihar,"Rice (Fine Masuri)",4456
+2022-05,Bihar,"Rice (Fine Masuri)",4480
+2022-06,Bihar,"Rice (Fine Masuri)",4480
+2022-07,Bihar,"Rice (Fine Masuri)",4636
+2022-08,Bihar,"Rice (Fine Masuri)",4840
+2022-09,Bihar,"Rice (Fine Masuri)",4824
+2022-10,Bihar,"Rice (Fine Masuri)",4800
+2022-11,Bihar,"Rice (Fine Masuri)",4830
+2022-12,Bihar,"Rice (Fine Masuri)",4800
+2022-01,Gujarat,"Rice (Medium)",3525
+2022-02,Gujarat,"Rice (Medium)",3591
+2022-01,Gujarat,"Rice (Medium)",3531
+2022-04,Gujarat,"Rice (Medium)",3510
+2022-05,Gujarat,"Rice (Medium)",3444
+2022-06,Gujarat,"Rice (Medium)",3306
+2022-07,Gujarat,"Rice (Medium)",3510
+2022-08,Gujarat,"Rice (Medium)",3556
+2022-09,Gujarat,"Rice (Medium)",3670
+2022-10,Gujarat,"Rice (Medium)",3575
+2022-11,Gujarat,"Rice (Medium)",3638
+2022-12,Gujarat,"Rice (Medium)",3625
+2022-12,Gujarat,"Rice (Mota)",3913
+2022-12,Gujarat,"Rice (Mota)",3921
+2022-12,Gujarat,"Rice (Mota)",3900
+2022-12,Gujarat,"Rice (Mota)",3930
+2022-12,Gujarat,"Rice (Mota)",3925
+2022-12,Gujarat,"Rice (Mota)",3850
+2022-12,Gujarat,"Rice (Mota)",4020
+2022-12,Gujarat,"Rice (Mota)",4000
+2022-12,Gujarat,"Rice (Mota)",4000
+2022-12,Gujarat,"Rice (Mota)",4225
+2022-12,Gujarat,"Rice (Mota)",3850
+2022-12,Gujarat,"Rice (Mota)",3900
+2022-01,Haryana,"Rice (Common)",3100
+2022-02,Haryana,"Rice (Common)",3025
+2022-03,Haryana,"Rice (Common)",2946
+2022-04,Haryana,"Rice (Common)",2996
+2022-05,Haryana,"Rice (Common)",3100
+2022-06,Haryana,"Rice (Common)",3162
+2022-07,Haryana,"Rice (Common)",2955
+2022-08,Haryana,"Rice (Common)",2956
+2022-09,Haryana,"Rice (Common)",2875
+2022-10,Haryana,"Rice (Common)",2895
+2022-11,Haryana,"Rice (Common)",2839
+2022-12,Haryana,"Rice (Common)",2704
+2022-01,"Himachal Pradesh","Rice (Dora)",2600
+2022-02,"Himachal Pradesh","Rice (Dora)",2600
+2022-03,"Himachal Pradesh","Rice (Dora)",2600
+2022-04,"Himachal Pradesh","Rice (Dora)",2600
+2022-05,"Himachal Pradesh","Rice (Dora)",2600
+2022-06,"Himachal Pradesh","Rice (Dora)",2600
+2022-07,"Himachal Pradesh","Rice (Dora)",2600
+2022-08,"Himachal Pradesh","Rice (Dora)",2600
+2022-09,"Himachal Pradesh","Rice (Dora)",2600
+2022-10,"Himachal Pradesh","Rice (Dora)",2600
+2022-11,"Himachal Pradesh","Rice (Dora)",2600
+2022-12,"Himachal Pradesh","Rice (Dora)",2600
+2022-01,"Himachal Pradesh","Rice (Begmi)",3300
+2022-02,"Himachal Pradesh","Rice (Begmi)",3400
+2022-03,"Himachal Pradesh","Rice (Begmi)",3400
+2022-04,"Himachal Pradesh","Rice (Begmi)",3400
+2022-05,"Himachal Pradesh","Rice (Begmi)",3400
+2022-06,"Himachal Pradesh","Rice (Begmi)",3375
+2022-07,"Himachal Pradesh","Rice (Begmi)",3350
+2022-08,"Himachal Pradesh","Rice (Begmi)",3350
+2022-09,"Himachal Pradesh","Rice (Begmi)",3350
+2022-10,"Himachal Pradesh","Rice (Begmi)",3350
+2022-11,"Himachal Pradesh","Rice (Begmi)",3350
+2022-12,"Himachal Pradesh","Rice (Begmi)",3350
+2022-01,Karnataka,"Rice (IR8)",2750
+2022-02,Karnataka,"Rice (IR8)",2675
+2022-03,Karnataka,"Rice (IR8)",2650
+2022-04,Karnataka,"Rice (IR8)",2730
+2022-05,Karnataka,"Rice (IR8)",2800
+2022-06,Karnataka,"Rice (IR8)",2800
+2022-07,Karnataka,"Rice (IR8)",2830
+2022-08,Karnataka,"Rice (IR8)",2950
+2022-09,Karnataka,"Rice (IR8)",2950
+2022-10,Karnataka,"Rice (IR8)",2950
+2022-11,Karnataka,"Rice (IR8)",2950
+2022-12,Karnataka,"Rice (IR8)",2950
+2022-01,Kerala,"Rice (Matta)",3200
+2022-02,Kerala,"Rice (Matta)",3200
+2022-03,Kerala,"Rice (Matta)",3225
+2022-04,Kerala,"Rice (Matta)",3360
+2022-05,Kerala,"Rice (Matta)",3425
+2022-06,Kerala,"Rice (Matta)",3500
+2022-07,Kerala,"Rice (Matta)",3540
+2022-08,Kerala,"Rice (Matta)",3600
+2022-09,Kerala,"Rice (Matta)",3880
+2022-10,Kerala,"Rice (Matta)",4000
+2022-11,Kerala,"Rice (Matta)",4025
+2022-12,Kerala,"Rice (Matta)",4160
+2022-01,Kerala,"Rice (Champa)",3125
+2022-02,Kerala,"Rice (Champa)",3190
+2022-03,Kerala,"Rice (Champa)",3238
+2022-04,Kerala,"Rice (Champa)",3286
+2022-05,Kerala,"Rice (Champa)",3300
+2022-06,Kerala,"Rice (Champa)",3300
+2022-07,Kerala,"Rice (Champa)",3260
+2022-08,Kerala,"Rice (Champa)",3275
+2022-09,Kerala,"Rice (Champa)",3308
+2022-10,Kerala,"Rice (Champa)",3350
+2022-11,Kerala,"Rice (Champa)",3400
+2022-12,Kerala,"Rice (Champa)",3640
+2022-01,"Madhya Pradesh","Rice (Inferior)",3000
+2022-02,"Madhya Pradesh","Rice (Inferior)",3000
+2022-03,"Madhya Pradesh","Rice (Inferior)",3000
+2022-04,"Madhya Pradesh","Rice (Inferior)",3000
+2022-05,"Madhya Pradesh","Rice (Inferior)",3000
+2022-06,"Madhya Pradesh","Rice (Inferior)",3000
+2022-07,"Madhya Pradesh","Rice (Inferior)",3000
+2022-08,"Madhya Pradesh","Rice (Inferior)",3000
+2022-09,"Madhya Pradesh","Rice (Inferior)",3420
+2022-10,"Madhya Pradesh","Rice (Inferior)",4000
+2022-11,"Madhya Pradesh","Rice (Inferior)",4000
+2022-12,"Madhya Pradesh","Rice (Inferior)",4460
+2022-01,Maharashtra,"Rice (Coarse)",2713
+2022-02,Maharashtra,"Rice (Coarse)",2750
+2022-03,Maharashtra,"Rice (Coarse)",2725
+2022-04,Maharashtra,"Rice (Coarse)",2780
+2022-05,Maharashtra,"Rice (Coarse)",2800
+2022-06,Maharashtra,"Rice (Coarse)",2800
+2022-07,Maharashtra,"Rice (Coarse)",3110
+2022-08,Maharashtra,"Rice (Coarse)",3325
+2022-09,Maharashtra,"Rice (Coarse)",3420
+2022-10,Maharashtra,"Rice (Coarse)",3500
+2022-11,Maharashtra,"Rice (Coarse)",3500
+2022-12,Maharashtra,"Rice (Coarse)",3510
+2022-01,Chhattisgarh,"Rice (Mota)",2300
+2022-02,Chhattisgarh,"Rice (Mota)",2225
+2022-03,Chhattisgarh,"Rice (Mota)",2350
+2022-04,Chhattisgarh,"Rice (Mota)",2400
+2022-05,Chhattisgarh,"Rice (Mota)",2463
+2022-06,Chhattisgarh,"Rice (Mota)",2413
+2022-07,Chhattisgarh,"Rice (Mota)",2470
+2022-08,Chhattisgarh,"Rice (Mota)",2500
+2022-09,Chhattisgarh,"Rice (Mota)",2440
+2022-10,Chhattisgarh,"Rice (Mota)",2300
+2022-11,Chhattisgarh,"Rice (Mota)",2300
+2022-12,Chhattisgarh,"Rice (Mota)",2300
+2022-01,Jharkhand,"Rice (Medium)",2780
+2022-02,Jharkhand,"Rice (Medium)",2758
+2022-03,Jharkhand,"Rice (Medium)",2780
+2022-04,Jharkhand,"Rice (Medium)",2860
+2022-05,Jharkhand,"Rice (Medium)",2860
+2022-06,Jharkhand,"Rice (Medium)",2853
+2022-07,Jharkhand,"Rice (Medium)",3068
+2022-08,Jharkhand,"Rice (Medium)",3430
+2022-09,Jharkhand,"Rice (Medium)",3358
+2022-10,Jharkhand,"Rice (Medium)",3293
+2022-11,Jharkhand,"Rice (Medium)",3300
+2022-12,Jharkhand,"Rice (Medium)",3168
+2022-01,"West Bengal","Rice (Common)",2760
+2022-02,"West Bengal","Rice (Common)",2750
+2022-03,"West Bengal","Rice (Common)",2700
+2022-04,"West Bengal","Rice (Common)",2710
+2022-05,"West Bengal","Rice (Common)",2700
+2022-06,"West Bengal","Rice (Common)",2775
+2022-07,"West Bengal","Rice (Common)",2870
+2022-08,"West Bengal","Rice (Common)",3095
+2022-09,"West Bengal","Rice (Common)",3100
+2022-10,"West Bengal","Rice (Common)",3150
+2022-11,"West Bengal","Rice (Common)",3145
+2022-12,"West Bengal","Rice (Common)",2964
+2022-01,"Andhra Pradesh","Jowar (White)",2800
+2022-02,"Andhra Pradesh","Jowar (White)",2563
+2022-03,"Andhra Pradesh","Jowar (White)",2300
+2022-04,"Andhra Pradesh","Jowar (White)",2270
+2022-05,"Andhra Pradesh","Jowar (White)",2388
+2022-06,"Andhra Pradesh","Jowar (White)",2763
+2022-07,"Andhra Pradesh","Jowar (White)",2880
+2022-08,"Andhra Pradesh","Jowar (White)",3200
+2022-09,"Andhra Pradesh","Jowar (White)",3480
+2022-10,"Andhra Pradesh","Jowar (White)",3725
+2022-11,"Andhra Pradesh","Jowar (White)",3825
+2022-12,"Andhra Pradesh","Jowar (White)",3880
+2022-01,Gujarat,"Jowar (White)",2225
+2022-02,Gujarat,"Jowar (White)",2538
+2022-03,Gujarat,"Jowar (White)",2626
+2022-04,Gujarat,"Jowar (White)",2516
+2022-05,Gujarat,"Jowar (White)",2494
+2022-06,Gujarat,"Jowar (White)",2575
+2022-07,Gujarat,"Jowar (White)",2975
+2022-08,Gujarat,"Jowar (White)",3125
+2022-09,Gujarat,"Jowar (White)",3185
+2022-10,Gujarat,"Jowar (White)",3301
+2022-11,Gujarat,"Jowar (White)",3463
+2022-12,Gujarat,"Jowar (White)",3740
+2022-01,Gujarat,"Jowar (Desi)",3325
+2022-02,Gujarat,"Jowar (Desi)",3136
+2022-03,Gujarat,"Jowar (Desi)",2754
+2022-01,Gujarat,"Jowar (Desi)",2890
+2022-05,Gujarat,"Jowar (Desi)",2975
+2022-06,Gujarat,"Jowar (Desi)",2883
+2022-07,Gujarat,"Jowar (Desi)",3125
+2022-08,Gujarat,"Jowar (Desi)",3400
+2022-09,Gujarat,"Jowar (Desi)",3400
+2022-10,Gujarat,"Jowar (Desi)",3215
+2022-11,Gujarat,"Jowar (Desi)",2850
+2022-12,Gujarat,"Jowar (Desi)",3250
+2022-01,Karnataka,Jowar,2550
+2022-02,Karnataka,Jowar,-1
+2022-01,Karnataka,Jowar,2750
+2022-04,Karnataka,Jowar,2825
+2022-05,Karnataka,Jowar,3000
+2022-06,Karnataka,Jowar,-1
+2022-07,Karnataka,Jowar,-1
+2022-08,Karnataka,Jowar,2650
+2022-09,Karnataka,Jowar,2550
+2022-10,Karnataka,Jowar,-1
+2022-11,Karnataka,Jowar,3000
+2022-12,Karnataka,Jowar,-1
+2022-01,Gujarat,"Jowar (White)",2350
+2022-02,Gujarat,"Jowar (White)",2413
+2022-03,Gujarat,"Jowar (White)",2575
+2022-04,Gujarat,"Jowar (White)",3140
+2022-05,Gujarat,"Jowar (White)",2900
+2022-06,Gujarat,"Jowar (White)",2613
+2022-07,Gujarat,"Jowar (White)",2780
+2022-08,Gujarat,"Jowar (White)",2838
+2022-09,Gujarat,"Jowar (White)",2790
+2022-10,Gujarat,"Jowar (White)",2775
+2022-11,Gujarat,"Jowar (White)",2850
+2022-12,Gujarat,"Jowar (White)",3426
+2022-01,Maharashtra,Jowar,3138
+2022-02,Maharashtra,Jowar,3025
+2022-01,Maharashtra,Jowar,2700
+2022-01,Maharashtra,Jowar,3050
+2022-01,Maharashtra,Jowar,3475
+2022-01,Maharashtra,Jowar,3488
+2022-01,Maharashtra,Jowar,3510
+2022-08,Maharashtra,Jowar,3463
+2022-09,Maharashtra,Jowar,3580
+2022-10,Maharashtra,Jowar,3600
+2022-11,Maharashtra,Jowar,3800
+2022-12,Maharashtra,Jowar,3940
+2022-01,Rajasthan,"Jowar (Local)",1979
+2022-02,Rajasthan,"Jowar (Local)",1983
+2022-03,Rajasthan,"Jowar (Local)",1988
+2022-04,Rajasthan,"Jowar (Local)",2037
+2022-05,Rajasthan,"Jowar (Local)",2131
+2022-06,Rajasthan,"Jowar (Local)",2133
+2022-07,Rajasthan,"Jowar (Local)",2162
+2022-08,Rajasthan,"Jowar (Local)",2188
+2022-09,Rajasthan,"Jowar (Local)",2259
+2022-10,Rajasthan,"Jowar (Local)",2133
+2022-11,Rajasthan,"Jowar (Local)",2319
+2022-12,Rajasthan,"Jowar (Local)",2479
+2022-01,Rajasthan,Jowar,2542
+2022-02,Rajasthan,Jowar,2653
+2022-03,Rajasthan,Jowar,2590
+2022-04,Rajasthan,Jowar,2617
+2022-05,Rajasthan,Jowar,2648
+2022-06,Rajasthan,Jowar,2875
+2022-07,Rajasthan,Jowar,3046
+2022-08,Rajasthan,Jowar,2864
+2022-09,Rajasthan,Jowar,2803
+2022-10,Rajasthan,Jowar,2146
+2022-11,Rajasthan,Jowar,2858
+2022-12,Rajasthan,Jowar,3924
+2022-01,"Tamil Nadu","Jowar (White)",2650
+2022-02,"Tamil Nadu","Jowar (White)",2750
+2022-03,"Tamil Nadu","Jowar (White)",3025
+2022-04,"Tamil Nadu","Jowar (White)",3140
+2022-05,"Tamil Nadu","Jowar (White)",3300
+2022-06,"Tamil Nadu","Jowar (White)",3500
+2022-07,"Tamil Nadu","Jowar (White)",3460
+2022-08,"Tamil Nadu","Jowar (White)",3500
+2022-09,"Tamil Nadu","Jowar (White)",3440
+2022-10,"Tamil Nadu","Jowar (White)",3400
+2022-11,"Tamil Nadu","Jowar (White)",3050
+2022-12,"Tamil Nadu","Jowar (White)",3680
+2022-01,"Uttar Pradesh","Jowar (White)",1845
+2022-02,"Uttar Pradesh","Jowar (White)",1868
+2022-03,"Uttar Pradesh","Jowar (White)",2003
+2022-04,"Uttar Pradesh","Jowar (White)",2153
+2022-05,"Uttar Pradesh","Jowar (White)",2188
+2022-06,"Uttar Pradesh","Jowar (White)",2171
+2022-07,"Uttar Pradesh","Jowar (White)",2511
+2022-08,"Uttar Pradesh","Jowar (White)",2819
+2022-09,"Uttar Pradesh","Jowar (White)",2886
+2022-10,"Uttar Pradesh","Jowar (White)",2953
+2022-11,"Uttar Pradesh","Jowar (White)",2973
+2022-12,"Uttar Pradesh","Jowar (White)",2781
+2022-01,"Uttar Pradesh",Jowar,2131
+2022-02,"Uttar Pradesh",Jowar,2169
+2022-03,"Uttar Pradesh",Jowar,2395
+2022-04,"Uttar Pradesh",Jowar,2475
+2022-05,"Uttar Pradesh",Jowar,2426
+2022-06,"Uttar Pradesh",Jowar,2251
+2022-07,"Uttar Pradesh",Jowar,2254
+2022-08,"Uttar Pradesh",Jowar,2633
+2022-09,"Uttar Pradesh",Jowar,2918
+2022-10,"Uttar Pradesh",Jowar,3013
+2022-11,"Uttar Pradesh",Jowar,3148
+2022-12,"Uttar Pradesh",Jowar,2920
+2022-01,"West Bengal",Jowar,3113
+2022-02,"West Bengal",Jowar,2950
+2022-01,"West Bengal",Jowar,3113
+2022-04,"West Bengal",Jowar,3180
+2022-01,"West Bengal",Jowar,3150
+2022-06,"West Bengal",Jowar,3113
+2022-07,"West Bengal",Jowar,3200
+2022-08,"West Bengal",Jowar,3225
+2022-09,"West Bengal",Jowar,3160
+2022-10,"West Bengal",Jowar,3188
+2022-11,"West Bengal",Jowar,3225
+2022-12,"West Bengal",Jowar,3220
+2022-01,Delhi,"Jowar (White)",3200
+2022-02,Delhi,"Jowar (White)",3200
+2022-03,Delhi,"Jowar (White)",3200
+2022-04,Delhi,"Jowar (White)",3280
+2022-05,Delhi,"Jowar (White)",3275
+2022-06,Delhi,"Jowar (White)",3300
+2022-07,Delhi,"Jowar (White)",3300
+2022-08,Delhi,"Jowar (White)",3300
+2022-09,Delhi,"Jowar (White)",3240
+2022-10,Delhi,"Jowar (White)",3300
+2022-11,Delhi,"Jowar (White)",3300
+2022-12,Delhi,"Jowar (White)",3300
+2022-01,"Andhra Pradesh","Bajra (Local)",2400
+2022-02,"Andhra Pradesh","Bajra (Local)",2475
+2022-03,"Andhra Pradesh","Bajra (Local)",2613
+2022-04,"Andhra Pradesh","Bajra (Local)",2868
+2022-05,"Andhra Pradesh","Bajra (Local)",3163
+2022-06,"Andhra Pradesh","Bajra (Local)",3125
+2022-07,"Andhra Pradesh","Bajra (Local)",3110
+2022-08,"Andhra Pradesh","Bajra (Local)",2938
+2022-09,"Andhra Pradesh","Bajra (Local)",2900
+2022-10,"Andhra Pradesh","Bajra (Local)",2800
+2022-11,"Andhra Pradesh","Bajra (Local)",2800
+2022-12,"Andhra Pradesh","Bajra (Local)",2880
+2022-01,"Andhra Pradesh","Bajra (Hybrid)",2250
+2022-02,"Andhra Pradesh","Bajra (Hybrid)",2250
+2022-03,"Andhra Pradesh","Bajra (Hybrid)",2250
+2022-04,"Andhra Pradesh","Bajra (Hybrid)",2210
+2022-05,"Andhra Pradesh","Bajra (Hybrid)",2400
+2022-06,"Andhra Pradesh","Bajra (Hybrid)",2500
+2022-07,"Andhra Pradesh","Bajra (Hybrid)",2760
+2022-08,"Andhra Pradesh","Bajra (Hybrid)",2700
+2022-09,"Andhra Pradesh","Bajra (Hybrid)",2700
+2022-10,"Andhra Pradesh","Bajra (Hybrid)",2700
+2022-11,"Andhra Pradesh","Bajra (Hybrid)",2675
+2022-12,"Andhra Pradesh","Bajra (Hybrid)",2510
+2022-01,Gujarat,"Bajra (Hybrid)",1825
+2022-02,Gujarat,"Bajra (Hybrid)",1819
+2022-03,Gujarat,"Bajra (Hybrid)",1750
+2022-04,Gujarat,"Bajra (Hybrid)",1761
+2022-05,Gujarat,"Bajra (Hybrid)",2006
+2022-06,Gujarat,"Bajra (Hybrid)",1950
+2022-07,Gujarat,"Bajra (Hybrid)",1825
+2022-08,Gujarat,"Bajra (Hybrid)",1963
+2022-09,Gujarat,"Bajra (Hybrid)",1975
+2022-10,Gujarat,"Bajra (Hybrid)",1713
+2022-11,Gujarat,"Bajra (Hybrid)",1651
+2022-12,Gujarat,"Bajra (Hybrid)",1803
+2022-01,Gujarat,"Bajra (Desi)",1844
+2022-02,Gujarat,"Bajra (Desi)",1861
+2022-03,Gujarat,"Bajra (Desi)",2034
+2022-04,Gujarat,"Bajra (Desi)",2025
+2022-05,Gujarat,"Bajra (Desi)",2029
+2022-06,Gujarat,"Bajra (Desi)",2040
+2022-07,Gujarat,"Bajra (Desi)",2044
+2022-08,Gujarat,"Bajra (Desi)",2139
+2022-09,Gujarat,"Bajra (Desi)",1965
+2022-10,Gujarat,"Bajra (Desi)",1968
+2022-11,Gujarat,"Bajra (Desi)",2322
+2022-12,Gujarat,"Bajra (Desi)",2473
+2022-01,Haryana,"Bajra (Hybrid)",1705
+2022-02,Haryana,"Bajra (Hybrid)",1815
+2022-03,Haryana,"Bajra (Hybrid)",1998
+2022-04,Haryana,"Bajra (Hybrid)",2056
+2022-05,Haryana,"Bajra (Hybrid)",2098
+2022-06,Haryana,"Bajra (Hybrid)",2125
+2022-07,Haryana,"Bajra (Hybrid)",2024
+2022-08,Haryana,"Bajra (Hybrid)",2008
+2022-09,Haryana,"Bajra (Hybrid)",1860
+2022-10,Haryana,"Bajra (Hybrid)",1775
+2022-11,Haryana,"Bajra (Hybrid)",1935
+2022-12,Haryana,"Bajra (Hybrid)",2028
+2022-01,Karnataka,Bajra,1950
+2022-02,Karnataka,Bajra,2050
+2022-03,Karnataka,Bajra,2275
+2022-04,Karnataka,Bajra,2660
+2022-05,Karnataka,Bajra,2650
+2022-06,Karnataka,Bajra,2600
+2022-07,Karnataka,Bajra,2620
+2022-08,Karnataka,Bajra,2708
+2022-09,Karnataka,Bajra,2700
+2022-10,Karnataka,Bajra,2875
+2022-11,Karnataka,Bajra,2988
+2022-12,Karnataka,Bajra,2960
+2022-01,"Madhya Pradesh",Bajra,1649
+2022-02,"Madhya Pradesh",Bajra,1773
+2022-03,"Madhya Pradesh",Bajra,1960
+2022-04,"Madhya Pradesh",Bajra,2031
+2022-05,"Madhya Pradesh",Bajra,2126
+2022-06,"Madhya Pradesh",Bajra,2037
+2022-07,"Madhya Pradesh",Bajra,2017
+2022-08,"Madhya Pradesh",Bajra,2091
+2022-09,"Madhya Pradesh",Bajra,1805
+2022-10,"Madhya Pradesh",Bajra,1659
+2022-11,"Madhya Pradesh",Bajra,1838
+2022-12,"Madhya Pradesh",Bajra,1978
+2022-01,Maharashtra,"Bajra (Local)",1775
+2022-02,Maharashtra,"Bajra (Local)",1750
+2022-03,Maharashtra,"Bajra (Local)",1925
+2022-04,Maharashtra,"Bajra (Local)",2080
+2022-05,Maharashtra,"Bajra (Local)",1988
+2022-06,Maharashtra,"Bajra (Local)",2063
+2022-07,Maharashtra,"Bajra (Local)",2220
+2022-08,Maharashtra,"Bajra (Local)",2325
+2022-09,Maharashtra,"Bajra (Local)",2090
+2022-10,Maharashtra,"Bajra (Local)",2475
+2022-11,Maharashtra,"Bajra (Local)",2475
+2022-12,Maharashtra,"Bajra (Local)",2040
+2022-01,Maharashtra,Bajra,2388
+2022-02,Maharashtra,Bajra,2475
+2022-03,Maharashtra,Bajra,2513
+2022-04,Maharashtra,Bajra,2650
+2022-05,Maharashtra,Bajra,2575
+2022-06,Maharashtra,Bajra,2500
+2022-07,Maharashtra,Bajra,2570
+2022-08,Maharashtra,Bajra,2688
+2022-09,Maharashtra,Bajra,2970
+2022-10,Maharashtra,Bajra,3000
+2022-11,Maharashtra,Bajra,3025
+2022-12,Maharashtra,Bajra,3100
+2022-01,Delhi,"Bajra (White)",2300
+2022-02,Delhi,"Bajra (White)",2275
+2022-03,Delhi,"Bajra (White)",2200
+2022-04,Delhi,"Bajra (White)",2200
+2022-05,Delhi,"Bajra (White)",2175
+2022-06,Delhi,"Bajra (White)",2213
+2022-07,Delhi,"Bajra (White)",2270
+2022-08,Delhi,"Bajra (White)",2300
+2022-09,Delhi,"Bajra (White)",2330
+2022-10,Delhi,"Bajra (White)",2350
+2022-11,Delhi,"Bajra (White)",2375
+2022-12,Delhi,"Bajra (White)",2460
+2022-01,Rajasthan,"Bajra (Coarse)",1741
+2022-02,Rajasthan,"Bajra (Coarse)",1846
+2022-03,Rajasthan,"Bajra (Coarse)",1959
+2022-04,Rajasthan,"Bajra (Coarse)",1914
+2022-05,Rajasthan,"Bajra (Coarse)",2078
+2022-06,Rajasthan,"Bajra (Coarse)",2061
+2022-07,Rajasthan,"Bajra (Coarse)",1992
+2022-08,Rajasthan,"Bajra (Coarse)",2045
+2022-09,Rajasthan,"Bajra (Coarse)",1955
+2022-10,Rajasthan,"Bajra (Coarse)",1731
+2022-11,Rajasthan,"Bajra (Coarse)",1806
+2022-12,Rajasthan,"Bajra (Coarse)",1961
+2022-01,Rajasthan,Bajra,1718
+2022-02,Rajasthan,Bajra,1728
+2022-03,Rajasthan,Bajra,1867
+2022-04,Rajasthan,Bajra,1935
+2022-05,Rajasthan,Bajra,2035
+2022-06,Rajasthan,Bajra,2015
+2022-07,Rajasthan,Bajra,2041
+2022-08,Rajasthan,Bajra,2084
+2022-09,Rajasthan,Bajra,1925
+2022-10,Rajasthan,Bajra,1869
+2022-11,Rajasthan,Bajra,1962
+2022-12,Rajasthan,Bajra,2008
+2022-01,Rajasthan,"Bajra (FAQ)",1981
+2022-02,Rajasthan,"Bajra (FAQ)",1963
+2022-03,Rajasthan,"Bajra (FAQ)",2143
+2022-04,Rajasthan,"Bajra (FAQ)",2290
+2022-05,Rajasthan,"Bajra (FAQ)",2344
+2022-06,Rajasthan,"Bajra (FAQ)",2256
+2022-07,Rajasthan,"Bajra (FAQ)",2300
+2022-08,Rajasthan,"Bajra (FAQ)",2431
+2022-09,Rajasthan,"Bajra (FAQ)",2230
+2022-10,Rajasthan,"Bajra (FAQ)",1950
+2022-11,Rajasthan,"Bajra (FAQ)",2113
+2022-12,Rajasthan,"Bajra (FAQ)",2200
+2022-01,"Tamil Nadu","Bajra (Arsi)",2725
+2022-02,"Tamil Nadu","Bajra (Arsi)",2687
+2022-03,"Tamil Nadu","Bajra (Arsi)",2700
+2022-04,"Tamil Nadu","Bajra (Arsi)",2720
+2022-05,"Tamil Nadu","Bajra (Arsi)",2625
+2022-06,"Tamil Nadu","Bajra (Arsi)",2587
+2022-07,"Tamil Nadu","Bajra (Arsi)",2610
+2022-08,"Tamil Nadu","Bajra (Arsi)",2625
+2022-09,"Tamil Nadu","Bajra (Arsi)",2710
+2022-10,"Tamil Nadu","Bajra (Arsi)",2550
+2022-11,"Tamil Nadu","Bajra (Arsi)",2650
+2022-12,"Tamil Nadu","Bajra (Arsi)",2950
+2022-01,"Uttar Pradesh",Bajra,1654
+2022-02,"Uttar Pradesh",Bajra,1714
+2022-03,"Uttar Pradesh",Bajra,1820
+2022-04,"Uttar Pradesh",Bajra,2015
+2022-05,"Uttar Pradesh",Bajra,2024
+2022-06,"Uttar Pradesh",Bajra,2018
+2022-07,"Uttar Pradesh",Bajra,1983
+2022-08,"Uttar Pradesh",Bajra,1993
+2022-09,"Uttar Pradesh",Bajra,2061
+2022-10,"Uttar Pradesh",Bajra,2040
+2022-11,"Uttar Pradesh",Bajra,2218
+2022-12,"Uttar Pradesh",Bajra,2360
+2022-01,"Uttar Pradesh","Bajra (Dora)",1664
+2022-02,"Uttar Pradesh","Bajra (Dora)",1726
+2022-03,"Uttar Pradesh","Bajra (Dora)",1780
+2022-04,"Uttar Pradesh","Bajra (Dora)",1974
+2022-05,"Uttar Pradesh","Bajra (Dora)",1973
+2022-06,"Uttar Pradesh","Bajra (Dora)",2006
+2022-07,"Uttar Pradesh","Bajra (Dora)",1882
+2022-08,"Uttar Pradesh","Bajra (Dora)",2030
+2022-09,"Uttar Pradesh","Bajra (Dora)",2041
+2022-10,"Uttar Pradesh","Bajra (Dora)",1931
+2022-11,"Uttar Pradesh","Bajra (Dora)",2124
+2022-12,"Uttar Pradesh","Bajra (Dora)",2352
+2022-01,"Tamil Nadu",Maize,2150
+2022-02,"Tamil Nadu",Maize,2350
+2022-03,"Tamil Nadu",Maize,2525
+2022-04,"Tamil Nadu",Maize,2860
+2022-05,"Tamil Nadu",Maize,2800
+2022-06,"Tamil Nadu",Maize,2900
+2022-07,"Tamil Nadu",Maize,2840
+2022-08,"Tamil Nadu",Maize,2950
+2022-09,"Tamil Nadu",Maize,2780
+2022-10,"Tamil Nadu",Maize,2925
+2022-11,"Tamil Nadu",Maize,2900
+2022-12,"Tamil Nadu",Maize,2660
+2022-01,"Uttar Pradesh","Maize (Yellow)",1700
+2022-02,"Uttar Pradesh","Maize (Yellow)",1765
+2022-03,"Uttar Pradesh","Maize (Yellow)",1811
+2022-04,"Uttar Pradesh","Maize (Yellow)",1783
+2022-05,"Uttar Pradesh","Maize (Yellow)",1889
+2022-06,"Uttar Pradesh","Maize (Yellow)",2030
+2022-07,"Uttar Pradesh","Maize (Yellow)",1996
+2022-08,"Uttar Pradesh","Maize (Yellow)",1993
+2022-09,"Uttar Pradesh","Maize (Yellow)",1984
+2022-10,"Uttar Pradesh","Maize (Yellow)",2024
+2022-11,"Uttar Pradesh","Maize (Yellow)",2064
+2022-12,"Uttar Pradesh","Maize (Yellow)",2067
+2022-01,"West Bengal",Maize,2663
+2022-02,"West Bengal",Maize,2613
+2022-03,"West Bengal",Maize,2663
+2022-04,"West Bengal",Maize,2720
+2022-05,"West Bengal",Maize,2725
+2022-06,"West Bengal",Maize,2575
+2022-07,"West Bengal",Maize,2550
+2022-08,"West Bengal",Maize,2850
+2022-09,"West Bengal",Maize,2900
+2022-10,"West Bengal",Maize,2938
+2022-11,"West Bengal",Maize,2900
+2022-12,"West Bengal",Maize,3010
+2022-01,Delhi,"Maize (Yellow)",2000
+2022-02,Delhi,"Maize (Yellow)",1950
+2022-03,Delhi,"Maize (Yellow)",1900
+2022-04,Delhi,"Maize (Yellow)",1920
+2022-05,Delhi,"Maize (Yellow)",2000
+2022-06,Delhi,"Maize (Yellow)",2000
+2022-07,Delhi,"Maize (Yellow)",2040
+2022-08,Delhi,"Maize (Yellow)",2000
+2022-09,Delhi,"Maize (Yellow)",1940
+2022-10,Delhi,"Maize (Yellow)",1875
+2022-11,Delhi,"Maize (Yellow)",1925
+2022-12,Delhi,"Maize (Yellow)",1980
+2022-01,Telangana,Maize,1525
+2022-01,Telangana,"Maize (Hybrid)",1616
+2022-01,Bihar,"Maize (White)",1630
+2022-01,Bihar,"Maize (Yellow)",1773
+2022-01,Gujarat,"Maize (Yellow)",1823
+2022-01,Gujarat,"Maize (White)",1850
+2022-02,Telangana,Maize,1550
+2022-02,Telangana,"Maize (Hybrid)",1625
+2022-02,Bihar,"Maize (White)",1680
+2022-02,Bihar,"Maize (Yellow)",1805
+2022-02,Gujarat,"Maize (Yellow)",1855
+2022-02,Gujarat,"Maize (White)",1930
+2022-03,Telangana,Maize,1688
+2022-03,Telangana,"Maize (Hybrid)",1813
+2022-03,Bihar,"Maize (White)",1650
+2022-03,Bihar,"Maize (Yellow)",1844
+2022-03,Gujarat,"Maize (Yellow)",1952
+2022-03,Gujarat,"Maize (White)",2193
+2022-04,Telangana,Maize,1790
+2022-04,Telangana,"Maize (Hybrid)",2165
+2022-04,Bihar,"Maize (White)",1684
+2022-04,Bihar,"Maize (Yellow)",2032
+2022-04,Gujarat,"Maize (Yellow)",2130
+2022-04,Gujarat,"Maize (White)",2300
+2022-05,Telangana,Maize,1788
+2022-05,Telangana,"Maize (Hybrid)",2053
+2022-05,Bihar,"Maize (White)",1760
+2022-05,Bihar,"Maize (Yellow)",2222
+2022-05,Gujarat,"Maize (Yellow)",2215
+2022-05,Gujarat,"Maize (White)",2213
+2022-06,Telangana,Maize,1713
+2022-06,Telangana,"Maize (Hybrid)",1982
+2022-06,Bihar,"Maize (White)",1880
+2022-06,Bihar,"Maize (Yellow)",2285
+2022-06,Gujarat,"Maize (Yellow)",2236
+2022-06,Gujarat,"Maize (White)",2206
+2022-07,Telangana,Maize,1780
+2022-07,Telangana,"Maize (Hybrid)",2206
+2022-07,Bihar,"Maize (White)",1934
+2022-07,Bihar,"Maize (Yellow)",2282
+2022-07,Gujarat,"Maize (Yellow)",2275
+2022-07,Gujarat,"Maize (White)",2280
+2022-08,Telangana,Maize,1813
+2022-08,Telangana,"Maize (Hybrid)",2222
+2022-08,Bihar,"Maize (White)",2018
+2022-08,Bihar,"Maize (Yellow)",2396
+2022-08,Gujarat,"Maize (Yellow)",2392
+2022-08,Gujarat,"Maize (White)",2344
+2022-09,Telangana,Maize,1950
+2022-09,Telangana,"Maize (Hybrid)",2093
+2022-09,Bihar,"Maize (White)",2052
+2022-09,Bihar,"Maize (Yellow)",2354
+2022-09,Gujarat,"Maize (Yellow)",2343
+2022-09,Gujarat,"Maize (White)",2348
+2022-10,Telangana,Maize,1900
+2022-10,Telangana,"Maize (Hybrid)",1854
+2022-10,Bihar,"Maize (White)",2055
+2022-10,Bihar,"Maize (Yellow)",2394
+2022-10,Gujarat,"Maize (Yellow)",2373
+2022-10,Gujarat,"Maize (White)",2325
+2022-11,Telangana,Maize,1963
+2022-11,Telangana,"Maize (Hybrid)",2149
+2022-11,Bihar,"Maize (White)",2075
+2022-11,Bihar,"Maize (Yellow)",2325
+2022-11,Gujarat,"Maize (Yellow)",2304
+2022-11,Gujarat,"Maize (White)",2363
+2022-12,Telangana,Maize,2040
+2022-12,Telangana,"Maize (Hybrid)",2044
+2022-12,Bihar,"Maize (White)",2142
+2022-12,Bihar,"Maize (Yellow)",2044
+2022-12,Gujarat,"Maize (Yellow)",2417
+2022-12,Gujarat,"Maize (White)",2580
+2022-01,"Andhra Pradesh",Maize,2288
+2022-01,"Jammu & Kashmir","Maize (Superior)",2125
+2022-01,Karnataka,Maize,1947
+2022-01,Karnataka,"Maize (Hybrid)",1744
+2022-02,"Andhra Pradesh",Maize,2488
+2022-02,"Jammu & Kashmir","Maize (Superior)",2263
+2022-02,Karnataka,Maize,2012
+2022-02,Karnataka,"Maize (Hybrid)",1834
+2022-03,"Andhra Pradesh",Maize,2300
+2022-03,"Jammu & Kashmir","Maize (Superior)",2500
+2022-03,Karnataka,Maize,2163
+2022-03,Karnataka,"Maize (Hybrid)",2015
+2022-04,"Andhra Pradesh",Maize,2380
+2022-04,"Jammu & Kashmir","Maize (Superior)",2640
+2022-04,Karnataka,Maize,2250
+2022-04,Karnataka,"Maize (Hybrid)",2145
+2022-05,"Andhra Pradesh",Maize,2413
+2022-05,"Jammu & Kashmir","Maize (Superior)",2675
+2022-05,Karnataka,Maize,2167
+2022-05,Karnataka,"Maize (Hybrid)",2134
+2022-06,"Andhra Pradesh",Maize,2200
+2022-06,"Jammu & Kashmir","Maize (Superior)",2700
+2022-06,Karnataka,Maize,2040
+2022-06,Karnataka,"Maize (Hybrid)",2130
+2022-07,"Andhra Pradesh",Maize,2160
+2022-07,"Jammu & Kashmir","Maize (Superior)",2660
+2022-07,Karnataka,Maize,2256
+2022-07,Karnataka,"Maize (Hybrid)",2232
+2022-08,"Andhra Pradesh",Maize,2400
+2022-08,"Jammu & Kashmir","Maize (Superior)",2600
+2022-08,Karnataka,Maize,2458
+2022-08,Karnataka,"Maize (Hybrid)",2396
+2022-09,"Andhra Pradesh",Maize,2340
+2022-09,"Jammu & Kashmir","Maize (Superior)",2600
+2022-09,Karnataka,Maize,2408
+2022-09,Karnataka,"Maize (Hybrid)",2230
+2022-10,"Andhra Pradesh",Maize,2325
+2022-10,"Jammu & Kashmir","Maize (Superior)",2425
+2022-10,Karnataka,Maize,2118
+2022-10,Karnataka,"Maize (Hybrid)",1974
+2022-11,"Andhra Pradesh",Maize,2300
+2022-11,"Jammu & Kashmir","Maize (Superior)",2400
+2022-11,Karnataka,Maize,2244
+2022-11,Karnataka,"Maize (Hybrid)",2046
+2022-12,"Andhra Pradesh",Maize,2360
+2022-12,"Jammu & Kashmir","Maize (Superior)",2400
+2022-12,Karnataka,Maize,2260
+2022-12,Karnataka,"Maize (Hybrid)",2153
+2022-01,"Madhya Pradesh","Maize (White)",1688
+2022-01,"Madhya Pradesh",Maize,1736
+2022-01,Assam,"Maize (Common)",1700
+2022-01,Rajasthan,"Maize (Red)",1798
+2022-01,Rajasthan,"Maize (Yellow)",1880
+2022-01,Rajasthan,Maize,1741
+2022-02,"Madhya Pradesh","Maize (White)",1688
+2022-02,"Madhya Pradesh",Maize,1861
+2022-02,Assam,"Maize (Common)",1850
+2022-02,Rajasthan,"Maize (Red)",1870
+2022-02,Rajasthan,"Maize (Yellow)",1879
+2022-02,Rajasthan,Maize,1847
+2022-03,"Madhya Pradesh","Maize (White)",1788
+2022-03,"Madhya Pradesh",Maize,1934
+2022-03,Assam,"Maize (Common)",2200
+2022-03,Rajasthan,"Maize (Red)",2044
+2022-03,Rajasthan,"Maize (Yellow)",1947
+2022-03,Rajasthan,Maize,1955
+2022-04,"Madhya Pradesh","Maize (White)",1820
+2022-04,"Madhya Pradesh",Maize,1990
+2022-04,Assam,"Maize (Common)",2180
+2022-04,Rajasthan,"Maize (Red)",2194
+2022-04,Rajasthan,"Maize (Yellow)",2068
+2022-04,Rajasthan,Maize,2171
+2022-05,"Madhya Pradesh","Maize (White)",1978
+2022-05,"Madhya Pradesh",Maize,2075
+2022-05,Assam,"Maize (Common)",2150
+2022-05,Rajasthan,"Maize (Red)",2163
+2022-05,Rajasthan,"Maize (Yellow)",2177
+2022-05,Rajasthan,Maize,2144
+2022-06,"Madhya Pradesh","Maize (White)",1869
+2022-06,"Madhya Pradesh",Maize,1978
+2022-06,Assam,"Maize (Common)",2150
+2022-06,Rajasthan,"Maize (Red)",2045
+2022-06,Rajasthan,"Maize (Yellow)",2179
+2022-06,Rajasthan,Maize,2148
+2022-07,"Madhya Pradesh","Maize (White)",1883
+2022-07,"Madhya Pradesh",Maize,2052
+2022-07,Assam,"Maize (Common)",2150
+2022-07,Rajasthan,"Maize (Red)",2277
+2022-07,Rajasthan,"Maize (Yellow)",2285
+2022-07,Rajasthan,Maize,2061
+2022-08,"Madhya Pradesh","Maize (White)",1900
+2022-08,"Madhya Pradesh",Maize,2121
+2022-08,Assam,"Maize (Common)",2150
+2022-08,Rajasthan,"Maize (Red)",2279
+2022-08,Rajasthan,"Maize (Yellow)",2319
+2022-08,Rajasthan,Maize,2156
+2022-09,"Madhya Pradesh","Maize (White)",2130
+2022-09,"Madhya Pradesh",Maize,2222
+2022-09,Assam,"Maize (Common)",2150
+2022-09,Rajasthan,"Maize (Red)",2222
+2022-09,Rajasthan,"Maize (Yellow)",2187
+2022-09,Rajasthan,Maize,2058
+2022-10,"Madhya Pradesh","Maize (White)",1814
+2022-10,"Madhya Pradesh",Maize,1968
+2022-10,Assam,"Maize (Common)",2150
+2022-10,Rajasthan,"Maize (Red)",2001
+2022-10,Rajasthan,"Maize (Yellow)",2097
+2022-10,Rajasthan,Maize,1853
+2022-11,"Madhya Pradesh","Maize (White)",1967
+2022-11,"Madhya Pradesh",Maize,2005
+2022-11,Assam,"Maize (Common)",2150
+2022-11,Rajasthan,"Maize (Red)",1801
+2022-11,Rajasthan,"Maize (Yellow)",2203
+2022-11,Rajasthan,Maize,1888
+2022-12,"Madhya Pradesh","Maize (White)",1750
+2022-12,"Madhya Pradesh",Maize,1932
+2022-12,Assam,"Maize (Common)",2220
+2022-12,Rajasthan,"Maize (Red)",2242
+2022-12,Rajasthan,"Maize (Yellow)",2177
+2022-12,Rajasthan,Maize,2046
+2022-01,Telangana,"Wheat (Bansi)",2850
+2022-02,Telangana,"Wheat (Bansi)",2825
+2022-03,Telangana,"Wheat (Bansi)",2975
+2022-04,Telangana,"Wheat (Bansi)",3080
+2022-05,Telangana,"Wheat (Bansi)",2975
+2022-06,Telangana,"Wheat (Bansi)",2800
+2022-07,Telangana,"Wheat (Bansi)",2760
+2022-08,Telangana,"Wheat (Bansi)",2650
+2022-09,Telangana,"Wheat (Bansi)",2540
+2022-10,Telangana,"Wheat (Bansi)",2775
+2022-11,Telangana,"Wheat (Bansi)",3200
+2022-12,Telangana,"Wheat (Bansi)",3440
+2022-01,"Andhra Pradesh","Wheat (Bansi)",3425
+2022-01,Bihar,"Wheat (FAQ)",2490
+2022-01,Bihar,"Wheat (308)",2258
+2022-01,Gujarat,"Wheat (White)",2025
+2022-01,Gujarat,"Wheat (Lokvan)",2085
+2022-02,"Andhra Pradesh","Wheat (Bansi)",3350
+2022-02,Bihar,"Wheat (FAQ)",2450
+2022-02,Bihar,"Wheat (308)",2215
+2022-02,Gujarat,"Wheat (White)",2013
+2022-02,Gujarat,"Wheat (Lokvan)",2090
+2022-03,"Andhra Pradesh","Wheat (Bansi)",3500
+2022-03,Bihar,"Wheat (FAQ)",2450
+2022-03,Bihar,"Wheat (308)",2290
+2022-03,Gujarat,"Wheat (White)",2176
+2022-03,Gujarat,"Wheat (Lokvan)",2309
+2022-04,"Andhra Pradesh","Wheat (Bansi)",3560
+2022-04,Bihar,"Wheat (FAQ)",2516
+2022-04,Bihar,"Wheat (308)",2330
+2022-04,Gujarat,"Wheat (White)",2570
+2022-04,Gujarat,"Wheat (Lokvan)",2298
+2022-05,"Andhra Pradesh","Wheat (Bansi)",3600
+2022-05,Bihar,"Wheat (FAQ)",2523
+2022-05,Bihar,"Wheat (308)",2250
+2022-05,Gujarat,"Wheat (White)",2363
+2022-05,Gujarat,"Wheat (Lokvan)",2284
+2022-06,"Andhra Pradesh","Wheat (Bansi)",2963
+2022-06,Bihar,"Wheat (FAQ)",2575
+2022-06,Bihar,"Wheat (308)",2268
+2022-06,Gujarat,"Wheat (White)",2281
+2022-06,Gujarat,"Wheat (Lokvan)",2206
+2022-07,"Andhra Pradesh","Wheat (Bansi)",2840
+2022-07,Bihar,"Wheat (FAQ)",2632
+2022-07,Bihar,"Wheat (308)",2366
+2022-07,Gujarat,"Wheat (White)",2206
+2022-07,Gujarat,"Wheat (Lokvan)",2230
+2022-08,"Andhra Pradesh","Wheat (Bansi)",3250
+2022-08,Bihar,"Wheat (FAQ)",2728
+2022-08,Bihar,"Wheat (308)",2478
+2022-08,Gujarat,"Wheat (White)",2231
+2022-08,Gujarat,"Wheat (Lokvan)",2341
+2022-09,"Andhra Pradesh","Wheat (Bansi)",3120
+2022-09,Bihar,"Wheat (FAQ)",2774
+2022-09,Bihar,"Wheat (308)",2500
+2022-09,Gujarat,"Wheat (White)",2303
+2022-09,Gujarat,"Wheat (Lokvan)",2351
+2022-10,"Andhra Pradesh","Wheat (Bansi)",3000
+2022-10,Bihar,"Wheat (FAQ)",2800
+2022-10,Bihar,"Wheat (308)",2480
+2022-10,Gujarat,"Wheat (White)",2343
+2022-10,Gujarat,"Wheat (Lokvan)",2413
+2022-11,"Andhra Pradesh","Wheat (Bansi)",3050
+2022-11,Bihar,"Wheat (FAQ)",2908
+2022-11,Bihar,"Wheat (308)",2570
+2022-11,Gujarat,"Wheat (White)",2663
+2022-11,Gujarat,"Wheat (Lokvan)",2555
+2022-12,"Andhra Pradesh","Wheat (Bansi)",3040
+2022-12,Bihar,"Wheat (FAQ)",2980
+2022-12,Bihar,"Wheat (308)",2798
+2022-12,Gujarat,"Wheat (White)",2684
+2022-12,Gujarat,"Wheat (Lokvan)",2611
+2022-01,Gujarat,"Wheat (J 17)",1925
+2022-01,Gujarat,"Wheat (Desi)",2058
+2022-01,Haryana,Wheat,-1
+2022-01,Haryana,"Wheat (Mexicon)",2038
+2022-01,"Jammu & Kashmir","Wheat (Local)",2150
+2022-02,Gujarat,"Wheat (J 17)",1956
+2022-02,Gujarat,"Wheat (Desi)",2147
+2022-02,Haryana,Wheat,-1
+2022-02,Haryana,"Wheat (Mexicon)",2055
+2022-02,"Jammu & Kashmir","Wheat (Local)",2300
+2022-03,Gujarat,"Wheat (J 17)",2256
+2022-03,Gujarat,"Wheat (Desi)",2208
+2022-03,Haryana,Wheat,-1
+2022-03,Haryana,"Wheat (Mexicon)",2130
+2022-03,"Jammu & Kashmir","Wheat (Local)",2000
+2022-04,Gujarat,"Wheat (J 17)",2930
+2022-04,Gujarat,"Wheat (Desi)",2702
+2022-04,Haryana,Wheat,-1
+2022-04,Haryana,"Wheat (Mexicon)",2056
+2022-04,"Jammu & Kashmir","Wheat (Local)",2000
+2022-05,Gujarat,"Wheat (J 17)",2531
+2022-05,Gujarat,"Wheat (Desi)",2550
+2022-05,Haryana,Wheat,2015
+2022-05,Haryana,"Wheat (Mexicon)",2058
+2022-05,"Jammu & Kashmir","Wheat (Local)",2500
+2022-06,Gujarat,"Wheat (J 17)",2175
+2022-06,Gujarat,"Wheat (Desi)",2459
+2022-06,Haryana,Wheat,2015
+2022-06,Haryana,"Wheat (Mexicon)",1983
+2022-06,"Jammu & Kashmir","Wheat (Local)",2400
+2022-07,Gujarat,"Wheat (J 17)",2105
+2022-07,Gujarat,"Wheat (Desi)",2281
+2022-07,Haryana,Wheat,2032
+2022-07,Haryana,"Wheat (Mexicon)",2043
+2022-07,"Jammu & Kashmir","Wheat (Local)",2440
+2022-08,Gujarat,"Wheat (J 17)",2083
+2022-08,Gujarat,"Wheat (Desi)",2341
+2022-08,Haryana,Wheat,2165
+2022-08,Haryana,"Wheat (Mexicon)",2225
+2022-08,"Jammu & Kashmir","Wheat (Local)",2750
+2022-09,Gujarat,"Wheat (J 17)",2159
+2022-09,Gujarat,"Wheat (Desi)",2339
+2022-09,Haryana,Wheat,2232
+2022-09,Haryana,"Wheat (Mexicon)",2210
+2022-09,"Jammu & Kashmir","Wheat (Local)",2860
+2022-10,Gujarat,"Wheat (J 17)",2313
+2022-10,Gujarat,"Wheat (Desi)",2424
+2022-10,Haryana,Wheat,2318
+2022-10,Haryana,"Wheat (Mexicon)",2335
+2022-10,"Jammu & Kashmir","Wheat (Local)",2150
+2022-11,Gujarat,"Wheat (J 17)",2300
+2022-11,Gujarat,"Wheat (Desi)",2653
+2022-11,Haryana,Wheat,2290
+2022-11,Haryana,"Wheat (Mexicon)",2513
+2022-11,"Jammu & Kashmir","Wheat (Local)",3000
+2022-12,Gujarat,"Wheat (J 17)",2420
+2022-12,Gujarat,"Wheat (Desi)",2857
+2022-12,Haryana,Wheat,2220
+2022-12,Haryana,"Wheat (Mexicon)",2588
+2022-12,"Jammu & Kashmir","Wheat (Local)",3000
+2022-01,Karnataka,Wheat,2813
+2022-01,"Madhya Pradesh","Wheat (Local)",1972
+2022-01,"Madhya Pradesh","Wheat (Common)",1906
+2022-01,Maharashtra,"Wheat (227)",1938
+2022-01,Maharashtra,"Wheat (Kalyan Sona)",1988
+2022-02,Karnataka,Wheat,2600
+2022-02,"Madhya Pradesh","Wheat (Local)",1958
+2022-02,"Madhya Pradesh","Wheat (Common)",1917
+2022-02,Maharashtra,"Wheat (227)",1988
+2022-02,Maharashtra,"Wheat (Kalyan Sona)",1950
+2022-03,Karnataka,Wheat,3218
+2022-03,"Madhya Pradesh","Wheat (Local)",2105
+2022-03,"Madhya Pradesh","Wheat (Common)",2079
+2022-03,Maharashtra,"Wheat (227)",2213
+2022-03,Maharashtra,"Wheat (Kalyan Sona)",2288
+2022-04,Karnataka,Wheat,2850
+2022-04,"Madhya Pradesh","Wheat (Local)",2070
+2022-04,"Madhya Pradesh","Wheat (Common)",2015
+2022-04,Maharashtra,"Wheat (227)",2310
+2022-04,Maharashtra,"Wheat (Kalyan Sona)",2240
+2022-05,Karnataka,Wheat,3288
+2022-05,"Madhya Pradesh","Wheat (Local)",2036
+2022-05,"Madhya Pradesh","Wheat (Common)",2053
+2022-05,Maharashtra,"Wheat (227)",2350
+2022-05,Maharashtra,"Wheat (Kalyan Sona)",2250
+2022-06,Karnataka,Wheat,3094
+2022-06,"Madhya Pradesh","Wheat (Local)",1987
+2022-06,"Madhya Pradesh","Wheat (Common)",1975
+2022-06,Maharashtra,"Wheat (227)",2300
+2022-06,Maharashtra,"Wheat (Kalyan Sona)",2100
+2022-07,Karnataka,Wheat,3100
+2022-07,"Madhya Pradesh","Wheat (Local)",2143
+2022-07,"Madhya Pradesh","Wheat (Common)",2095
+2022-07,Maharashtra,"Wheat (227)",2300
+2022-07,Maharashtra,"Wheat (Kalyan Sona)",2100
+2022-08,Karnataka,Wheat,3325
+2022-08,"Madhya Pradesh","Wheat (Local)",2304
+2022-08,"Madhya Pradesh","Wheat (Common)",2295
+2022-08,Maharashtra,"Wheat (227)",2438
+2022-08,Maharashtra,"Wheat (Kalyan Sona)",2275
+2022-09,Karnataka,Wheat,3330
+2022-09,"Madhya Pradesh","Wheat (Local)",2280
+2022-09,"Madhya Pradesh","Wheat (Common)",2235
+2022-09,Maharashtra,"Wheat (227)",2390
+2022-09,Maharashtra,"Wheat (Kalyan Sona)",2360
+2022-10,Karnataka,Wheat,3663
+2022-10,"Madhya Pradesh","Wheat (Local)",2362
+2022-10,"Madhya Pradesh","Wheat (Common)",2283
+2022-10,Maharashtra,"Wheat (227)",2438
+2022-10,Maharashtra,"Wheat (Kalyan Sona)",2513
+2022-11,Karnataka,Wheat,3575
+2022-11,"Madhya Pradesh","Wheat (Local)",2495
+2022-11,"Madhya Pradesh","Wheat (Common)",2463
+2022-11,Maharashtra,"Wheat (227)",2650
+2022-11,Maharashtra,"Wheat (Kalyan Sona)",2600
+2022-12,Karnataka,Wheat,3690
+2022-12,"Madhya Pradesh","Wheat (Local)",2597
+2022-12,"Madhya Pradesh","Wheat (Common)",2549
+2022-12,Maharashtra,"Wheat (227)",2740
+2022-12,Maharashtra,"Wheat (Kalyan Sona)",2570
+2022-01,Delhi,"Wheat (Dora)",2100
+2022-01,Odisha,"Wheat (Common)",2600
+2022-01,Punjab,"Wheat (PBW 343)",2098
+2022-01,Rajasthan,"Wheat (FAQ)",2204
+2022-01,Rajasthan,"Wheat (Kalyan)",1953
+2022-01,"Tamil Nadu",Wheat,3488
+2022-02,Delhi,"Wheat (Dora)",2100
+2022-02,Odisha,"Wheat (Common)",2600
+2022-02,Punjab,"Wheat (PBW 343)",2241
+2022-02,Rajasthan,"Wheat (FAQ)",2204
+2022-02,Rajasthan,"Wheat (Kalyan)",1988
+2022-02,"Tamil Nadu",Wheat,3475
+2022-03,Delhi,"Wheat (Dora)",2100
+2022-03,Odisha,"Wheat (Common)",2600
+2022-03,Punjab,"Wheat (PBW 343)",2353
+2022-03,Rajasthan,"Wheat (FAQ)",2308
+2022-03,Rajasthan,"Wheat (Kalyan)",2025
+2022-03,"Tamil Nadu",Wheat,3475
+2022-04,Delhi,"Wheat (Dora)",2140
+2022-04,Odisha,"Wheat (Common)",2600
+2022-04,Punjab,"Wheat (PBW 343)",2090
+2022-04,Rajasthan,"Wheat (FAQ)",2355
+2022-04,Rajasthan,"Wheat (Kalyan)",2097
+2022-04,"Tamil Nadu",Wheat,3530
+2022-05,Delhi,"Wheat (Dora)",2113
+2022-05,Odisha,"Wheat (Common)",2600
+2022-05,Punjab,"Wheat (PBW 343)",2020
+2022-05,Rajasthan,"Wheat (FAQ)",2613
+2022-05,Rajasthan,"Wheat (Kalyan)",2143
+2022-05,"Tamil Nadu",Wheat,3638
+2022-06,Delhi,"Wheat (Dora)",2113
+2022-06,Odisha,"Wheat (Common)",2600
+2022-06,Punjab,"Wheat (PBW 343)",2020
+2022-06,Rajasthan,"Wheat (FAQ)",2556
+2022-06,Rajasthan,"Wheat (Kalyan)",2148
+2022-06,"Tamil Nadu",Wheat,3525
+2022-07,Delhi,"Wheat (Dora)",2170
+2022-07,Odisha,"Wheat (Common)",2600
+2022-07,Punjab,"Wheat (PBW 343)",2143
+2022-07,Rajasthan,"Wheat (FAQ)",2482
+2022-07,Rajasthan,"Wheat (Kalyan)",2164
+2022-07,"Tamil Nadu",Wheat,3460
+2022-08,Delhi,"Wheat (Dora)",2200
+2022-08,Odisha,"Wheat (Common)",2600
+2022-08,Punjab,"Wheat (PBW 343)",2220
+2022-08,Rajasthan,"Wheat (FAQ)",2456
+2022-08,Rajasthan,"Wheat (Kalyan)",2190
+2022-08,"Tamil Nadu",Wheat,3375
+2022-09,Delhi,"Wheat (Dora)",2240
+2022-09,Odisha,"Wheat (Common)",2600
+2022-09,Punjab,"Wheat (PBW 343)",2275
+2022-09,Rajasthan,"Wheat (FAQ)",2491
+2022-09,Rajasthan,"Wheat (Kalyan)",2202
+2022-09,"Tamil Nadu",Wheat,3500
+2022-10,Delhi,"Wheat (Dora)",2269
+2022-10,Odisha,"Wheat (Common)",2600
+2022-10,Punjab,"Wheat (PBW 343)",2362
+2022-10,Rajasthan,"Wheat (FAQ)",2463
+2022-10,Rajasthan,"Wheat (Kalyan)",2155
+2022-10,"Tamil Nadu",Wheat,3450
+2022-11,Delhi,"Wheat (Dora)",2278
+2022-11,Odisha,"Wheat (Common)",2625
+2022-11,Punjab,"Wheat (PBW 343)",2495
+2022-11,Rajasthan,"Wheat (FAQ)",2519
+2022-11,Rajasthan,"Wheat (Kalyan)",2409
+2022-11,"Tamil Nadu",Wheat,3575
+2022-12,Delhi,"Wheat (Dora)",2280
+2022-12,Odisha,"Wheat (Common)",2700
+2022-12,Punjab,"Wheat (PBW 343)",2597
+2022-12,Rajasthan,"Wheat (FAQ)",2598
+2022-12,Rajasthan,"Wheat (Kalyan)",2472
+2022-12,"Tamil Nadu",Wheat,3860
+2022-01,"Uttar Pradesh","Wheat (Dara)",1960
+2022-01,Odisha,"Wheat (Good)",2125
+2022-01,"West Bengal","Wheat (Sonalika)",2090
+2022-02,"Uttar Pradesh","Wheat (Dara)",2021
+2022-02,Odisha,"Wheat (Good)",2056
+2022-02,"West Bengal","Wheat (Sonalika)",2093
+2022-03,"Uttar Pradesh","Wheat (Dara)",2100
+2022-03,Odisha,"Wheat (Good)",1975
+2022-03,"West Bengal","Wheat (Sonalika)",2100
+2022-04,"Uttar Pradesh","Wheat (Dara)",2063
+2022-04,Odisha,"Wheat (Good)",2025
+2022-04,"West Bengal","Wheat (Sonalika)",2100
+2022-05,"Uttar Pradesh","Wheat (Dara)",2148
+2022-05,Odisha,"Wheat (Good)",2048
+2022-05,"West Bengal","Wheat (Sonalika)",2100
+2022-06,"Uttar Pradesh","Wheat (Dara)",2089
+2022-06,Odisha,"Wheat (Good)",2029
+2022-06,"West Bengal","Wheat (Sonalika)",2100
+2022-07,"Uttar Pradesh","Wheat (Dara)",2112
+2022-07,Odisha,"Wheat (Good)",2049
+2022-07,"West Bengal","Wheat (Sonalika)",2150
+2022-08,"Uttar Pradesh","Wheat (Dara)",2304
+2022-08,Odisha,"Wheat (Good)",2213
+2022-08,"West Bengal","Wheat (Sonalika)",2255
+2022-09,"Uttar Pradesh","Wheat (Dara)",2337
+2022-09,Odisha,"Wheat (Good)",2336
+2022-09,"West Bengal","Wheat (Sonalika)",2356
+2022-10,"Uttar Pradesh","Wheat (Dara)",2395
+2022-10,Odisha,"Wheat (Good)",2363
+2022-10,"West Bengal","Wheat (Sonalika)",2383
+2022-11,"Uttar Pradesh","Wheat (Dara)",2509
+2022-11,Odisha,"Wheat (Good)",2450
+2022-11,"West Bengal","Wheat (Sonalika)",2470
+2022-12,"Uttar Pradesh","Wheat (Dara)",2680
+2022-12,Odisha,"Wheat (Good)",2634
+2022-12,"West Bengal","Wheat (Sonalika)",2580
+2022-01,Telangana,"Sugar (S-30)",3570
+2022-02,Telangana,"Sugar (S-30)",3580
+2022-03,Telangana,"Sugar (S-30)",3495
+2022-04,Telangana,"Sugar (S-30)",3488
+2022-05,Telangana,"Sugar (S-30)",3600
+2022-06,Telangana,"Sugar (S-30)",3600
+2022-07,Telangana,"Sugar (S-30)",3600
+2022-08,Telangana,"Sugar (S-30)",3670
+2022-09,Telangana,"Sugar (S-30)",3780
+2022-10,Telangana,"Sugar (S-30)",3780
+2022-11,Telangana,"Sugar (S-30)",3693
+2022-12,Telangana,"Sugar (S-30)",3658
+2022-01,"Andhra Pradesh","Sugar (S-30)",3975
+2022-02,"Andhra Pradesh","Sugar (S-30)",3763
+2022-03,"Andhra Pradesh","Sugar (S-30)",3790
+2022-04,"Andhra Pradesh","Sugar (S-30)",3820
+2022-05,"Andhra Pradesh","Sugar (S-30)",3900
+2022-06,"Andhra Pradesh","Sugar (S-30)",3850
+2022-07,"Andhra Pradesh","Sugar (S-30)",3700
+2022-08,"Andhra Pradesh","Sugar (S-30)",3688
+2022-09,"Andhra Pradesh","Sugar (S-30)",3740
+2022-10,"Andhra Pradesh","Sugar (S-30)",3800
+2022-11,"Andhra Pradesh","Sugar (S-30)",3800
+2022-12,"Andhra Pradesh","Sugar (S-30)",3820
+2022-01,Bihar,"Sugar (M-30)",4158
+2022-02,Bihar,"Sugar (M-30)",3955
+2022-03,Bihar,"Sugar (M-30)",3893
+2022-04,Bihar,"Sugar (M-30)",3848
+2022-05,Bihar,"Sugar (M-30)",3863
+2022-06,Bihar,"Sugar (M-30)",3950
+2022-07,Bihar,"Sugar (M-30)",3998
+2022-08,Bihar,"Sugar (M-30)",4020
+2022-09,Bihar,"Sugar (M-30)",4020
+2022-10,Bihar,"Sugar (M-30)",4020
+2022-11,Bihar,"Sugar (M-30)",4058
+2022-12,Bihar,"Sugar (M-30)",4092
+2022-01,Haryana,Sugar,3553
+2022-02,Haryana,Sugar,3567
+2022-03,Haryana,Sugar,3450
+2022-04,Haryana,Sugar,3533
+2022-05,Haryana,Sugar,3658
+2022-06,Haryana,Sugar,3700
+2022-07,Haryana,Sugar,3720
+2022-08,Haryana,Sugar,3745
+2022-09,Haryana,Sugar,3796
+2022-10,Haryana,Sugar,3900
+2022-11,Haryana,Sugar,3913
+2022-12,Haryana,Sugar,3926
+2022-01,Maharashtra,Sugar,3413
+2022-02,Maharashtra,Sugar,3375
+2022-03,Maharashtra,Sugar,3375
+2022-04,Maharashtra,Sugar,3540
+2022-05,Maharashtra,Sugar,3563
+2022-06,Maharashtra,Sugar,3525
+2022-07,Maharashtra,Sugar,3450
+2022-08,Maharashtra,Sugar,3538
+2022-09,Maharashtra,Sugar,3580
+2022-10,Maharashtra,Sugar,3550
+2022-11,Maharashtra,Sugar,3563
+2022-12,Maharashtra,Sugar,3540
+2022-01,Odisha,"Sugar (S-30)",3900
+2022-02,Odisha,"Sugar (S-30)",3700
+2022-03,Odisha,"Sugar (S-30)",3700
+2022-04,Odisha,"Sugar (S-30)",3700
+2022-05,Odisha,"Sugar (S-30)",3700
+2022-06,Odisha,"Sugar (S-30)",3700
+2022-07,Odisha,"Sugar (S-30)",3700
+2022-08,Odisha,"Sugar (S-30)",3700
+2022-09,Odisha,"Sugar (S-30)",3700
+2022-10,Odisha,"Sugar (S-30)",3700
+2022-11,Odisha,"Sugar (S-30)",3875
+2022-12,Odisha,"Sugar (S-30)",3870
+2022-01,Punjab,"Sugar (Large)",4100
+2022-02,Punjab,"Sugar (Large)",4000
+2022-03,Punjab,"Sugar (Large)",4042
+2022-04,Punjab,"Sugar (Large)",4020
+2022-05,Punjab,"Sugar (Large)",4038
+2022-06,Punjab,"Sugar (Large)",4038
+2022-07,Punjab,"Sugar (Large)",3946
+2022-08,Punjab,"Sugar (Large)",3970
+2022-09,Punjab,"Sugar (Large)",3938
+2022-10,Punjab,"Sugar (Large)",3955
+2022-11,Punjab,"Sugar (Large)",4000
+2022-12,Punjab,"Sugar (Large)",4000
+2022-01,"Tamil Nadu","Sugar (OP)",3688
+2022-02,"Tamil Nadu","Sugar (OP)",3600
+2022-03,"Tamil Nadu","Sugar (OP)",3600
+2022-04,"Tamil Nadu","Sugar (OP)",3690
+2022-05,"Tamil Nadu","Sugar (OP)",3763
+2022-06,"Tamil Nadu","Sugar (OP)",3738
+2022-07,"Tamil Nadu","Sugar (OP)",3680
+2022-08,"Tamil Nadu","Sugar (OP)",3688
+2022-09,"Tamil Nadu","Sugar (OP)",3760
+2022-10,"Tamil Nadu","Sugar (OP)",3700
+2022-11,"Tamil Nadu","Sugar (OP)",3700
+2022-12,"Tamil Nadu","Sugar (OP)",3700
+2022-01,"Uttar Pradesh","Sugar (M-30)",3794
+2022-02,"Uttar Pradesh","Sugar (M-30)",3779
+2022-03,"Uttar Pradesh","Sugar (M-30)",3846
+2022-04,"Uttar Pradesh","Sugar (M-30)",3843
+2022-05,"Uttar Pradesh","Sugar (M-30)",3834
+2022-06,"Uttar Pradesh","Sugar (M-30)",3823
+2022-07,"Uttar Pradesh","Sugar (M-30)",3868
+2022-08,"Uttar Pradesh","Sugar (M-30)",3895
+2022-09,"Uttar Pradesh","Sugar (M-30)",3935
+2022-10,"Uttar Pradesh","Sugar (M-30)",3931
+2022-11,"Uttar Pradesh","Sugar (M-30)",3818
+2022-12,"Uttar Pradesh","Sugar (M-30)",3725
+2022-01,"Uttar Pradesh","Sugar (desi)",3704
+2022-02,"Uttar Pradesh","Sugar (desi)",3744
+2022-03,"Uttar Pradesh","Sugar (desi)",3794
+2022-04,"Uttar Pradesh","Sugar (desi)",3759
+2022-05,"Uttar Pradesh","Sugar (desi)",3729
+2022-06,"Uttar Pradesh","Sugar (desi)",3725
+2022-07,"Uttar Pradesh","Sugar (desi)",3717
+2022-08,"Uttar Pradesh","Sugar (desi)",3743
+2022-09,"Uttar Pradesh","Sugar (desi)",3774
+2022-10,"Uttar Pradesh","Sugar (desi)",3744
+2022-11,"Uttar Pradesh","Sugar (desi)",3823
+2022-12,"Uttar Pradesh","Sugar (desi)",3753
+2022-01,"West Bengal","Sugar (Medium)",3891
+2022-02,"West Bengal","Sugar (Medium)",3869
+2022-03,"West Bengal","Sugar (Medium)",3858
+2022-04,"West Bengal","Sugar (Medium)",3885
+2022-05,"West Bengal","Sugar (Medium)",3910
+2022-06,"West Bengal","Sugar (Medium)",3920
+2022-07,"West Bengal","Sugar (Medium)",3895
+2022-08,"West Bengal","Sugar (Medium)",4005
+2022-09,"West Bengal","Sugar (Medium)",4008
+2022-10,"West Bengal","Sugar (Medium)",4029
+2022-11,"West Bengal","Sugar (Medium)",4031
+2022-12,"West Bengal","Sugar (Medium)",3999
+2022-01,Delhi,"Sugar (M-30)",3625
+2022-02,Delhi,"Sugar (M-30)",3738
+2022-03,Delhi,"Sugar (M-30)",3750
+2022-04,Delhi,"Sugar (M-30)",3750
+2022-05,Delhi,"Sugar (M-30)",3725
+2022-06,Delhi,"Sugar (M-30)",3563
+2022-07,Delhi,"Sugar (M-30)",3600
+2022-08,Delhi,"Sugar (M-30)",3600
+2022-09,Delhi,"Sugar (M-30)",3600
+2022-10,Delhi,"Sugar (M-30)",3625
+2022-11,Delhi,"Sugar (M-30)",3650
+2022-12,Delhi,"Sugar (M-30)",3650
+2022-01,Rajasthan,Soyabean,6040
+2022-01,"Uttar Pradesh","Soyabean (dara)",8050
+2022-01,"Uttar Pradesh","Soyabean (Yellow)",8000
+2022-01,Uttarakhand,"Soyabean (Medium)",7375
+2022-01,Uttarakhand,"Soyabean (FAQ)",7500
+2022-02,Rajasthan,Soyabean,6283
+2022-02,"Uttar Pradesh","Soyabean (dara)",7650
+2022-02,"Uttar Pradesh","Soyabean (Yellow)",7550
+2022-02,Uttarakhand,"Soyabean (Medium)",6775
+2022-02,Uttarakhand,"Soyabean (FAQ)",6913
+2022-03,Rajasthan,Soyabean,6900
+2022-03,"Uttar Pradesh","Soyabean (dara)",7663
+2022-03,"Uttar Pradesh","Soyabean (Yellow)",7538
+2022-03,Uttarakhand,"Soyabean (Medium)",6875
+2022-03,Uttarakhand,"Soyabean (FAQ)",7038
+2022-04,Rajasthan,Soyabean,6890
+2022-04,"Uttar Pradesh","Soyabean (dara)",7550
+2022-04,"Uttar Pradesh","Soyabean (Yellow)",7260
+2022-04,Uttarakhand,"Soyabean (Medium)",6775
+2022-04,Uttarakhand,"Soyabean (FAQ)",6955
+2022-05,Rajasthan,Soyabean,6781
+2022-05,"Uttar Pradesh","Soyabean (dara)",7788
+2022-05,"Uttar Pradesh","Soyabean (Yellow)",7563
+2022-05,Uttarakhand,"Soyabean (Medium)",6900
+2022-05,Uttarakhand,"Soyabean (FAQ)",7025
+2022-06,Rajasthan,Soyabean,6538
+2022-06,"Uttar Pradesh","Soyabean (dara)",7338
+2022-06,"Uttar Pradesh","Soyabean (Yellow)",7163
+2022-06,Uttarakhand,"Soyabean (Medium)",6550
+2022-06,Uttarakhand,"Soyabean (FAQ)",6638
+2022-07,Rajasthan,Soyabean,6010
+2022-07,"Uttar Pradesh","Soyabean (dara)",6850
+2022-07,"Uttar Pradesh","Soyabean (Yellow)",6842
+2022-07,Uttarakhand,"Soyabean (Medium)",6205
+2022-07,Uttarakhand,"Soyabean (FAQ)",6470
+2022-08,Rajasthan,Soyabean,5988
+2022-08,"Uttar Pradesh","Soyabean (dara)",6238
+2022-08,"Uttar Pradesh","Soyabean (Yellow)",6200
+2022-08,Uttarakhand,"Soyabean (Medium)",5763
+2022-08,Uttarakhand,"Soyabean (FAQ)",6213
+2022-09,Rajasthan,Soyabean,5690
+2022-09,"Uttar Pradesh","Soyabean (dara)",5790
+2022-09,"Uttar Pradesh","Soyabean (Yellow)",5695
+2022-09,Uttarakhand,"Soyabean (Medium)",5515
+2022-09,Uttarakhand,"Soyabean (FAQ)",5730
+2022-10,Rajasthan,Soyabean,5025
+2022-10,"Uttar Pradesh","Soyabean (dara)",5025
+2022-10,"Uttar Pradesh","Soyabean (Yellow)",4933
+2022-10,Uttarakhand,"Soyabean (Medium)",5000
+2022-10,Uttarakhand,"Soyabean (FAQ)",5300
+2022-11,Rajasthan,Soyabean,5625
+2022-11,"Uttar Pradesh","Soyabean (dara)",5188
+2022-11,"Uttar Pradesh","Soyabean (Yellow)",5213
+2022-11,Uttarakhand,"Soyabean (Medium)",5269
+2022-11,Uttarakhand,"Soyabean (FAQ)",5688
+2022-12,Rajasthan,Soyabean,5522
+2022-12,"Uttar Pradesh","Soyabean (dara)",6126
+2022-12,"Uttar Pradesh","Soyabean (Yellow)",5990
+2022-12,Uttarakhand,"Soyabean (Medium)",6145
+2022-12,Uttarakhand,"Soyabean (FAQ)",6590
+2022-01,"Andhra Pradesh","Sunflower (Mahyco)",4112
+2022-02,"Andhra Pradesh","Sunflower (Mahyco)",5513
+2022-03,"Andhra Pradesh","Sunflower (Mahyco)",7288
+2022-04,"Andhra Pradesh","Sunflower (Mahyco)",6285
+2022-05,"Andhra Pradesh","Sunflower (Mahyco)",5423
+2022-06,"Andhra Pradesh","Sunflower (Mahyco)",4526
+2022-07,"Andhra Pradesh","Sunflower (Mahyco)",4720
+2022-08,"Andhra Pradesh","Sunflower (Mahyco)",5552
+2022-09,"Andhra Pradesh","Sunflower (Mahyco)",5870
+2022-10,"Andhra Pradesh","Sunflower (Mahyco)",5354
+2022-11,"Andhra Pradesh","Sunflower (Mahyco)",5403
+2022-12,"Andhra Pradesh","Sunflower (Mahyco)",5595
+2022-01,Karnataka,Sunflower,4710
+2022-02,Karnataka,Sunflower,6158
+2022-03,Karnataka,Sunflower,7313
+2022-04,Karnataka,Sunflower,7315
+2022-05,Karnataka,Sunflower,6693
+2022-06,Karnataka,Sunflower,5693
+2022-07,Karnataka,Sunflower,5250
+2022-08,Karnataka,Sunflower,5675
+2022-09,Karnataka,Sunflower,5143
+2022-10,Karnataka,Sunflower,6110
+2022-11,Karnataka,Sunflower,6160
+2022-12,Karnataka,Sunflower,5578
+2022-01,Maharashtra,Sunflower,4825
+2022-02,Maharashtra,Sunflower,4900
+2022-03,Maharashtra,Sunflower,6375
+2022-04,Maharashtra,Sunflower,6620
+2022-05,Maharashtra,Sunflower,6413
+2022-06,Maharashtra,Sunflower,5338
+2022-07,Maharashtra,Sunflower,5160
+2022-08,Maharashtra,Sunflower,5063
+2022-09,Maharashtra,Sunflower,4490
+2022-10,Maharashtra,Sunflower,4100
+2022-11,Maharashtra,Sunflower,4867
+2022-12,Maharashtra,Sunflower,5150
+2022-01,"Tamil Nadu","Sunflower (TMK)",7000
+2022-02,"Tamil Nadu","Sunflower (TMK)",6625
+2022-03,"Tamil Nadu","Sunflower (TMK)",6750
+2022-04,"Tamil Nadu","Sunflower (TMK)",7800
+2022-05,"Tamil Nadu","Sunflower (TMK)",8000
+2022-06,"Tamil Nadu","Sunflower (TMK)",8000
+2022-07,"Tamil Nadu","Sunflower (TMK)",7380
+2022-08,"Tamil Nadu","Sunflower (TMK)",6750
+2022-09,"Tamil Nadu","Sunflower (TMK)",6320
+2022-10,"Tamil Nadu","Sunflower (TMK)",6000
+2022-11,"Tamil Nadu","Sunflower (TMK)",5800
+2022-12,"Tamil Nadu","Sunflower (TMK)",5780
+2022-01,"Madhya Pradesh","Cotton (Fine)",8868
+2022-01,Karnataka,"Cotton (Banni)",9599
+2022-01,Karnataka,Cotton,-1
+2022-01,Telangana,Cotton,9413
+2022-01,Rajasthan,"Cotton (Desi)",7639
+2022-01,"Tamil Nadu","Cotton (LRA)",9375
+2022-02,"Madhya Pradesh","Cotton (Fine)",8990
+2022-02,Karnataka,"Cotton (Banni)",9815
+2022-02,Karnataka,Cotton,-1
+2022-02,Telangana,Cotton,9488
+2022-02,Rajasthan,"Cotton (Desi)",8043
+2022-02,"Tamil Nadu","Cotton (LRA)",9500
+2022-03,"Madhya Pradesh","Cotton (Fine)",8861
+2022-03,Karnataka,"Cotton (Banni)",9695
+2022-03,Karnataka,Cotton,7900
+2022-03,Telangana,Cotton,9688
+2022-03,Rajasthan,"Cotton (Desi)",8154
+2022-03,"Tamil Nadu","Cotton (LRA)",9400
+2022-04,"Madhya Pradesh","Cotton (Fine)",9320
+2022-04,Karnataka,"Cotton (Banni)",10892
+2022-04,Karnataka,Cotton,-1
+2022-04,Telangana,Cotton,10410
+2022-04,Rajasthan,"Cotton (Desi)",8625
+2022-04,"Tamil Nadu","Cotton (LRA)",9760
+2022-05,"Madhya Pradesh","Cotton (Fine)",9137
+2022-05,Karnataka,"Cotton (Banni)",11968
+2022-05,Karnataka,Cotton,-1
+2022-05,Telangana,Cotton,11225
+2022-05,Rajasthan,"Cotton (Desi)",9280
+2022-05,"Tamil Nadu","Cotton (LRA)",10250
+2022-06,"Madhya Pradesh","Cotton (Fine)",7300
+2022-06,Karnataka,"Cotton (Banni)",11015
+2022-06,Karnataka,Cotton,-1
+2022-06,Telangana,Cotton,10375
+2022-06,Rajasthan,"Cotton (Desi)",10845
+2022-06,"Tamil Nadu","Cotton (LRA)",9050
+2022-07,"Madhya Pradesh","Cotton (Fine)",-1
+2022-07,Karnataka,"Cotton (Banni)",9305
+2022-07,Karnataka,Cotton,7330
+2022-07,Telangana,Cotton,9460
+2022-07,Rajasthan,"Cotton (Desi)",11149
+2022-07,"Tamil Nadu","Cotton (LRA)",8380
+2022-08,"Madhya Pradesh","Cotton (Fine)",-1
+2022-08,Karnataka,"Cotton (Banni)",10103
+2022-08,Karnataka,Cotton,9840
+2022-08,Telangana,Cotton,10475
+2022-08,Rajasthan,"Cotton (Desi)",11417
+2022-08,"Tamil Nadu","Cotton (LRA)",9500
+2022-09,"Madhya Pradesh","Cotton (Fine)",7301
+2022-09,Karnataka,"Cotton (Banni)",9141
+2022-09,Karnataka,Cotton,8796
+2022-09,Telangana,Cotton,8800
+2022-09,Rajasthan,"Cotton (Desi)",8100
+2022-09,"Tamil Nadu","Cotton (LRA)",8770
+2022-10,"Madhya Pradesh","Cotton (Fine)",8010
+2022-10,Karnataka,"Cotton (Banni)",8555
+2022-10,Karnataka,Cotton,7398
+2022-10,Telangana,Cotton,7275
+2022-10,Rajasthan,"Cotton (Desi)",8361
+2022-10,"Tamil Nadu","Cotton (LRA)",7250
+2022-11,"Madhya Pradesh","Cotton (Fine)",8619
+2022-11,Karnataka,"Cotton (Banni)",9055
+2022-11,Karnataka,Cotton,6885
+2022-11,Telangana,Cotton,7375
+2022-11,Rajasthan,"Cotton (Desi)",9450
+2022-11,"Tamil Nadu","Cotton (LRA)",6300
+2022-12,"Madhya Pradesh","Cotton (Fine)",8310
+2022-12,Karnataka,"Cotton (Banni)",8480
+2022-12,Karnataka,Cotton,7531
+2022-12,Telangana,Cotton,7780
+2022-12,Rajasthan,"Cotton (Desi)",9442
+2022-12,"Tamil Nadu","Cotton (LRA)",7380
+2022-01,"Andhra Pradesh","Cotton (Hybrid)",8696
+2022-02,"Andhra Pradesh","Cotton (Hybrid)",9143
+2022-03,"Andhra Pradesh","Cotton (Hybrid)",8774
+2022-04,"Andhra Pradesh","Cotton (Hybrid)",9960
+2022-05,"Andhra Pradesh","Cotton (Hybrid)",11754
+2022-06,"Andhra Pradesh","Cotton (Hybrid)",10603
+2022-07,"Andhra Pradesh","Cotton (Hybrid)",9962
+2022-08,"Andhra Pradesh","Cotton (Hybrid)",10352
+2022-09,"Andhra Pradesh","Cotton (Hybrid)",9367
+2022-10,"Andhra Pradesh","Cotton (Hybrid)",8286
+2022-11,"Andhra Pradesh","Cotton (Hybrid)",8283
+2022-12,"Andhra Pradesh","Cotton (Hybrid)",8071
+2022-01,"Andhra Pradesh",Cotton,6975
+2022-02,"Andhra Pradesh",Cotton,8500
+2022-03,"Andhra Pradesh",Cotton,8875
+2022-04,"Andhra Pradesh",Cotton,9000
+2022-05,"Andhra Pradesh",Cotton,9250
+2022-06,"Andhra Pradesh",Cotton,10300
+2022-07,"Andhra Pradesh",Cotton,8920
+2022-08,"Andhra Pradesh",Cotton,8000
+2022-09,"Andhra Pradesh",Cotton,7820
+2022-10,"Andhra Pradesh",Cotton,7550
+2022-11,"Andhra Pradesh",Cotton,7625
+2022-12,"Andhra Pradesh",Cotton,7920
+2022-01,Gujarat,Cotton,9225
+2022-02,Gujarat,Cotton,9700
+2022-03,Gujarat,Cotton,9400
+2022-04,Gujarat,Cotton,10220
+2022-05,Gujarat,Cotton,10825
+2022-06,Gujarat,Cotton,10025
+2022-07,Gujarat,Cotton,9180
+2022-08,Gujarat,Cotton,9500
+2022-09,Gujarat,Cotton,8200
+2022-10,Gujarat,Cotton,8438
+2022-11,Gujarat,Cotton,8925
+2022-12,Gujarat,Cotton,8600
+2022-01,Gujarat,"Cotton (Shankar-6)",8388
+2022-02,Gujarat,"Cotton (Shankar-6)",9250
+2022-03,Gujarat,"Cotton (Shankar-6)",8813
+2022-04,Gujarat,"Cotton (Shankar-6)",9050
+2022-05,Gujarat,"Cotton (Shankar-6)",8365
+2022-06,Gujarat,"Cotton (Shankar-6)",7563
+2022-07,Gujarat,"Cotton (Shankar-6)",6860
+2022-08,Gujarat,"Cotton (Shankar-6)",6488
+2022-09,Gujarat,"Cotton (Shankar-6)",6480
+2022-10,Gujarat,"Cotton (Shankar-6)",8125
+2022-11,Gujarat,"Cotton (Shankar-6)",8631
+2022-12,Gujarat,"Cotton (Shankar-6)",9290
+2022-01,"Uttar Pradesh","Cotton (Desi)",8413
+2022-02,"Uttar Pradesh","Cotton (Desi)",8813
+2022-03,"Uttar Pradesh","Cotton (Desi)",9013
+2022-04,"Uttar Pradesh","Cotton (Desi)",8730
+2022-05,"Uttar Pradesh","Cotton (Desi)",8365
+2022-06,"Uttar Pradesh","Cotton (Desi)",7563
+2022-07,"Uttar Pradesh","Cotton (Desi)",6860
+2022-08,"Uttar Pradesh","Cotton (Desi)",6488
+2022-09,"Uttar Pradesh","Cotton (Desi)",6480
+2022-10,"Uttar Pradesh","Cotton (Desi)",8125
+2022-11,"Uttar Pradesh","Cotton (Desi)",8631
+2022-12,"Uttar Pradesh","Cotton (Desi)",9290
+2022-01,Haryana,"Cotton (American)",9518
+2022-02,Haryana,"Cotton (American)",9795
+2022-03,Haryana,"Cotton (American)",9728
+2022-04,Haryana,"Cotton (American)",11480
+2022-05,Haryana,"Cotton (American)",12748
+2022-06,Haryana,"Cotton (American)",11895
+2022-07,Haryana,"Cotton (American)",9590
+2022-08,Haryana,"Cotton (American)",9853
+2022-09,Haryana,"Cotton (American)",9460
+2022-10,Haryana,"Cotton (American)",8740
+2022-11,Haryana,"Cotton (American)",8648
+2022-12,Haryana,"Cotton (American)",8506
+2022-01,Bihar,"Gram (Desi)",5635
+2022-02,Bihar,"Gram (Desi)",5580
+2022-03,Bihar,"Gram (Desi)",5543
+2022-04,Bihar,"Gram (Desi)",5548
+2022-05,Bihar,"Gram (Desi)",5458
+2022-06,Bihar,"Gram (Desi)",5433
+2022-07,Bihar,"Gram (Desi)",5258
+2022-08,Bihar,"Gram (Desi)",5263
+2022-09,Bihar,"Gram (Desi)",5216
+2022-10,Bihar,"Gram (Desi)",5138
+2022-11,Bihar,"Gram (Desi)",5140
+2022-12,Bihar,"Gram (Desi)",5234
+2022-01,Bihar,Gram,5895
+2022-02,Bihar,Gram,5823
+2022-03,Bihar,Gram,5798
+2022-04,Bihar,Gram,5816
+2022-05,Bihar,Gram,5750
+2022-06,Bihar,Gram,5778
+2022-07,Bihar,Gram,5686
+2022-08,Bihar,Gram,5775
+2022-09,Bihar,Gram,5792
+2022-10,Bihar,Gram,5805
+2022-11,Bihar,Gram,5773
+2022-12,Bihar,Gram,5812
+2022-01,Gujarat,"Gram (Desi)",4729
+2022-02,Gujarat,"Gram (Desi)",4633
+2022-03,Gujarat,"Gram (Desi)",4769
+2022-04,Gujarat,"Gram (Desi)",4754
+2022-05,Gujarat,"Gram (Desi)",4533
+2022-06,Gujarat,"Gram (Desi)",4406
+2022-07,Gujarat,"Gram (Desi)",4593
+2022-08,Gujarat,"Gram (Desi)",4681
+2022-09,Gujarat,"Gram (Desi)",4515
+2022-10,Gujarat,"Gram (Desi)",4495
+2022-11,Gujarat,"Gram (Desi)",4485
+2022-12,Gujarat,"Gram (Desi)",4707
+2022-01,Haryana,"Gram (Desi)",4765
+2022-02,Haryana,"Gram (Desi)",4813
+2022-03,Haryana,"Gram (Desi)",4875
+2022-04,Haryana,"Gram (Desi)",4864
+2022-05,Haryana,"Gram (Desi)",4580
+2022-06,Haryana,"Gram (Desi)",4595
+2022-07,Haryana,"Gram (Desi)",4544
+2022-08,Haryana,"Gram (Desi)",4650
+2022-09,Haryana,"Gram (Desi)",4562
+2022-10,Haryana,"Gram (Desi)",4643
+2022-11,Haryana,"Gram (Desi)",4698
+2022-12,Haryana,"Gram (Desi)",4932
+2022-01,"Jammu & Kashmir","Gram (Black)",6000
+2022-02,"Jammu & Kashmir","Gram (Black)",5925
+2022-03,"Jammu & Kashmir","Gram (Black)",5875
+2022-04,"Jammu & Kashmir","Gram (Black)",5900
+2022-05,"Jammu & Kashmir","Gram (Black)",5800
+2022-06,"Jammu & Kashmir","Gram (Black)",5700
+2022-07,"Jammu & Kashmir","Gram (Black)",5900
+2022-08,"Jammu & Kashmir","Gram (Black)",6000
+2022-09,"Jammu & Kashmir","Gram (Black)",5920
+2022-10,"Jammu & Kashmir","Gram (Black)",5975
+2022-11,"Jammu & Kashmir","Gram (Black)",6000
+2022-12,"Jammu & Kashmir","Gram (Black)",6300
+2022-01,"Madhya Pradesh","Gram (Desi)",4450
+2022-02,"Madhya Pradesh","Gram (Desi)",4217
+2022-03,"Madhya Pradesh","Gram (Desi)",4482
+2022-04,"Madhya Pradesh","Gram (Desi)",4584
+2022-05,"Madhya Pradesh","Gram (Desi)",4273
+2022-06,"Madhya Pradesh","Gram (Desi)",4138
+2022-07,"Madhya Pradesh","Gram (Desi)",4189
+2022-08,"Madhya Pradesh","Gram (Desi)",4338
+2022-09,"Madhya Pradesh","Gram (Desi)",4073
+2022-10,"Madhya Pradesh","Gram (Desi)",4079
+2022-11,"Madhya Pradesh","Gram (Desi)",4169
+2022-12,"Madhya Pradesh","Gram (Desi)",4389
+2022-01,"Madhya Pradesh","Gram (No. 3)",4450
+2022-02,"Madhya Pradesh","Gram (No. 3)",4440
+2022-03,"Madhya Pradesh","Gram (No. 3)",4655
+2022-04,"Madhya Pradesh","Gram (No. 3)",4520
+2022-05,"Madhya Pradesh","Gram (No. 3)",4377
+2022-06,"Madhya Pradesh","Gram (No. 3)",4284
+2022-07,"Madhya Pradesh","Gram (No. 3)",4385
+2022-08,"Madhya Pradesh","Gram (No. 3)",4411
+2022-09,"Madhya Pradesh","Gram (No. 3)",4279
+2022-10,"Madhya Pradesh","Gram (No. 3)",4298
+2022-11,"Madhya Pradesh","Gram (No. 3)",4235
+2022-12,"Madhya Pradesh","Gram (No. 3)",4464
+2022-01,Maharashtra,Gram,3713
+2022-02,Maharashtra,Gram,4175
+2022-03,Maharashtra,Gram,4238
+2022-04,Maharashtra,Gram,4520
+2022-05,Maharashtra,Gram,4325
+2022-06,Maharashtra,Gram,4138
+2022-07,Maharashtra,Gram,4210
+2022-08,Maharashtra,Gram,4313
+2022-09,Maharashtra,Gram,4320
+2022-10,Maharashtra,Gram,4317
+2022-11,Maharashtra,Gram,4313
+2022-12,Maharashtra,Gram,4480
+2022-01,Maharashtra,"Gram (Garda)",5775
+2022-02,Maharashtra,"Gram (Garda)",5725
+2022-03,Maharashtra,"Gram (Garda)",5625
+2022-04,Maharashtra,"Gram (Garda)",5610
+2022-05,Maharashtra,"Gram (Garda)",5275
+2022-06,Maharashtra,"Gram (Garda)",5350
+2022-07,Maharashtra,"Gram (Garda)",5440
+2022-08,Maharashtra,"Gram (Garda)",5638
+2022-09,Maharashtra,"Gram (Garda)",5470
+2022-10,Maharashtra,"Gram (Garda)",5525
+2022-11,Maharashtra,"Gram (Garda)",5513
+2022-12,Maharashtra,"Gram (Garda)",5620
+2022-01,Punjab,"Gram (Black)",5900
+2022-02,Punjab,"Gram (Black)",5838
+2022-03,Punjab,"Gram (Black)",5850
+2022-04,Punjab,"Gram (Black)",5870
+2022-05,Punjab,"Gram (Black)",6150
+2022-06,Punjab,"Gram (Black)",6000
+2022-07,Punjab,"Gram (Black)",6000
+2022-08,Punjab,"Gram (Black)",6325
+2022-09,Punjab,"Gram (Black)",6080
+2022-10,Punjab,"Gram (Black)",5875
+2022-11,Punjab,"Gram (Black)",5805
+2022-12,Punjab,"Gram (Black)",5899
+2022-01,Rajasthan,Gram,4677
+2022-02,Rajasthan,Gram,4603
+2022-03,Rajasthan,Gram,4640
+2022-04,Rajasthan,Gram,4867
+2022-05,Rajasthan,Gram,4603
+2022-06,Rajasthan,Gram,4533
+2022-07,Rajasthan,Gram,4496
+2022-08,Rajasthan,Gram,4550
+2022-09,Rajasthan,Gram,4442
+2022-10,Rajasthan,Gram,4408
+2022-11,Rajasthan,Gram,4488
+2022-12,Rajasthan,Gram,4603
+2022-01,Rajasthan,"Gram (Local)",4631
+2022-02,Rajasthan,"Gram (Local)",4750
+2022-03,Rajasthan,"Gram (Local)",4706
+2022-04,Rajasthan,"Gram (Local)",4745
+2022-05,Rajasthan,"Gram (Local)",4800
+2022-06,Rajasthan,"Gram (Local)",4875
+2022-07,Rajasthan,"Gram (Local)",5015
+2022-08,Rajasthan,"Gram (Local)",5038
+2022-09,Rajasthan,"Gram (Local)",4990
+2022-10,Rajasthan,"Gram (Local)",4538
+2022-11,Rajasthan,"Gram (Local)",4776
+2022-12,Rajasthan,"Gram (Local)",4890
+2022-01,"Tamil Nadu",Gram,7600
+2022-02,"Tamil Nadu",Gram,7600
+2022-03,"Tamil Nadu",Gram,7600
+2022-04,"Tamil Nadu",Gram,8000
+2022-05,"Tamil Nadu",Gram,7675
+2022-06,"Tamil Nadu",Gram,7500
+2022-07,"Tamil Nadu",Gram,7280
+2022-08,"Tamil Nadu",Gram,7400
+2022-09,"Tamil Nadu",Gram,7600
+2022-10,"Tamil Nadu",Gram,7600
+2022-11,"Tamil Nadu",Gram,7600
+2022-12,"Tamil Nadu",Gram,7600
+2022-01,"Uttar Pradesh","Gram (Desi)",5619
+2022-02,"Uttar Pradesh","Gram (Desi)",5823
+2022-03,"Uttar Pradesh","Gram (Desi)",5903
+2022-04,"Uttar Pradesh","Gram (Desi)",5763
+2022-05,"Uttar Pradesh","Gram (Desi)",5760
+2022-06,"Uttar Pradesh","Gram (Desi)",5784
+2022-07,"Uttar Pradesh","Gram (Desi)",5780
+2022-08,"Uttar Pradesh","Gram (Desi)",5769
+2022-09,"Uttar Pradesh","Gram (Desi)",5761
+2022-10,"Uttar Pradesh","Gram (Desi)",5720
+2022-11,"Uttar Pradesh","Gram (Desi)",5750
+2022-12,"Uttar Pradesh","Gram (Desi)",5719
+2022-01,"Uttar Pradesh","Gram (Small)",5288
+2022-02,"Uttar Pradesh","Gram (Small)",5500
+2022-03,"Uttar Pradesh","Gram (Small)",5688
+2022-04,"Uttar Pradesh","Gram (Small)",5370
+2022-05,"Uttar Pradesh","Gram (Small)",5513
+2022-06,"Uttar Pradesh","Gram (Small)",5438
+2022-07,"Uttar Pradesh","Gram (Small)",5352
+2022-08,"Uttar Pradesh","Gram (Small)",5419
+2022-09,"Uttar Pradesh","Gram (Small)",5460
+2022-10,"Uttar Pradesh","Gram (Small)",5525
+2022-11,"Uttar Pradesh","Gram (Small)",5588
+2022-12,"Uttar Pradesh","Gram (Small)",5515
+2022-01,"Uttar Pradesh","Gram (dara)",5533
+2022-01,"West Bengal","Gram (Small)",6094
+2022-01,"West Bengal",Gram,5700
+2022-01,Delhi,"Gram (Yellow)",7800
+2022-02,"Uttar Pradesh","Gram (dara)",5619
+2022-02,"West Bengal","Gram (Small)",5906
+2022-02,"West Bengal",Gram,5700
+2022-02,Delhi,"Gram (Yellow)",7750
+2022-03,"Uttar Pradesh","Gram (dara)",5654
+2022-03,"West Bengal","Gram (Small)",5838
+2022-03,"West Bengal",Gram,5700
+2022-03,Delhi,"Gram (Yellow)",7500
+2022-04,"Uttar Pradesh","Gram (dara)",5426
+2022-04,"West Bengal","Gram (Small)",5740
+2022-04,"West Bengal",Gram,5700
+2022-04,Delhi,"Gram (Yellow)",7300
+2022-05,"Uttar Pradesh","Gram (dara)",5500
+2022-05,"West Bengal","Gram (Small)",5525
+2022-05,"West Bengal",Gram,5700
+2022-05,Delhi,"Gram (Yellow)",7275
+2022-06,"Uttar Pradesh","Gram (dara)",5520
+2022-06,"West Bengal","Gram (Small)",5500
+2022-06,"West Bengal",Gram,5700
+2022-06,Delhi,"Gram (Yellow)",7200
+2022-07,"Uttar Pradesh","Gram (dara)",5564
+2022-07,"West Bengal","Gram (Small)",5960
+2022-07,"West Bengal",Gram,5700
+2022-07,Delhi,"Gram (Yellow)",7200
+2022-08,"Uttar Pradesh","Gram (dara)",5638
+2022-08,"West Bengal","Gram (Small)",6250
+2022-08,"West Bengal",Gram,5700
+2022-08,Delhi,"Gram (Yellow)",7200
+2022-09,"Uttar Pradesh","Gram (dara)",5540
+2022-09,"West Bengal","Gram (Small)",6175
+2022-09,"West Bengal",Gram,5700
+2022-09,Delhi,"Gram (Yellow)",7080
+2022-10,"Uttar Pradesh","Gram (dara)",5535
+2022-10,"West Bengal","Gram (Small)",6194
+2022-10,"West Bengal",Gram,5700
+2022-10,Delhi,"Gram (Yellow)",7100
+2022-11,"Uttar Pradesh","Gram (dara)",5624
+2022-11,"West Bengal","Gram (Small)",6094
+2022-11,"West Bengal",Gram,5700
+2022-11,Delhi,"Gram (Yellow)",7050
+2022-12,"Uttar Pradesh","Gram (dara)",5655
+2022-12,"West Bengal","Gram (Small)",5960
+2022-12,"West Bengal",Gram,5700
+2022-12,Delhi,"Gram (Yellow)",7000

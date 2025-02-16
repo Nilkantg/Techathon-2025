@@ -1,5 +1,7 @@
 USE techathon;
 
+DROP TABLE IF EXISTS data_2023;
+
 CREATE TABLE IF NOT EXISTS data_2023 (
     Time_Period VARCHAR(25),
     State VARCHAR(100),
@@ -1437,7 +1439,7 @@ INSERT INTO data_2023 VALUES
 ("2023-12", "Odisha", "Wheat (Good)", 2500),
 ("2023-12", "West Bengal", "Wheat (Sonalika)", 2860);
 
-INSERT INTO data_2022 VALUES
+INSERT INTO data_2023 VALUES
 ("2022-01", "Telangana", "Sugar (S-30)", 3580),
 ("2022-02", "Telangana", "Sugar (S-30)", 3593),
 ("2022-03", "Telangana", "Sugar (S-30)", 3608),
@@ -1673,7 +1675,7 @@ INSERT INTO data_2022 VALUES
 ("2022-12", "Delhi", "Sugar (M-30)", 4000);
 
 
-INSERT INTO data_2022 VALUES
+INSERT INTO data_2023 VALUES
 ("2022-01", "Bihar", "Gram (Desi)", 5318),
 ("2022-01", "Bihar", "Gram", 5838),
 ("2022-01", "Gujarat", "Gram (Desi)", 4756),
@@ -1829,7 +1831,9 @@ INSERT INTO data_2022 VALUES
 ("2023-08", "Rajasthan", "Gram", 5013),
 ("2023-09", "Rajasthan", "Gram", 5864),
 ("2023-10", "Rajasthan", "Gram", 5360),
-("2023-11", "Rajasthan", "Gram", None),
+
+("2023-11", "Rajasthan", "Gram", -1),
+>>>>>>> 0ab0583 (Monthly csv data has been added)
 ("2023-12", "Rajasthan", "Gram", 5485),
 
 ("2023-01", "Rajasthan", "Gram (Local)", 4960),
@@ -1945,7 +1949,7 @@ INSERT INTO data_2022 VALUES
 ("2022-12", "West Bengal", "Gram", 5800),
 ("2022-12", "Delhi", "Gram (Yellow)", 7500);
 
-INSERT INTO data_2022 VALUES
+INSERT INTO data_2023 VALUES
 ("2022-01", "Madhya Pradesh", "Cotton (Fine)", 8025),
 ("2022-01", "Karnataka", "Cotton (Banni)", 8159),
 ("2022-01", "Karnataka", "Cotton", 6789),
@@ -1971,42 +1975,42 @@ INSERT INTO data_2022 VALUES
 ("2022-04", "Karnataka", "Cotton (Banni)", 7518),
 ("2022-04", "Karnataka", "Cotton", 6184),
 ("2022-04", "Telangana", "Cotton", 7175),
-("2022-04", "Rajasthan", "Cotton (Desi)", NULL),
+("2022-04", "Rajasthan", "Cotton (Desi)", -1),
 ("2022-04", "Tamil Nadu", "Cotton (LRA)", 6275),
 
 ("2022-05", "Madhya Pradesh", "Cotton (Fine)", 7343),
 ("2022-05", "Karnataka", "Cotton (Banni)", 7354),
 ("2022-05", "Karnataka", "Cotton", 6055),
 ("2022-05", "Telangana", "Cotton", 6825),
-("2022-05", "Rajasthan", "Cotton (Desi)", NULL),
+("2022-05", "Rajasthan", "Cotton (Desi)", -1),
 ("2022-05", "Tamil Nadu", "Cotton (LRA)", 6100),
 
 ("2022-06", "Madhya Pradesh", "Cotton (Fine)", 7041),
 ("2022-06", "Karnataka", "Cotton (Banni)", 7140),
 ("2022-06", "Karnataka", "Cotton", 5566),
 ("2022-06", "Telangana", "Cotton", 6580),
-("2022-06", "Rajasthan", "Cotton (Desi)", NULL),
+("2022-06", "Rajasthan", "Cotton (Desi)", -1),
 ("2022-06", "Tamil Nadu", "Cotton (LRA)", 5580),
 
 ("2022-07", "Madhya Pradesh", "Cotton (Fine)", 6636),
 ("2022-07", "Karnataka", "Cotton (Banni)", 6995),
 ("2022-07", "Karnataka", "Cotton", 6205),
 ("2022-07", "Telangana", "Cotton", 6050),
-("2022-07", "Rajasthan", "Cotton (Desi)", NULL),
+("2022-07", "Rajasthan", "Cotton (Desi)", -1),
 ("2022-07", "Tamil Nadu", "Cotton (LRA)", 6050),
 
 ("2022-08", "Madhya Pradesh", "Cotton (Fine)", 6800),
 ("2022-08", "Karnataka", "Cotton (Banni)", 7568),
 ("2022-08", "Karnataka", "Cotton", 6416),
 ("2022-08", "Telangana", "Cotton", 6575),
-("2022-08", "Rajasthan", "Cotton (Desi)", NULL),
+("2022-08", "Rajasthan", "Cotton (Desi)", -1),
 ("2022-08", "Tamil Nadu", "Cotton (LRA)", 6075),
 
-("2022-09", "Madhya Pradesh", "Cotton (Fine)", NULL),
+("2022-09", "Madhya Pradesh", "Cotton (Fine)", -1),
 ("2022-09", "Karnataka", "Cotton (Banni)", 7510),
 ("2022-09", "Karnataka", "Cotton", 6343),
 ("2022-09", "Telangana", "Cotton", 6620),
-("2022-09", "Rajasthan", "Cotton (Desi)", NULL),
+("2022-09", "Rajasthan", "Cotton (Desi)", -1),
 ("2022-09", "Tamil Nadu", "Cotton (LRA)", 6060),
 
 ("2022-10", "Madhya Pradesh", "Cotton (Fine)", 6250),
@@ -2028,8 +2032,7 @@ INSERT INTO data_2022 VALUES
 ("2022-12", "Karnataka", "Cotton", 5790),
 ("2022-12", "Telangana", "Cotton", 6972),
 ("2022-12", "Rajasthan", "Cotton (Desi)", 7000),
-("2022-12", "Tamil Nadu", "Cotton (LRA)", 5220);
-
+("2022-12", "Tamil Nadu", "Cotton (LRA)", 5220),
 
 ("2023-01", "Andhra Pradesh", "Cotton (Hybrid)", 8046),
 ("2023-02", "Andhra Pradesh", "Cotton (Hybrid)", 7781),
@@ -2064,7 +2067,7 @@ INSERT INTO data_2022 VALUES
 ("2023-05", "Gujarat", "Cotton", 7925),
 ("2023-06", "Gujarat", "Cotton", 7158),
 ("2023-07", "Gujarat", "Cotton", 7000),
-("2023-08", "Gujarat", "Cotton", NA),
+("2023-08", "Gujarat", "Cotton", -1),
 ("2023-09", "Gujarat", "Cotton", 6300),
 ("2023-10", "Gujarat", "Cotton", 6700),
 ("2023-11", "Gujarat", "Cotton", 7131),

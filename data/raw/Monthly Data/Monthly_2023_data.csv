@@ -1,0 +1,1821 @@
+Time_Period,State,Crop_Type,Prices
+2023-01,"Andhra Pradesh","Paddy (Massoori)",2813
+2023-01,"Andhra Pradesh","Paddy (Common)",1941
+2023-01,Bihar,"Paddy (Medium)",1810
+2023-01,Gujarat,Paddy,1901
+2023-01,Haryana,"Paddy (Basmati)",4653
+2023-02,"Andhra Pradesh","Paddy (Massoori)",2930
+2023-02,"Andhra Pradesh","Paddy (Common)",2015
+2023-02,Bihar,"Paddy (Medium)",1820
+2023-02,Gujarat,Paddy,1929
+2023-02,Haryana,"Paddy (Basmati)",4850
+2023-03,"Andhra Pradesh","Paddy (Massoori)",2840
+2023-03,"Andhra Pradesh","Paddy (Common)",2040
+2023-03,Bihar,"Paddy (Medium)",1828
+2023-03,Gujarat,Paddy,1875
+2023-03,Haryana,"Paddy (Basmati)",4924
+2023-04,"Andhra Pradesh","Paddy (Massoori)",2650
+2023-04,"Andhra Pradesh","Paddy (Common)",2040
+2023-04,Bihar,"Paddy (Medium)",1850
+2023-04,Gujarat,Paddy,1933
+2023-04,Haryana,"Paddy (Basmati)",4544
+2023-05,"Andhra Pradesh","Paddy (Massoori)",2525
+2023-05,"Andhra Pradesh","Paddy (Common)",1995
+2023-05,Bihar,"Paddy (Medium)",1880
+2023-05,Gujarat,Paddy,1857
+2023-05,Haryana,"Paddy (Basmati)",4508
+2023-06,"Andhra Pradesh","Paddy (Massoori)",2740
+2023-06,"Andhra Pradesh","Paddy (Common)",1942
+2023-06,Bihar,"Paddy (Medium)",1918
+2023-06,Gujarat,Paddy,2042
+2023-06,Haryana,"Paddy (Basmati)",4430
+2023-07,"Andhra Pradesh","Paddy (Massoori)",3050
+2023-07,"Andhra Pradesh","Paddy (Common)",1946
+2023-07,Bihar,"Paddy (Medium)",1945
+2023-07,Gujarat,Paddy,2118
+2023-07,Haryana,"Paddy (Basmati)",3713
+2023-08,"Andhra Pradesh","Paddy (Massoori)",3175
+2023-08,"Andhra Pradesh","Paddy (Common)",1963
+2023-08,Bihar,"Paddy (Medium)",1973
+2023-08,Gujarat,Paddy,2319
+2023-08,Haryana,"Paddy (Basmati)",3702
+2023-09,"Andhra Pradesh","Paddy (Massoori)",3160
+2023-09,"Andhra Pradesh","Paddy (Common)",2035
+2023-09,Bihar,"Paddy (Medium)",2012
+2023-09,Gujarat,Paddy,2056
+2023-09,Haryana,"Paddy (Basmati)",3858
+2023-10,"Andhra Pradesh","Paddy (Massoori)",3130
+2023-10,"Andhra Pradesh","Paddy (Common)",2083
+2023-10,Bihar,"Paddy (Medium)",2038
+2023-10,Gujarat,Paddy,1895
+2023-10,Haryana,"Paddy (Basmati)",3953
+2023-11,"Andhra Pradesh","Paddy (Massoori)",3110
+2023-11,"Andhra Pradesh","Paddy (Common)",2100
+2023-11,Bihar,"Paddy (Medium)",2018
+2023-11,Gujarat,Paddy,1934
+2023-11,Haryana,"Paddy (Basmati)",4500
+2023-12,"Andhra Pradesh","Paddy (Massoori)",3280
+2023-12,"Andhra Pradesh","Paddy (Common)",2260
+2023-12,Bihar,"Paddy (Medium)",1948
+2023-12,Gujarat,Paddy,2115
+2023-12,Haryana,"Paddy (Basmati)",4936
+2023-01,Kerala,"Paddy (Matta)",2450
+2023-01,Kerala,"Paddy (Jyoti)",2800
+2023-01,Karnataka,"Paddy (Medium)",1864
+2023-01,Maharashtra,"Paddy (Common)",2250
+2023-01,Maharashtra,"Paddy (Coarse)",2375
+2023-02,Kerala,"Paddy (Matta)",2450
+2023-02,Kerala,"Paddy (Jyoti)",2800
+2023-02,Karnataka,"Paddy (Medium)",2106
+2023-02,Maharashtra,"Paddy (Common)",2225
+2023-02,Maharashtra,"Paddy (Coarse)",2438
+2023-03,Kerala,"Paddy (Matta)",2450
+2023-03,Kerala,"Paddy (Jyoti)",2800
+2023-03,Karnataka,"Paddy (Medium)",2075
+2023-03,Maharashtra,"Paddy (Common)",2125
+2023-03,Maharashtra,"Paddy (Coarse)",2420
+2023-04,Kerala,"Paddy (Matta)",2438
+2023-04,Kerala,"Paddy (Jyoti)",2800
+2023-04,Karnataka,"Paddy (Medium)",2025
+2023-04,Maharashtra,"Paddy (Common)",2200
+2023-04,Maharashtra,"Paddy (Coarse)",2388
+2023-05,Kerala,"Paddy (Matta)",2400
+2023-05,Kerala,"Paddy (Jyoti)",2800
+2023-05,Maharashtra,"Paddy (Common)",2050
+2023-05,Maharashtra,"Paddy (Coarse)",2388
+2023-06,Kerala,"Paddy (Matta)",2420
+2023-06,Kerala,"Paddy (Jyoti)",2540
+2023-06,Karnataka,"Paddy (Medium)",2150
+2023-06,Maharashtra,"Paddy (Common)",1833
+2023-06,Maharashtra,"Paddy (Coarse)",2450
+2023-07,Kerala,"Paddy (Matta)",2475
+2023-07,Kerala,"Paddy (Jyoti)",2600
+2023-07,Karnataka,"Paddy (Medium)",2165
+2023-07,Maharashtra,"Paddy (Coarse)",2438
+2023-08,Kerala,"Paddy (Matta)",2550
+2023-08,Kerala,"Paddy (Jyoti)",2600
+2023-08,Karnataka,"Paddy (Medium)",2445
+2023-08,Maharashtra,"Paddy (Common)",2100
+2023-08,Maharashtra,"Paddy (Coarse)",2450
+2023-09,Kerala,"Paddy (Matta)",2590
+2023-09,Kerala,"Paddy (Jyoti)",2600
+2023-09,Karnataka,"Paddy (Medium)",2510
+2023-09,Maharashtra,"Paddy (Coarse)",2360
+2023-10,Kerala,"Paddy (Matta)",2575
+2023-10,Kerala,"Paddy (Jyoti)",2820
+2023-10,Karnataka,"Paddy (Medium)",2488
+2023-10,Maharashtra,"Paddy (Coarse)",2150
+2023-11,Kerala,"Paddy (Matta)",2525
+2023-11,Kerala,"Paddy (Jyoti)",2820
+2023-11,Karnataka,"Paddy (Medium)",2220
+2023-11,Maharashtra,"Paddy (Coarse)",2050
+2023-12,Kerala,"Paddy (Matta)",2460
+2023-12,Kerala,"Paddy (Jyoti)",2820
+2023-12,Karnataka,"Paddy (Medium)",2388
+2023-12,Maharashtra,"Paddy (Common)",2100
+2023-12,Maharashtra,"Paddy (Coarse)",1863
+2023-01,Punjab,"Paddy (Basmati)",4188
+2023-01,"Tamil Nadu","Paddy (Common)",1895
+2023-01,"Uttar Pradesh","Paddy (3)",2040
+2023-01,"West Bengal","Paddy (IR30)",1965
+2023-01,"West Bengal","Paddy (IR36)",1960
+2023-02,Punjab,"Paddy (Basmati)",4269
+2023-02,"Tamil Nadu","Paddy (Common)",1905
+2023-02,"Uttar Pradesh","Paddy (3)",2040
+2023-02,"West Bengal","Paddy (IR30)",2020
+2023-02,"West Bengal","Paddy (IR36)",1980
+2023-03,Punjab,"Paddy (Basmati)",4040
+2023-03,"Tamil Nadu","Paddy (Common)",1848
+2023-03,"Uttar Pradesh","Paddy (3)",1916
+2023-03,"West Bengal","Paddy (IR30)",2060
+2023-03,"West Bengal","Paddy (IR36)",2000
+2023-04,Punjab,"Paddy (Basmati)",4150
+2023-04,"Tamil Nadu","Paddy (Common)",1740
+2023-04,"Uttar Pradesh","Paddy (3)",1856
+2023-04,"West Bengal","Paddy (IR30)",2060
+2023-04,"West Bengal","Paddy (IR36)",2000
+2023-05,"Tamil Nadu","Paddy (Common)",1740
+2023-05,"Uttar Pradesh","Paddy (3)",1921
+2023-05,"West Bengal","Paddy (IR30)",2060
+2023-05,"West Bengal","Paddy (IR36)",2015
+2023-06,"Tamil Nadu","Paddy (Common)",1804
+2023-06,"Uttar Pradesh","Paddy (3)",1936
+2023-06,"West Bengal","Paddy (IR30)",2060
+2023-06,"West Bengal","Paddy (IR36)",2060
+2023-07,"Tamil Nadu","Paddy (Common)",1900
+2023-07,"Uttar Pradesh","Paddy (3)",1896
+2023-07,"West Bengal","Paddy (IR30)",2083
+2023-07,"West Bengal","Paddy (IR36)",2080
+2023-08,"Tamil Nadu","Paddy (Common)",1900
+2023-08,"Uttar Pradesh","Paddy (3)",1884
+2023-08,"West Bengal","Paddy (IR30)",2165
+2023-08,"West Bengal","Paddy (IR36)",2163
+2023-09,Punjab,"Paddy (Basmati)",3460
+2023-09,"Tamil Nadu","Paddy (Common)",1918
+2023-09,"Uttar Pradesh","Paddy (3)",1991
+2023-09,"West Bengal","Paddy (IR30)",2170
+2023-09,"West Bengal","Paddy (IR36)",2170
+2023-10,Punjab,"Paddy (Basmati)",3363
+2023-10,"Tamil Nadu","Paddy (Common)",2020
+2023-10,"Uttar Pradesh","Paddy (3)",2096
+2023-10,"West Bengal","Paddy (IR30)",2148
+2023-10,"West Bengal","Paddy (IR36)",2193
+2023-11,Punjab,"Paddy (Basmati)",3788
+2023-11,"Tamil Nadu","Paddy (Common)",2110
+2023-11,"Uttar Pradesh","Paddy (3)",2184
+2023-11,"West Bengal","Paddy (IR30)",2140
+2023-11,"West Bengal","Paddy (IR36)",2200
+2023-12,Punjab,"Paddy (Basmati)",4388
+2023-12,"Tamil Nadu","Paddy (Common)",2138
+2023-12,"Uttar Pradesh","Paddy (3)",2183
+2023-12,"West Bengal","Paddy (IR30)",2140
+2023-12,"West Bengal","Paddy (IR36)",2200
+2023-01,Telangana,"Rice (Hamsalu)",2700
+2023-01,"Andhra Pradesh","Rice (Common)",3205
+2023-01,Assam,"Rice (Common)",2800
+2023-01,Bihar,"Rice (Fine Masuri)",4853
+2023-01,Bihar,"Rice (Medium)",3885
+2023-02,Telangana,"Rice (Hamsalu)",2638
+2023-02,"Andhra Pradesh","Rice (Common)",3350
+2023-02,Assam,"Rice (Common)",2800
+2023-02,Bihar,"Rice (Fine Masuri)",4965
+2023-02,Bihar,"Rice (Medium)",3970
+2023-03,Telangana,"Rice (Hamsalu)",2710
+2023-03,"Andhra Pradesh","Rice (Common)",3200
+2023-03,Assam,"Rice (Common)",2800
+2023-03,Bihar,"Rice (Fine Masuri)",5020
+2023-03,Bihar,"Rice (Medium)",4046
+2023-04,Telangana,"Rice (Hamsalu)",2775
+2023-04,"Andhra Pradesh","Rice (Common)",3200
+2023-04,Assam,"Rice (Common)",2838
+2023-04,Bihar,"Rice (Fine Masuri)",5045
+2023-04,Bihar,"Rice (Medium)",4035
+2023-05,Telangana,"Rice (Hamsalu)",2838
+2023-05,"Andhra Pradesh","Rice (Common)",3225
+2023-05,Assam,"Rice (Common)",3100
+2023-05,Bihar,"Rice (Fine Masuri)",5060
+2023-05,Bihar,"Rice (Medium)",4043
+2023-06,Telangana,"Rice (Hamsalu)",2930
+2023-06,"Andhra Pradesh","Rice (Common)",3212
+2023-06,Assam,"Rice (Common)",3220
+2023-06,Bihar,"Rice (Fine Masuri)",5048
+2023-06,Bihar,"Rice (Medium)",4036
+2023-07,Telangana,"Rice (Hamsalu)",3200
+2023-07,"Andhra Pradesh","Rice (Common)",3220
+2023-07,Assam,"Rice (Common)",3225
+2023-07,Bihar,"Rice (Fine Masuri)",5030
+2023-07,Bihar,"Rice (Medium)",4070
+2023-08,Telangana,"Rice (Hamsalu)",3575
+2023-08,"Andhra Pradesh","Rice (Common)",3275
+2023-08,Assam,"Rice (Common)",3300
+2023-08,Bihar,"Rice (Fine Masuri)",5060
+2023-08,Bihar,"Rice (Medium)",4100
+2023-09,Telangana,"Rice (Hamsalu)",3780
+2023-09,"Andhra Pradesh","Rice (Common)",3260
+2023-09,Assam,"Rice (Common)",3260
+2023-09,Bihar,"Rice (Fine Masuri)",5102
+2023-09,Bihar,"Rice (Medium)",4148
+2023-10,Telangana,"Rice (Hamsalu)",3925
+2023-10,"Andhra Pradesh","Rice (Common)",3250
+2023-10,Assam,"Rice (Common)",3250
+2023-10,Bihar,"Rice (Fine Masuri)",5143
+2023-10,Bihar,"Rice (Medium)",4160
+2023-11,Telangana,"Rice (Hamsalu)",4000
+2023-11,"Andhra Pradesh","Rice (Common)",3125
+2023-11,Assam,"Rice (Common)",3200
+2023-11,Bihar,"Rice (Fine Masuri)",5203
+2023-11,Bihar,"Rice (Medium)",4183
+2023-12,Telangana,"Rice (Hamsalu)",4100
+2023-12,"Andhra Pradesh","Rice (Common)",3200
+2023-12,Assam,"Rice (Common)",3226
+2023-12,Bihar,"Rice (Fine Masuri)",5104
+2023-12,Bihar,"Rice (Medium)",4078
+2023-01,Gujarat,"Rice (Medium)",3513
+2023-01,Gujarat,"Rice (Mota)",3975
+2023-01,Haryana,"Rice (Common)",2900
+2023-01,"Himachal Pradesh","Rice (Dara)",2800
+2023-01,"Himachal Pradesh","Rice (Begmi)",3350
+2023-01,Karnataka,"Rice (IR8)",2950
+2023-02,Gujarat,"Rice (Medium)",3719
+2023-02,Gujarat,"Rice (Mota)",3900
+2023-02,Haryana,"Rice (Common)",3038
+2023-02,"Himachal Pradesh","Rice (Dara)",2800
+2023-02,"Himachal Pradesh","Rice (Begmi)",3350
+2023-02,Karnataka,"Rice (IR8)",2950
+2023-03,Gujarat,"Rice (Medium)",3710
+2023-03,Gujarat,"Rice (Mota)",3880
+2023-03,Haryana,"Rice (Common)",3183
+2023-03,"Himachal Pradesh","Rice (Dara)",2800
+2023-03,"Himachal Pradesh","Rice (Begmi)",3350
+2023-03,Karnataka,"Rice (IR8)",2950
+2023-04,Gujarat,"Rice (Medium)",3606
+2023-04,Gujarat,"Rice (Mota)",4023
+2023-04,Haryana,"Rice (Common)",2928
+2023-04,"Himachal Pradesh","Rice (Dara)",2800
+2023-04,"Himachal Pradesh","Rice (Begmi)",3368
+2023-04,Karnataka,"Rice (IR8)",-1
+2023-05,Gujarat,"Rice (Medium)",3588
+2023-05,Gujarat,"Rice (Mota)",4000
+2023-05,Haryana,"Rice (Common)",2805
+2023-05,"Himachal Pradesh","Rice (Dara)",2800
+2023-05,"Himachal Pradesh","Rice (Begmi)",3420
+2023-05,Karnataka,"Rice (IR8)",-1
+2023-06,Gujarat,"Rice (Medium)",3650
+2023-06,Gujarat,"Rice (Mota)",4110
+2023-06,Haryana,"Rice (Common)",2703
+2023-06,"Himachal Pradesh","Rice (Dara)",2800
+2023-06,"Himachal Pradesh","Rice (Begmi)",3432
+2023-06,Karnataka,"Rice (IR8)",-1
+2023-07,Gujarat,"Rice (Medium)",3750
+2023-07,Gujarat,"Rice (Mota)",4725
+2023-07,Haryana,"Rice (Common)",2678
+2023-07,"Himachal Pradesh","Rice (Dara)",2800
+2023-07,"Himachal Pradesh","Rice (Begmi)",3458
+2023-07,Karnataka,"Rice (IR8)",3400
+2023-08,Gujarat,"Rice (Medium)",3769
+2023-08,Gujarat,"Rice (Mota)",4675
+2023-08,Haryana,"Rice (Common)",2650
+2023-08,"Himachal Pradesh","Rice (Dara)",2800
+2023-08,"Himachal Pradesh","Rice (Begmi)",3480
+2023-08,Karnataka,"Rice (IR8)",3400
+2023-09,Gujarat,"Rice (Medium)",3750
+2023-09,Gujarat,"Rice (Mota)",4740
+2023-09,Haryana,"Rice (Common)",3005
+2023-09,"Himachal Pradesh","Rice (Dara)",2800
+2023-09,"Himachal Pradesh","Rice (Begmi)",3570
+2023-09,Karnataka,"Rice (IR8)",3400
+2023-10,Gujarat,"Rice (Medium)",3738
+2023-10,Gujarat,"Rice (Mota)",5000
+2023-10,Haryana,"Rice (Common)",3042
+2023-10,"Himachal Pradesh","Rice (Dara)",2800
+2023-10,"Himachal Pradesh","Rice (Begmi)",-1
+2023-10,Karnataka,"Rice (IR8)",3400
+2023-11,Gujarat,"Rice (Medium)",3756
+2023-11,Gujarat,"Rice (Mota)",5000
+2023-11,Haryana,"Rice (Common)",3069
+2023-11,"Himachal Pradesh","Rice (Dara)",2800
+2023-11,"Himachal Pradesh","Rice (Begmi)",-1
+2023-11,Karnataka,"Rice (IR8)",3425
+2023-12,Gujarat,"Rice (Medium)",3870
+2023-12,Gujarat,"Rice (Mota)",5120
+2023-12,Haryana,"Rice (Common)",3110
+2023-12,"Himachal Pradesh","Rice (Dara)",2960
+2023-12,"Himachal Pradesh","Rice (Begmi)",-1
+2023-12,Karnataka,"Rice (IR8)",3450
+2023-01,Kerala,"Rice (Champa)",3700
+2023-01,Kerala,"Rice (Matta)",4175
+2023-01,"Madhya Pradesh","Rice (Inferior)",4800
+2023-01,Maharashtra,"Rice (Coarse)",3525
+2023-01,Chattisgarh,"Rice (Mota)",2325
+2023-01,Jharkhand,"Rice (Medium)",3250
+2023-02,Kerala,"Rice (Champa)",3700
+2023-02,Kerala,"Rice (Matta)",4225
+2023-02,"Madhya Pradesh","Rice (Inferior)",4650
+2023-02,Maharashtra,"Rice (Coarse)",3563
+2023-02,Chattisgarh,"Rice (Mota)",2400
+2023-02,Jharkhand,"Rice (Medium)",3353
+2023-03,Kerala,"Rice (Champa)",3700
+2023-03,Kerala,"Rice (Matta)",4300
+2023-03,"Madhya Pradesh","Rice (Inferior)",4600
+2023-03,Maharashtra,"Rice (Coarse)",3570
+2023-03,Chattisgarh,"Rice (Mota)",2400
+2023-03,Jharkhand,"Rice (Medium)",3364
+2023-04,Kerala,"Rice (Champa)",3725
+2023-04,Kerala,"Rice (Matta)",4300
+2023-04,"Madhya Pradesh","Rice (Inferior)",4600
+2023-04,Maharashtra,"Rice (Coarse)",3575
+2023-04,Chattisgarh,"Rice (Mota)",-1
+2023-04,Jharkhand,"Rice (Medium)",3368
+2023-05,Kerala,"Rice (Champa)",3800
+2023-05,Kerala,"Rice (Matta)",4300
+2023-05,"Madhya Pradesh","Rice (Inferior)",4550
+2023-05,Maharashtra,"Rice (Coarse)",3600
+2023-05,Chattisgarh,"Rice (Mota)",-1
+2023-05,Jharkhand,"Rice (Medium)",3323
+2023-06,Kerala,"Rice (Champa)",3720
+2023-06,Kerala,"Rice (Matta)",4220
+2023-06,"Madhya Pradesh","Rice (Inferior)",4620
+2023-06,Maharashtra,"Rice (Coarse)",3550
+2023-06,Chattisgarh,"Rice (Mota)",-1
+2023-06,Jharkhand,"Rice (Medium)",3456
+2023-07,Kerala,"Rice (Champa)",3750
+2023-07,Kerala,"Rice (Matta)",4288
+2023-07,"Madhya Pradesh","Rice (Inferior)",4950
+2023-07,Maharashtra,"Rice (Coarse)",3625
+2023-07,Chattisgarh,"Rice (Mota)",-1
+2023-07,Jharkhand,"Rice (Medium)",3520
+2023-08,Kerala,"Rice (Champa)",3950
+2023-08,Kerala,"Rice (Matta)",4388
+2023-08,"Madhya Pradesh","Rice (Inferior)",5000
+2023-08,Maharashtra,"Rice (Coarse)",3588
+2023-08,Chattisgarh,"Rice (Mota)",-1
+2023-08,Jharkhand,"Rice (Medium)",3525
+2023-09,Kerala,"Rice (Champa)",4000
+2023-09,Kerala,"Rice (Matta)",4450
+2023-09,"Madhya Pradesh","Rice (Inferior)",5000
+2023-09,Maharashtra,"Rice (Coarse)",3620
+2023-09,Chattisgarh,"Rice (Mota)",2600
+2023-09,Jharkhand,"Rice (Medium)",3614
+2023-10,Kerala,"Rice (Champa)",4013
+2023-10,Kerala,"Rice (Matta)",4288
+2023-10,"Madhya Pradesh","Rice (Inferior)",5000
+2023-10,Maharashtra,"Rice (Coarse)",3800
+2023-10,Chattisgarh,"Rice (Mota)",2431
+2023-10,Jharkhand,"Rice (Medium)",3618
+2023-11,Kerala,"Rice (Champa)",4013
+2023-11,Kerala,"Rice (Matta)",4350
+2023-11,"Madhya Pradesh","Rice (Inferior)",4750
+2023-11,Maharashtra,"Rice (Coarse)",3688
+2023-11,Chattisgarh,"Rice (Mota)",1950
+2023-11,Jharkhand,"Rice (Medium)",3513
+2023-12,Kerala,"Rice (Champa)",4080
+2023-12,Kerala,"Rice (Matta)",4360
+2023-12,"Madhya Pradesh","Rice (Inferior)",4400
+2023-12,Maharashtra,"Rice (Coarse)",3775
+2023-12,Chattisgarh,"Rice (Mota)",1950
+2023-12,Jharkhand,"Rice (Medium)",3392
+2023-01,"Andhra Pradesh","Jowar (White)",3725
+2023-02,"Andhra Pradesh","Jowar (White)",3975
+2023-03,"Andhra Pradesh","Jowar (White)",3860
+2023-04,"Andhra Pradesh","Jowar (White)",3425
+2023-05,"Andhra Pradesh","Jowar (White)",3483
+2023-06,"Andhra Pradesh","Jowar (White)",3550
+2023-07,"Andhra Pradesh","Jowar (White)",4088
+2023-08,"Andhra Pradesh","Jowar (White)",4538
+2023-09,"Andhra Pradesh","Jowar (White)",5080
+2023-10,"Andhra Pradesh","Jowar (White)",5430
+2023-11,"Andhra Pradesh","Jowar (White)",5913
+2023-12,"Andhra Pradesh","Jowar (White)",6260
+2023-01,Gujarat,"Jowar (White)",4375
+2023-02,Gujarat,"Jowar (White)",4681
+2023-03,Gujarat,"Jowar (White)",5055
+2023-04,Gujarat,"Jowar (White)",4826
+2023-05,Gujarat,"Jowar (White)",4163
+2023-06,Gujarat,"Jowar (White)",4590
+2023-07,Gujarat,"Jowar (White)",4906
+2023-08,Gujarat,"Jowar (White)",4838
+2023-09,Gujarat,"Jowar (White)",5010
+2023-10,Gujarat,"Jowar (White)",5519
+2023-11,Gujarat,"Jowar (White)",5606
+2023-12,Gujarat,"Jowar (White)",5021
+2023-01,Gujarat,"Jowar (Desi)",3790
+2023-02,Gujarat,"Jowar (Desi)",4103
+2023-03,Gujarat,"Jowar (Desi)",4821
+2023-01,Gujarat,"Jowar (Desi)",4583
+2023-05,Gujarat,"Jowar (Desi)",3576
+2023-06,Gujarat,"Jowar (Desi)",4440
+2023-07,Gujarat,"Jowar (Desi)",4435
+2023-08,Gujarat,"Jowar (Desi)",4068
+2023-09,Gujarat,"Jowar (Desi)",4770
+2023-10,Gujarat,"Jowar (Desi)",3878
+2023-11,Gujarat,"Jowar (Desi)",3818
+2023-12,Gujarat,"Jowar (Desi)",4451
+2023-01,Karnataka,Jowar,3695
+2023-02,Karnataka,Jowar,3633
+2023-01,Karnataka,Jowar,3600
+2023-04,Karnataka,Jowar,4148
+2023-05,Karnataka,Jowar,4650
+2023-06,Karnataka,Jowar,4275
+2023-07,Karnataka,Jowar,3750
+2023-08,Karnataka,Jowar,-1
+2023-09,Karnataka,Jowar,-1
+2023-10,Karnataka,Jowar,-1
+2023-11,Karnataka,Jowar,-1
+2023-12,Karnataka,Jowar,5125
+2023-01,Karnataka,"Jowar (White)",3519
+2023-02,Karnataka,"Jowar (White)",2813
+2023-03,Karnataka,"Jowar (White)",3000
+2023-04,Karnataka,"Jowar (White)",3200
+2023-05,Karnataka,"Jowar (White)",3175
+2023-06,Karnataka,"Jowar (White)",3380
+2023-07,Karnataka,"Jowar (White)",3700
+2023-08,Karnataka,"Jowar (White)",3875
+2023-09,Karnataka,"Jowar (White)",3580
+2023-10,Karnataka,"Jowar (White)",3500
+2023-11,Karnataka,"Jowar (White)",3525
+2023-12,Karnataka,"Jowar (White)",3789
+2023-01,Maharashtra,Jowar,3863
+2023-02,Maharashtra,Jowar,3975
+2023-01,Maharashtra,Jowar,4080
+2023-01,Maharashtra,Jowar,4150
+2023-01,Maharashtra,Jowar,4225
+2023-01,Maharashtra,Jowar,4070
+2023-01,Maharashtra,Jowar,4575
+2023-08,Maharashtra,Jowar,4875
+2023-09,Maharashtra,Jowar,4940
+2023-10,Maharashtra,Jowar,5000
+2023-11,Maharashtra,Jowar,5000
+2023-12,Maharashtra,Jowar,5500
+2023-01,Rajasthan,"Jowar (Local)",2394
+2023-02,Rajasthan,"Jowar (Local)",2613
+2023-03,Rajasthan,"Jowar (Local)",2691
+2023-04,Rajasthan,"Jowar (Local)",2704
+2023-05,Rajasthan,"Jowar (Local)",2776
+2023-06,Rajasthan,"Jowar (Local)",2690
+2023-07,Rajasthan,"Jowar (Local)",2750
+2023-08,Rajasthan,"Jowar (Local)",2963
+2023-09,Rajasthan,"Jowar (Local)",3250
+2023-10,Rajasthan,"Jowar (Local)",3300
+2023-11,Rajasthan,"Jowar (Local)",3400
+2023-12,Rajasthan,"Jowar (Local)",3250
+2023-01,Rajasthan,Jowar,4335
+2023-02,Rajasthan,Jowar,4324
+2023-03,Rajasthan,Jowar,4455
+2023-04,Rajasthan,Jowar,4559
+2023-05,Rajasthan,Jowar,-1
+2023-06,Rajasthan,Jowar,-1
+2023-07,Rajasthan,Jowar,-1
+2023-08,Rajasthan,Jowar,-1
+2023-09,Rajasthan,Jowar,-1
+2023-10,Rajasthan,Jowar,2248
+2023-11,Rajasthan,Jowar,2375
+2023-12,Rajasthan,Jowar,4880
+2023-01,"Tamil Nadu","Jowar (White)",4000
+2023-02,"Tamil Nadu","Jowar (White)",4000
+2023-03,"Tamil Nadu","Jowar (White)",3340
+2023-04,"Tamil Nadu","Jowar (White)",3650
+2023-05,"Tamil Nadu","Jowar (White)",3925
+2023-06,"Tamil Nadu","Jowar (White)",3920
+2023-07,"Tamil Nadu","Jowar (White)",4000
+2023-08,"Tamil Nadu","Jowar (White)",4325
+2023-09,"Tamil Nadu","Jowar (White)",4220
+2023-10,"Tamil Nadu","Jowar (White)",3988
+2023-11,"Tamil Nadu","Jowar (White)",4488
+2023-12,"Tamil Nadu","Jowar (White)",4530
+2023-01,"Uttar Pradesh",Jowar,3050
+2023-02,"Uttar Pradesh",Jowar,3338
+2023-03,"Uttar Pradesh",Jowar,3180
+2023-04,"Uttar Pradesh",Jowar,2588
+2023-05,"Uttar Pradesh",Jowar,2575
+2023-06,"Uttar Pradesh",Jowar,3188
+2023-07,"Uttar Pradesh",Jowar,3096
+2023-08,"Uttar Pradesh",Jowar,3029
+2023-09,"Uttar Pradesh",Jowar,2931
+2023-10,"Uttar Pradesh",Jowar,3136
+2023-11,"Uttar Pradesh",Jowar,3375
+2023-12,"Uttar Pradesh",Jowar,3175
+2023-01,"West Bengal",Jowar,3513
+2023-02,"West Bengal",Jowar,4075
+2023-01,"West Bengal",Jowar,4290
+2023-04,"West Bengal",Jowar,4476
+2023-01,"West Bengal",Jowar,3900
+2023-06,"West Bengal",Jowar,4080
+2023-07,"West Bengal",Jowar,4288
+2023-08,"West Bengal",Jowar,4500
+2023-09,"West Bengal",Jowar,4680
+2023-10,"West Bengal",Jowar,4650
+2023-11,"West Bengal",Jowar,4488
+2023-12,"West Bengal",Jowar,4320
+2023-01,Delhi,"Jowar (White)",3350
+2023-02,Delhi,"Jowar (White)",3363
+2023-03,Delhi,"Jowar (White)",3400
+2023-04,Delhi,"Jowar (White)",3400
+2023-05,Delhi,"Jowar (White)",3438
+2023-06,Delhi,"Jowar (White)",3400
+2023-07,Delhi,"Jowar (White)",3650
+2023-08,Delhi,"Jowar (White)",3670
+2023-09,Delhi,"Jowar (White)",3666
+2023-10,Delhi,"Jowar (White)",3820
+2023-11,Delhi,"Jowar (White)",3850
+2023-12,Delhi,"Jowar (White)",3710
+2023-01,"Andhra Pradesh","Bajra (Local)",2950
+2023-02,"Andhra Pradesh","Bajra (Local)",2974
+2023-03,"Andhra Pradesh","Bajra (Local)",3160
+2023-04,"Andhra Pradesh","Bajra (Local)",3150
+2023-05,"Andhra Pradesh","Bajra (Local)",3163
+2023-06,"Andhra Pradesh","Bajra (Local)",3170
+2023-07,"Andhra Pradesh","Bajra (Local)",3125
+2023-08,"Andhra Pradesh","Bajra (Local)",3553
+2023-09,"Andhra Pradesh","Bajra (Local)",3362
+2023-10,"Andhra Pradesh","Bajra (Local)",3463
+2023-11,"Andhra Pradesh","Bajra (Local)",3763
+2023-12,"Andhra Pradesh","Bajra (Local)",3640
+2023-01,"Andhra Pradesh","Bajra (Hybrid)",2438
+2023-02,"Andhra Pradesh","Bajra (Hybrid)",2700
+2023-03,"Andhra Pradesh","Bajra (Hybrid)",2910
+2023-04,"Andhra Pradesh","Bajra (Hybrid)",2650
+2023-05,"Andhra Pradesh","Bajra (Hybrid)",2588
+2023-06,"Andhra Pradesh","Bajra (Hybrid)",2810
+2023-07,"Andhra Pradesh","Bajra (Hybrid)",3125
+2023-08,"Andhra Pradesh","Bajra (Hybrid)",3125
+2023-09,"Andhra Pradesh","Bajra (Hybrid)",2930
+2023-10,"Andhra Pradesh","Bajra (Hybrid)",2888
+2023-11,"Andhra Pradesh","Bajra (Hybrid)",2875
+2023-12,"Andhra Pradesh","Bajra (Hybrid)",3020
+2023-01,Gujarat,"Bajra (Hybrid)",2019
+2023-02,Gujarat,"Bajra (Hybrid)",1850
+2023-03,Gujarat,"Bajra (Hybrid)",1810
+2023-04,Gujarat,"Bajra (Hybrid)",1815
+2023-05,Gujarat,"Bajra (Hybrid)",1913
+2023-06,Gujarat,"Bajra (Hybrid)",1920
+2023-07,Gujarat,"Bajra (Hybrid)",1995
+2023-08,Gujarat,"Bajra (Hybrid)",1940
+2023-09,Gujarat,"Bajra (Hybrid)",-1
+2023-10,Gujarat,"Bajra (Hybrid)",-1
+2023-11,Gujarat,"Bajra (Hybrid)",-1
+2023-12,Gujarat,"Bajra (Hybrid)",-1
+2023-01,Gujarat,"Bajra (Desi)",2607
+2023-02,Gujarat,"Bajra (Desi)",2306
+2023-03,Gujarat,"Bajra (Desi)",2351
+2023-04,Gujarat,"Bajra (Desi)",2322
+2023-05,Gujarat,"Bajra (Desi)",2222
+2023-06,Gujarat,"Bajra (Desi)",2053
+2023-07,Gujarat,"Bajra (Desi)",2125
+2023-08,Gujarat,"Bajra (Desi)",2124
+2023-09,Gujarat,"Bajra (Desi)",2027
+2023-10,Gujarat,"Bajra (Desi)",2141
+2023-11,Gujarat,"Bajra (Desi)",2301
+2023-12,Gujarat,"Bajra (Desi)",2336
+2023-01,Haryana,"Bajra (Hybrid)",2133
+2023-02,Haryana,"Bajra (Hybrid)",2025
+2023-03,Haryana,"Bajra (Hybrid)",2102
+2023-04,Haryana,"Bajra (Hybrid)",2113
+2023-05,Haryana,"Bajra (Hybrid)",2081
+2023-06,Haryana,"Bajra (Hybrid)",2072
+2023-07,Haryana,"Bajra (Hybrid)",1978
+2023-08,Haryana,"Bajra (Hybrid)",1830
+2023-09,Haryana,"Bajra (Hybrid)",2010
+2023-10,Haryana,"Bajra (Hybrid)",2093
+2023-11,Haryana,"Bajra (Hybrid)",2143
+2023-12,Haryana,"Bajra (Hybrid)",2194
+2023-01,Karnataka,Bajra,2963
+2023-02,Karnataka,Bajra,2800
+2023-03,Karnataka,Bajra,2860
+2023-04,Karnataka,Bajra,2975
+2023-05,Karnataka,Bajra,3025
+2023-06,Karnataka,Bajra,2850
+2023-07,Karnataka,Bajra,2900
+2023-08,Karnataka,Bajra,2938
+2023-09,Karnataka,Bajra,3000
+2023-10,Karnataka,Bajra,3000
+2023-11,Karnataka,Bajra,3100
+2023-12,Karnataka,Bajra,3170
+2023-01,"Madhya Pradesh",Bajra,2111
+2023-02,"Madhya Pradesh",Bajra,2016
+2023-03,"Madhya Pradesh",Bajra,2103
+2023-04,"Madhya Pradesh",Bajra,2063
+2023-05,"Madhya Pradesh",Bajra,2039
+2023-06,"Madhya Pradesh",Bajra,2011
+2023-07,"Madhya Pradesh",Bajra,1954
+2023-08,"Madhya Pradesh",Bajra,1851
+2023-09,"Madhya Pradesh",Bajra,1837
+2023-10,"Madhya Pradesh",Bajra,1952
+2023-11,"Madhya Pradesh",Bajra,2131
+2023-12,"Madhya Pradesh",Bajra,2125
+2023-01,Maharashtra,"Bajra (Local)",2163
+2023-02,Maharashtra,"Bajra (Local)",2000
+2023-03,Maharashtra,"Bajra (Local)",2220
+2023-04,Maharashtra,"Bajra (Local)",2150
+2023-05,Maharashtra,"Bajra (Local)",2213
+2023-06,Maharashtra,"Bajra (Local)",2412
+2023-07,Maharashtra,"Bajra (Local)",2417
+2023-08,Maharashtra,"Bajra (Local)",2407
+2023-09,Maharashtra,"Bajra (Local)",2444
+2023-10,Maharashtra,"Bajra (Local)",2402
+2023-11,Maharashtra,"Bajra (Local)",2438
+2023-12,Maharashtra,"Bajra (Local)",2251
+2023-01,Delhi,"Bajra (White)",2600
+2023-02,Delhi,"Bajra (White)",2488
+2023-03,Delhi,"Bajra (White)",2580
+2023-04,Delhi,"Bajra (White)",2625
+2023-05,Delhi,"Bajra (White)",2650
+2023-06,Delhi,"Bajra (White)",2650
+2023-07,Delhi,"Bajra (White)",2650
+2023-08,Delhi,"Bajra (White)",2488
+2023-09,Delhi,"Bajra (White)",2560
+2023-10,Delhi,"Bajra (White)",2600
+2023-11,Delhi,"Bajra (White)",2650
+2023-12,Delhi,"Bajra (White)",2412
+2023-01,Rajasthan,"Bajra (Coarse)",2035
+2023-02,Rajasthan,"Bajra (Coarse)",1975
+2023-03,Rajasthan,"Bajra (Coarse)",2144
+2023-04,Rajasthan,"Bajra (Coarse)",2323
+2023-05,Rajasthan,"Bajra (Coarse)",2100
+2023-06,Rajasthan,"Bajra (Coarse)",1975
+2023-07,Rajasthan,"Bajra (Coarse)",1913
+2023-08,Rajasthan,"Bajra (Coarse)",1984
+2023-09,Rajasthan,"Bajra (Coarse)",2075
+2023-10,Rajasthan,"Bajra (Coarse)",2200
+2023-11,Rajasthan,"Bajra (Coarse)",2319
+2023-12,Rajasthan,"Bajra (Coarse)",2375
+2023-01,Rajasthan,Bajra,2160
+2023-02,Rajasthan,Bajra,2133
+2023-03,Rajasthan,Bajra,2022
+2023-04,Rajasthan,Bajra,2163
+2023-05,Rajasthan,Bajra,2050
+2023-06,Rajasthan,Bajra,2165
+2023-07,Rajasthan,Bajra,2011
+2023-08,Rajasthan,Bajra,1878
+2023-09,Rajasthan,Bajra,2013
+2023-10,Rajasthan,Bajra,1880
+2023-11,Rajasthan,Bajra,2051
+2023-12,Rajasthan,Bajra,2120
+2023-01,Rajasthan,"Bajra (FAQ)",2329
+2023-02,Rajasthan,"Bajra (FAQ)",2343
+2023-03,Rajasthan,"Bajra (FAQ)",2394
+2023-04,Rajasthan,"Bajra (FAQ)",2469
+2023-05,Rajasthan,"Bajra (FAQ)",2431
+2023-06,Rajasthan,"Bajra (FAQ)",2308
+2023-07,Rajasthan,"Bajra (FAQ)",2350
+2023-08,Rajasthan,"Bajra (FAQ)",2354
+2023-09,Rajasthan,"Bajra (FAQ)",2268
+2023-10,Rajasthan,"Bajra (FAQ)",2281
+2023-11,Rajasthan,"Bajra (FAQ)",2380
+2023-12,Rajasthan,"Bajra (FAQ)",2451
+2023-01,"Tamil Nadu","Bajra (Arsi)",2890
+2023-02,"Tamil Nadu","Bajra (Arsi)",3024
+2023-03,"Tamil Nadu","Bajra (Arsi)",3330
+2023-04,"Tamil Nadu","Bajra (Arsi)",3544
+2023-05,"Tamil Nadu","Bajra (Arsi)",7525
+2023-06,"Tamil Nadu","Bajra (Arsi)",3760
+2023-07,"Tamil Nadu","Bajra (Arsi)",3860
+2023-08,"Tamil Nadu","Bajra (Arsi)",3950
+2023-09,"Tamil Nadu","Bajra (Arsi)",3950
+2023-10,"Tamil Nadu","Bajra (Arsi)",3825
+2023-11,"Tamil Nadu","Bajra (Arsi)",4125
+2023-12,"Tamil Nadu","Bajra (Arsi)",4180
+2023-01,"Uttar Pradesh",Bajra,2373
+2023-02,"Uttar Pradesh",Bajra,2348
+2023-03,"Uttar Pradesh",Bajra,2274
+2023-04,"Uttar Pradesh",Bajra,2169
+2023-05,"Uttar Pradesh",Bajra,2171
+2023-06,"Uttar Pradesh",Bajra,2179
+2023-07,"Uttar Pradesh",Bajra,2159
+2023-08,"Uttar Pradesh",Bajra,2015
+2023-09,"Uttar Pradesh",Bajra,1993
+2023-10,"Uttar Pradesh",Bajra,2169
+2023-11,"Uttar Pradesh",Bajra,2510
+2023-12,"Uttar Pradesh",Bajra,2405
+2023-01,"Uttar Pradesh","Bajra (Dora)",2359
+2023-02,"Uttar Pradesh","Bajra (Dora)",2346
+2023-03,"Uttar Pradesh","Bajra (Dora)",2193
+2023-04,"Uttar Pradesh","Bajra (Dora)",2153
+2023-05,"Uttar Pradesh","Bajra (Dora)",2149
+2023-06,"Uttar Pradesh","Bajra (Dora)",2161
+2023-07,"Uttar Pradesh","Bajra (Dora)",2143
+2023-08,"Uttar Pradesh","Bajra (Dora)",2029
+2023-09,"Uttar Pradesh","Bajra (Dora)",1930
+2023-10,"Uttar Pradesh","Bajra (Dora)",1979
+2023-11,"Uttar Pradesh","Bajra (Dora)",2283
+2023-12,"Uttar Pradesh","Bajra (Dora)",2237
+2023-01,"Tamil Nadu",Maize,2900
+2023-02,"Tamil Nadu",Maize,2800
+2023-03,"Tamil Nadu",Maize,2700
+2023-04,"Tamil Nadu",Maize,2575
+2023-05,"Tamil Nadu",Maize,2700
+2023-06,"Tamil Nadu",Maize,2560
+2023-07,"Tamil Nadu",Maize,2550
+2023-08,"Tamil Nadu",Maize,2775
+2023-09,"Tamil Nadu",Maize,2780
+2023-10,"Tamil Nadu",Maize,2650
+2023-11,"Tamil Nadu",Maize,2700
+2023-12,"Tamil Nadu",Maize,2760
+2023-01,"Uttar Pradesh","Maize (Yellow)",2247
+2023-02,"Uttar Pradesh","Maize (Yellow)",2241
+2023-03,"Uttar Pradesh","Maize (Yellow)",2197
+2023-04,"Uttar Pradesh","Maize (Yellow)",2270
+2023-05,"Uttar Pradesh","Maize (Yellow)",2207
+2023-06,"Uttar Pradesh","Maize (Yellow)",2030
+2023-07,"Uttar Pradesh","Maize (Yellow)",1980
+2023-08,"Uttar Pradesh","Maize (Yellow)",1945
+2023-09,"Uttar Pradesh","Maize (Yellow)",1984
+2023-10,"Uttar Pradesh","Maize (Yellow)",2082
+2023-11,"Uttar Pradesh","Maize (Yellow)",2175
+2023-12,"Uttar Pradesh","Maize (Yellow)",2200
+2023-01,"West Bengal",Maize,3025
+2023-02,"West Bengal",Maize,3125
+2023-03,"West Bengal",Maize,3060
+2023-04,"West Bengal",Maize,2975
+2023-05,"West Bengal",Maize,2875
+2023-06,"West Bengal",Maize,2860
+2023-07,"West Bengal",Maize,3113
+2023-08,"West Bengal",Maize,3375
+2023-09,"West Bengal",Maize,3450
+2023-10,"West Bengal",Maize,3250
+2023-11,"West Bengal",Maize,3213
+2023-12,"West Bengal",Maize,3040
+2023-01,Delhi,"Maize (Yellow)",2075
+2023-02,Delhi,"Maize (Yellow)",2113
+2023-03,Delhi,"Maize (Yellow)",2180
+2023-04,Delhi,"Maize (Yellow)",2275
+2023-05,Delhi,"Maize (Yellow)",2400
+2023-06,Delhi,"Maize (Yellow)",2400
+2023-07,Delhi,"Maize (Yellow)",2378
+2023-08,Delhi,"Maize (Yellow)",2395
+2023-09,Delhi,"Maize (Yellow)",2400
+2023-10,Delhi,"Maize (Yellow)",2375
+2023-11,Delhi,"Maize (Yellow)",2300
+2023-12,Delhi,"Maize (Yellow)",2352
+2023-01,Telangana,Maize,2075
+2023-01,Telangana,"Maize (Hybrid)",2229
+2023-01,Bihar,"Maize (White)",2193
+2023-01,Gujarat,"Maize (Yellow)",2259
+2023-01,Gujarat,"Maize (White)",2475
+2023-02,Telangana,Maize,2125
+2023-02,Telangana,"Maize (Hybrid)",2194
+2023-02,Bihar,"Maize (White)",2200
+2023-02,Gujarat,"Maize (Yellow)",2297
+2023-02,Gujarat,"Maize (White)",2631
+2023-03,Telangana,Maize,2180
+2023-03,Telangana,"Maize (Hybrid)",2065
+2023-03,Bihar,"Maize (White)",2172
+2023-03,Gujarat,"Maize (Yellow)",2239
+2023-03,Gujarat,"Maize (White)",2505
+2023-04,Telangana,Maize,2225
+2023-04,Telangana,"Maize (Hybrid)",1853
+2023-04,Bihar,"Maize (White)",2160
+2023-04,Gujarat,"Maize (Yellow)",2103
+2023-04,Gujarat,"Maize (White)",2473
+2023-05,Telangana,Maize,2250
+2023-05,Telangana,"Maize (Hybrid)",1789
+2023-05,Bihar,"Maize (White)",2098
+2023-05,Gujarat,"Maize (Yellow)",1892
+2023-05,Gujarat,"Maize (White)",2300
+2023-06,Telangana,Maize,2140
+2023-06,Telangana,"Maize (Hybrid)",1773
+2023-06,Bihar,"Maize (White)",1944
+2023-06,Gujarat,"Maize (Yellow)",1858
+2023-06,Gujarat,"Maize (White)",2250
+2023-07,Telangana,Maize,2238
+2023-07,Telangana,"Maize (Hybrid)",2007
+2023-07,Bihar,"Maize (White)",1888
+2023-07,Gujarat,"Maize (Yellow)",2043
+2023-07,Gujarat,"Maize (White)",2575
+2023-08,Telangana,Maize,2288
+2023-08,Telangana,"Maize (Hybrid)",1978
+2023-08,Bihar,"Maize (White)",1968
+2023-08,Gujarat,"Maize (Yellow)",2126
+2023-08,Gujarat,"Maize (White)",2575
+2023-09,Telangana,Maize,2244
+2023-09,Telangana,"Maize (Hybrid)",2155
+2023-09,Bihar,"Maize (White)",1984
+2023-09,Gujarat,"Maize (Yellow)",2099
+2023-09,Gujarat,"Maize (White)",2630
+2023-10,Telangana,Maize,2250
+2023-10,Telangana,"Maize (Hybrid)",2095
+2023-10,Bihar,"Maize (White)",1985
+2023-10,Gujarat,"Maize (Yellow)",2066
+2023-10,Gujarat,"Maize (White)",2450
+2023-11,Telangana,Maize,2263
+2023-11,Telangana,"Maize (Hybrid)",2129
+2023-11,Bihar,"Maize (White)",2039
+2023-11,Gujarat,"Maize (Yellow)",2117
+2023-11,Gujarat,"Maize (White)",2363
+2023-12,Telangana,Maize,2270
+2023-12,Telangana,"Maize (Hybrid)",2176
+2023-12,Bihar,"Maize (White)",2092
+2023-12,Gujarat,"Maize (Yellow)",2193
+2023-12,Gujarat,"Maize (White)",2490
+2023-01,"Madhya Pradesh","Maize (White)",2073
+2023-01,"Madhya Pradesh",Maize,2123
+2023-01,Assam,"Maize (Common)",2150
+2023-01,Rajasthan,"Maize (Red)",2388
+2023-01,Rajasthan,"Maize (Yellow)",2376
+2023-01,Rajasthan,Maize,2163
+2023-02,"Madhya Pradesh","Maize (White)",2075
+2023-02,"Madhya Pradesh",Maize,2023
+2023-02,Assam,"Maize (Common)",2150
+2023-02,Rajasthan,"Maize (Red)",2450
+2023-02,Rajasthan,"Maize (Yellow)",2305
+2023-02,Rajasthan,Maize,2093
+2023-03,"Madhya Pradesh","Maize (White)",2050
+2023-03,"Madhya Pradesh",Maize,1991
+2023-03,Assam,"Maize (Common)",2150
+2023-03,Rajasthan,"Maize (Red)",2410
+2023-03,Rajasthan,"Maize (Yellow)",2114
+2023-03,Rajasthan,Maize,2074
+2023-04,"Madhya Pradesh","Maize (White)",2025
+2023-04,"Madhya Pradesh",Maize,1936
+2023-04,Assam,"Maize (Common)",2113
+2023-04,Rajasthan,"Maize (Red)",2350
+2023-04,Rajasthan,"Maize (Yellow)",2101
+2023-04,Rajasthan,Maize,2089
+2023-05,"Madhya Pradesh","Maize (White)",-1
+2023-05,"Madhya Pradesh",Maize,1761
+2023-05,Assam,"Maize (Common)",1863
+2023-05,Rajasthan,"Maize (Red)",2253
+2023-05,Rajasthan,"Maize (Yellow)",2008
+2023-05,Rajasthan,Maize,1930
+2023-06,"Madhya Pradesh","Maize (White)",-1
+2023-06,"Madhya Pradesh",Maize,1820
+2023-06,Assam,"Maize (Common)",1800
+2023-06,Rajasthan,"Maize (Red)",2360
+2023-06,Rajasthan,"Maize (Yellow)",2091
+2023-06,Rajasthan,Maize,1900
+2023-07,"Madhya Pradesh","Maize (White)",-1
+2023-07,"Madhya Pradesh",Maize,2035
+2023-07,Assam,"Maize (Common)",1800
+2023-07,Rajasthan,"Maize (Red)",2265
+2023-07,Rajasthan,"Maize (Yellow)",2380
+2023-07,Rajasthan,Maize,2023
+2023-08,"Madhya Pradesh","Maize (White)",-1
+2023-08,"Madhya Pradesh",Maize,2032
+2023-08,Assam,"Maize (Common)",1800
+2023-08,Rajasthan,"Maize (Red)",2210
+2023-08,Rajasthan,"Maize (Yellow)",2300
+2023-08,Rajasthan,Maize,1921
+2023-09,"Madhya Pradesh","Maize (White)",-1
+2023-09,"Madhya Pradesh",Maize,2003
+2023-09,Assam,"Maize (Common)",1975
+2023-09,Rajasthan,"Maize (Red)",2180
+2023-09,Rajasthan,"Maize (Yellow)",2218
+2023-09,Rajasthan,Maize,1923
+2023-10,"Madhya Pradesh","Maize (White)",-1
+2023-10,"Madhya Pradesh",Maize,1993
+2023-10,Assam,"Maize (Common)",1975
+2023-10,Rajasthan,"Maize (Red)",2504
+2023-10,Rajasthan,"Maize (Yellow)",2067
+2023-10,Rajasthan,Maize,1850
+2023-11,"Madhya Pradesh","Maize (White)",1800
+2023-11,"Madhya Pradesh",Maize,2144
+2023-11,Assam,"Maize (Common)",2369
+2023-11,Rajasthan,"Maize (Red)",2374
+2023-11,Rajasthan,"Maize (Yellow)",2155
+2023-11,Rajasthan,Maize,2038
+2023-12,"Madhya Pradesh","Maize (White)",1880
+2023-12,"Madhya Pradesh",Maize,2029
+2023-12,Assam,"Maize (Common)",2520
+2023-12,Rajasthan,"Maize (Red)",2416
+2023-12,Rajasthan,"Maize (Yellow)",2216
+2023-12,Rajasthan,Maize,2086
+2023-01,"Andhra Pradesh",Maize,2350
+2023-01,"Jammu & Kashmir","Maize (Superior)",2625
+2023-01,Karnataka,Maize,2317
+2023-01,Karnataka,"Maize (Hybrid)",2101
+2023-02,"Andhra Pradesh",Maize,2400
+2023-02,"Jammu & Kashmir","Maize (Superior)",2700
+2023-02,Karnataka,Maize,2332
+2023-02,Karnataka,"Maize (Hybrid)",2000
+2023-03,"Andhra Pradesh",Maize,2420
+2023-03,"Jammu & Kashmir","Maize (Superior)",2700
+2023-03,Karnataka,Maize,2318
+2023-03,Karnataka,"Maize (Hybrid)",2076
+2023-04,"Andhra Pradesh",Maize,2325
+2023-04,"Jammu & Kashmir","Maize (Superior)",2700
+2023-04,Karnataka,Maize,2279
+2023-04,Karnataka,"Maize (Hybrid)",1961
+2023-05,"Andhra Pradesh",Maize,2208
+2023-05,"Jammu & Kashmir","Maize (Superior)",2705
+2023-05,Karnataka,Maize,2232
+2023-05,Karnataka,"Maize (Hybrid)",1869
+2023-06,"Andhra Pradesh",Maize,2424
+2023-06,"Jammu & Kashmir","Maize (Superior)",2720
+2023-06,Karnataka,Maize,2274
+2023-06,Karnataka,"Maize (Hybrid)",1922
+2023-07,"Andhra Pradesh",Maize,2500
+2023-07,"Jammu & Kashmir","Maize (Superior)",2720
+2023-07,Karnataka,Maize,2400
+2023-07,Karnataka,"Maize (Hybrid)",1998
+2023-08,"Andhra Pradesh",Maize,2463
+2023-08,"Jammu & Kashmir","Maize (Superior)",2720
+2023-08,Karnataka,Maize,2425
+2023-08,Karnataka,"Maize (Hybrid)",2029
+2023-09,"Andhra Pradesh",Maize,2510
+2023-09,"Jammu & Kashmir","Maize (Superior)",2560
+2023-09,Karnataka,Maize,2500
+2023-09,Karnataka,"Maize (Hybrid)",2117
+2023-10,"Andhra Pradesh",Maize,2350
+2023-10,"Jammu & Kashmir","Maize (Superior)",2420
+2023-10,Karnataka,Maize,2359
+2023-10,Karnataka,"Maize (Hybrid)",2129
+2023-11,"Andhra Pradesh",Maize,2425
+2023-11,"Jammu & Kashmir","Maize (Superior)",2450
+2023-11,Karnataka,Maize,2413
+2023-11,Karnataka,"Maize (Hybrid)",2275
+2023-12,"Andhra Pradesh",Maize,2650
+2023-12,"Jammu & Kashmir","Maize (Superior)",2560
+2023-12,Karnataka,Maize,2245
+2023-12,Karnataka,"Maize (Hybrid)",2218
+2023-01,Telangana,"Wheat (Bansi)",2975
+2023-02,Telangana,"Wheat (Bansi)",2950
+2023-03,Telangana,"Wheat (Bansi)",2900
+2023-04,Telangana,"Wheat (Bansi)",2775
+2023-05,Telangana,"Wheat (Bansi)",2850
+2023-06,Telangana,"Wheat (Bansi)",3290
+2023-07,Telangana,"Wheat (Bansi)",3350
+2023-08,Telangana,"Wheat (Bansi)",3400
+2023-09,Telangana,"Wheat (Bansi)",3500
+2023-10,Telangana,"Wheat (Bansi)",3625
+2023-11,Telangana,"Wheat (Bansi)",3250
+2023-12,Telangana,"Wheat (Bansi)",3420
+2023-01,"Andhra Pradesh","Wheat (Bansi)",3150
+2023-02,"Andhra Pradesh","Wheat (Bansi)",3150
+2023-03,"Andhra Pradesh","Wheat (Bansi)",3090
+2023-04,"Andhra Pradesh","Wheat (Bansi)",3013
+2023-05,"Andhra Pradesh","Wheat (Bansi)",3075
+2023-06,"Andhra Pradesh","Wheat (Bansi)",3040
+2023-07,"Andhra Pradesh","Wheat (Bansi)",3188
+2023-08,"Andhra Pradesh","Wheat (Bansi)",3250
+2023-09,"Andhra Pradesh","Wheat (Bansi)",3190
+2023-10,"Andhra Pradesh","Wheat (Bansi)",3325
+2023-11,"Andhra Pradesh","Wheat (Bansi)",3400
+2023-12,"Andhra Pradesh","Wheat (Bansi)",3500
+2023-01,Bihar,"Wheat (FAQ)",3028
+2023-02,Bihar,"Wheat (FAQ)",3050
+2023-03,Bihar,"Wheat (FAQ)",2978
+2023-04,Bihar,"Wheat (FAQ)",2818
+2023-05,Bihar,"Wheat (FAQ)",2713
+2023-06,Bihar,"Wheat (FAQ)",2750
+2023-07,Bihar,"Wheat (FAQ)",2780
+2023-08,Bihar,"Wheat (FAQ)",2730
+2023-09,Bihar,"Wheat (FAQ)",2754
+2023-10,Bihar,"Wheat (FAQ)",2733
+2023-11,Bihar,"Wheat (FAQ)",2780
+2023-12,Bihar,"Wheat (FAQ)",2839
+2023-01,Bihar,"Wheat (308)",2858
+2023-02,Bihar,"Wheat (308)",2890
+2023-03,Bihar,"Wheat (308)",2802
+2023-04,Bihar,"Wheat (308)",2645
+2023-05,Bihar,"Wheat (308)",2530
+2023-06,Bihar,"Wheat (308)",2620
+2023-07,Bihar,"Wheat (308)",2635
+2023-08,Bihar,"Wheat (308)",2635
+2023-09,Bihar,"Wheat (308)",2658
+2023-10,Bihar,"Wheat (308)",2658
+2023-11,Bihar,"Wheat (308)",2708
+2023-12,Bihar,"Wheat (308)",2754
+2023-01,Gujarat,"Wheat (White)",2669
+2023-02,Gujarat,"Wheat (White)",2549
+2023-03,Gujarat,"Wheat (White)",2376
+2023-04,Gujarat,"Wheat (White)",2825
+2023-05,Gujarat,"Wheat (White)",2284
+2023-06,Gujarat,"Wheat (White)",2180
+2023-07,Gujarat,"Wheat (White)",2200
+2023-08,Gujarat,"Wheat (White)",2363
+2023-09,Gujarat,"Wheat (White)",2440
+2023-10,Gujarat,"Wheat (White)",2508
+2023-11,Gujarat,"Wheat (White)",2644
+2023-12,Gujarat,"Wheat (White)",2570
+2023-01,Gujarat,"Wheat (Lokvan)",2773
+2023-02,Gujarat,"Wheat (Lokvan)",2559
+2023-03,Gujarat,"Wheat (Lokvan)",2182
+2023-04,Gujarat,"Wheat (Lokvan)",2210
+2023-05,Gujarat,"Wheat (Lokvan)",2219
+2023-06,Gujarat,"Wheat (Lokvan)",2216
+2023-07,Gujarat,"Wheat (Lokvan)",2285
+2023-08,Gujarat,"Wheat (Lokvan)",2479
+2023-09,Gujarat,"Wheat (Lokvan)",2498
+2023-10,Gujarat,"Wheat (Lokvan)",2584
+2023-11,Gujarat,"Wheat (Lokvan)",2751
+2023-12,Gujarat,"Wheat (Lokvan)",2729
+2023-01,Gujarat,"Wheat (J 17)",2700
+2023-01,Gujarat,"Wheat (Desi)",2867
+2023-01,Haryana,Wheat,2403
+2023-01,Haryana,"Wheat (Mexicon)",2638
+2023-01,"Jammu & Kashmir","Wheat (Local)",3100
+2023-02,Gujarat,"Wheat (J 17)",2588
+2023-02,Gujarat,"Wheat (Desi)",2702
+2023-02,Haryana,Wheat,2373
+2023-02,Haryana,"Wheat (Mexicon)",2375
+2023-02,"Jammu & Kashmir","Wheat (Local)",2900
+2023-03,Gujarat,"Wheat (J 17)",2245
+2023-03,Gujarat,"Wheat (Desi)",2380
+2023-03,Haryana,Wheat,2345
+2023-03,Haryana,"Wheat (Mexicon)",2164
+2023-03,"Jammu & Kashmir","Wheat (Local)",2900
+2023-04,Gujarat,"Wheat (J 17)",2250
+2023-04,Gujarat,"Wheat (Desi)",2862
+2023-04,Haryana,Wheat,2173
+2023-04,Haryana,"Wheat (Mexicon)",2124
+2023-04,"Jammu & Kashmir","Wheat (Local)",2800
+2023-05,Gujarat,"Wheat (J 17)",2270
+2023-05,Gujarat,"Wheat (Desi)",2771
+2023-05,Haryana,Wheat,2228
+2023-05,Haryana,"Wheat (Mexicon)",2136
+2023-05,"Jammu & Kashmir","Wheat (Local)",2800
+2023-06,Gujarat,"Wheat (J 17)",2305
+2023-06,Gujarat,"Wheat (Desi)",2655
+2023-06,Haryana,Wheat,2286
+2023-06,Haryana,"Wheat (Mexicon)",2194
+2023-06,"Jammu & Kashmir","Wheat (Local)",2800
+2023-07,Gujarat,"Wheat (J 17)",2231
+2023-07,Gujarat,"Wheat (Desi)",2295
+2023-07,Haryana,Wheat,2343
+2023-07,Haryana,"Wheat (Mexicon)",2163
+2023-07,"Jammu & Kashmir","Wheat (Local)",2900
+2023-08,Gujarat,"Wheat (J 17)",2313
+2023-08,Gujarat,"Wheat (Desi)",2454
+2023-08,Haryana,Wheat,2360
+2023-08,Haryana,"Wheat (Mexicon)",2240
+2023-08,"Jammu & Kashmir","Wheat (Local)",2900
+2023-09,Gujarat,"Wheat (J 17)",2335
+2023-09,Gujarat,"Wheat (Desi)",2497
+2023-09,Haryana,Wheat,2370
+2023-09,Haryana,"Wheat (Mexicon)",2260
+2023-09,"Jammu & Kashmir","Wheat (Local)",-1
+2023-10,Gujarat,"Wheat (J 17)",2325
+2023-10,Gujarat,"Wheat (Desi)",2603
+2023-10,Haryana,Wheat,2533
+2023-10,Haryana,"Wheat (Mexicon)",2413
+2023-10,"Jammu & Kashmir","Wheat (Local)",-1
+2023-11,Gujarat,"Wheat (J 17)",2550
+2023-11,Gujarat,"Wheat (Desi)",2766
+2023-11,Haryana,Wheat,2473
+2023-11,Haryana,"Wheat (Mexicon)",2438
+2023-11,"Jammu & Kashmir","Wheat (Local)",-1
+2023-12,Gujarat,"Wheat (J 17)",2485
+2023-12,Gujarat,"Wheat (Desi)",2706
+2023-12,Haryana,Wheat,2354
+2023-12,Haryana,"Wheat (Mexicon)",2402
+2023-12,"Jammu & Kashmir","Wheat (Local)",-1
+2023-01,Karnataka,Wheat,3453
+2023-01,"Madhya Pradesh","Wheat (Local)",2711
+2023-01,"Madhya Pradesh","Wheat (Common)",2704
+2023-01,Maharashtra,"Wheat (227)",2800
+2023-01,Maharashtra,"Wheat (Kalyan Sona)",2725
+2023-02,Karnataka,Wheat,3384
+2023-02,"Madhya Pradesh","Wheat (Local)",2366
+2023-02,"Madhya Pradesh","Wheat (Common)",2286
+2023-02,Maharashtra,"Wheat (227)",2310
+2023-02,Maharashtra,"Wheat (Kalyan Sona)",2563
+2023-03,Karnataka,Wheat,3242
+2023-03,"Madhya Pradesh","Wheat (Local)",2132
+2023-03,"Madhya Pradesh","Wheat (Common)",2094
+2023-03,Maharashtra,"Wheat (227)",2310
+2023-03,Maharashtra,"Wheat (Kalyan Sona)",2230
+2023-04,Karnataka,Wheat,3076
+2023-04,"Madhya Pradesh","Wheat (Local)",2095
+2023-04,"Madhya Pradesh","Wheat (Common)",2101
+2023-04,Maharashtra,"Wheat (227)",2400
+2023-04,Maharashtra,"Wheat (Kalyan Sona)",2263
+2023-05,Karnataka,Wheat,2980
+2023-05,"Madhya Pradesh","Wheat (Local)",2175
+2023-05,"Madhya Pradesh","Wheat (Common)",2170
+2023-05,Maharashtra,"Wheat (227)",2288
+2023-05,Maharashtra,"Wheat (Kalyan Sona)",2225
+2023-06,Karnataka,Wheat,3071
+2023-06,"Madhya Pradesh","Wheat (Local)",2264
+2023-06,"Madhya Pradesh","Wheat (Common)",2181
+2023-06,Maharashtra,"Wheat (227)",2315
+2023-06,Maharashtra,"Wheat (Kalyan Sona)",2270
+2023-07,Karnataka,Wheat,3192
+2023-07,"Madhya Pradesh","Wheat (Local)",2268
+2023-07,"Madhya Pradesh","Wheat (Common)",2230
+2023-07,Maharashtra,"Wheat (227)",2338
+2023-07,Maharashtra,"Wheat (Kalyan Sona)",2253
+2023-08,Karnataka,Wheat,3315
+2023-08,"Madhya Pradesh","Wheat (Local)",2400
+2023-08,"Madhya Pradesh","Wheat (Common)",2370
+2023-08,Maharashtra,"Wheat (227)",2480
+2023-08,Maharashtra,"Wheat (Kalyan Sona)",2358
+2023-09,Karnataka,Wheat,3370
+2023-09,"Madhya Pradesh","Wheat (Local)",2468
+2023-09,"Madhya Pradesh","Wheat (Common)",2375
+2023-09,Maharashtra,"Wheat (227)",2511
+2023-09,Maharashtra,"Wheat (Kalyan Sona)",2435
+2023-10,Karnataka,Wheat,3487
+2023-10,"Madhya Pradesh","Wheat (Local)",2890
+2023-10,"Madhya Pradesh","Wheat (Common)",2398
+2023-10,Maharashtra,"Wheat (227)",2564
+2023-10,Maharashtra,"Wheat (Kalyan Sona)",2368
+2023-11,Karnataka,Wheat,3560
+2023-11,"Madhya Pradesh","Wheat (Local)",2564
+2023-11,"Madhya Pradesh","Wheat (Common)",2450
+2023-11,Maharashtra,"Wheat (227)",2706
+2023-11,Maharashtra,"Wheat (Kalyan Sona)",2525
+2023-12,Karnataka,Wheat,3613
+2023-12,"Madhya Pradesh","Wheat (Local)",2515
+2023-12,"Madhya Pradesh","Wheat (Common)",2450
+2023-12,Maharashtra,"Wheat (227)",2660
+2023-12,Maharashtra,"Wheat (Kalyan Sona)",2706
+2023-01,Delhi,"Wheat (Dora)",2300
+2023-01,Odisha,"Wheat (Common)",2800
+2023-01,Punjab,"Wheat (PBW 343)",-1
+2023-01,Rajasthan,"Wheat (FAQ)",2728
+2023-01,Rajasthan,"Wheat (Kalyan)",2588
+2023-01,"Tamil Nadu",Wheat,4150
+2023-02,Delhi,"Wheat (Dora)",2325
+2023-02,Odisha,"Wheat (Common)",3000
+2023-02,Punjab,"Wheat (PBW 343)",-1
+2023-02,Rajasthan,"Wheat (FAQ)",2700
+2023-02,Rajasthan,"Wheat (Kalyan)",2450
+2023-02,"Tamil Nadu",Wheat,4000
+2023-03,Delhi,"Wheat (Dora)",2360
+2023-03,Odisha,"Wheat (Common)",3000
+2023-03,Punjab,"Wheat (PBW 343)",-1
+2023-03,Rajasthan,"Wheat (FAQ)",2573
+2023-03,Rajasthan,"Wheat (Kalyan)",2303
+2023-03,"Tamil Nadu",Wheat,3720
+2023-04,Delhi,"Wheat (Dora)",2390
+2023-04,Odisha,"Wheat (Common)",2975
+2023-04,Punjab,"Wheat (PBW 343)",2125
+2023-04,Rajasthan,"Wheat (FAQ)",2456
+2023-04,Rajasthan,"Wheat (Kalyan)",2240
+2023-04,"Tamil Nadu",Wheat,3675
+2023-05,Delhi,"Wheat (Dora)",2373
+2023-05,Odisha,"Wheat (Common)",2925
+2023-05,Punjab,"Wheat (PBW 343)",2119
+2023-05,Rajasthan,"Wheat (FAQ)",2425
+2023-05,Rajasthan,"Wheat (Kalyan)",2140
+2023-05,"Tamil Nadu",Wheat,3713
+2023-06,Delhi,"Wheat (Dora)",2360
+2023-06,Odisha,"Wheat (Common)",3000
+2023-06,Punjab,"Wheat (PBW 343)",2080
+2023-06,Rajasthan,"Wheat (FAQ)",2469
+2023-06,Rajasthan,"Wheat (Kalyan)",2071
+2023-06,"Tamil Nadu",Wheat,3580
+2023-07,Delhi,"Wheat (Dora)",2403
+2023-07,Odisha,"Wheat (Common)",3000
+2023-07,Punjab,"Wheat (PBW 343)",2025
+2023-07,Rajasthan,"Wheat (FAQ)",2438
+2023-07,Rajasthan,"Wheat (Kalyan)",2150
+2023-07,"Tamil Nadu",Wheat,3675
+2023-08,Delhi,"Wheat (Dora)",2488
+2023-08,Odisha,"Wheat (Common)",3000
+2023-08,Punjab,"Wheat (PBW 343)",-1
+2023-08,Rajasthan,"Wheat (FAQ)",2583
+2023-08,Rajasthan,"Wheat (Kalyan)",2189
+2023-08,"Tamil Nadu",Wheat,4050
+2023-09,Delhi,"Wheat (Dora)",2382
+2023-09,Odisha,"Wheat (Common)",3000
+2023-09,Punjab,"Wheat (PBW 343)",-1
+2023-09,Rajasthan,"Wheat (FAQ)",2530
+2023-09,Rajasthan,"Wheat (Kalyan)",2096
+2023-09,"Tamil Nadu",Wheat,4120
+2023-10,Delhi,"Wheat (Dora)",2375
+2023-10,Odisha,"Wheat (Common)",3000
+2023-10,Punjab,"Wheat (PBW 343)",-1
+2023-10,Rajasthan,"Wheat (FAQ)",2576
+2023-10,Rajasthan,"Wheat (Kalyan)",2079
+2023-10,"Tamil Nadu",Wheat,4075
+2023-11,Delhi,"Wheat (Dora)",2495
+2023-11,Odisha,"Wheat (Common)",3000
+2023-11,Punjab,"Wheat (PBW 343)",-1
+2023-11,Rajasthan,"Wheat (FAQ)",2561
+2023-11,Rajasthan,"Wheat (Kalyan)",2091
+2023-11,"Tamil Nadu",Wheat,4275
+2023-12,Delhi,"Wheat (Dora)",2512
+2023-12,Odisha,"Wheat (Common)",3000
+2023-12,Punjab,"Wheat (PBW 343)",-1
+2023-12,Rajasthan,"Wheat (FAQ)",2525
+2023-12,Rajasthan,"Wheat (Kalyan)",2310
+2023-12,"Tamil Nadu",Wheat,4280
+2023-01,"Uttar Pradesh","Wheat (Dara)",2772
+2023-01,Odisha,"Wheat (Good)",2650
+2023-01,"West Bengal","Wheat (Sonalika)",2400
+2023-02,"Uttar Pradesh","Wheat (Dara)",2708
+2023-02,Odisha,"Wheat (Good)",2673
+2023-02,"West Bengal","Wheat (Sonalika)",2588
+2023-03,"Uttar Pradesh","Wheat (Dara)",2307
+2023-03,Odisha,"Wheat (Good)",2680
+2023-03,"West Bengal","Wheat (Sonalika)",2510
+2023-04,"Uttar Pradesh","Wheat (Dara)",2193
+2023-04,Odisha,"Wheat (Good)",2680
+2023-04,"West Bengal","Wheat (Sonalika)",2600
+2023-05,"Uttar Pradesh","Wheat (Dara)",2226
+2023-05,Odisha,"Wheat (Good)",2680
+2023-05,"West Bengal","Wheat (Sonalika)",2550
+2023-06,"Uttar Pradesh","Wheat (Dara)",2335
+2023-06,Odisha,"Wheat (Good)",2680
+2023-06,"West Bengal","Wheat (Sonalika)",2668
+2023-07,"Uttar Pradesh","Wheat (Dara)",2345
+2023-07,Odisha,"Wheat (Good)",2680
+2023-07,"West Bengal","Wheat (Sonalika)",2713
+2023-08,"Uttar Pradesh","Wheat (Dara)",2356
+2023-08,Odisha,"Wheat (Good)",2615
+2023-08,"West Bengal","Wheat (Sonalika)",2825
+2023-09,"Uttar Pradesh","Wheat (Dara)",2342
+2023-09,Odisha,"Wheat (Good)",2470
+2023-09,"West Bengal","Wheat (Sonalika)",2910
+2023-10,"Uttar Pradesh","Wheat (Dara)",2376
+2023-10,Odisha,"Wheat (Good)",2450
+2023-10,"West Bengal","Wheat (Sonalika)",2938
+2023-11,"Uttar Pradesh","Wheat (Dara)",2468
+2023-11,Odisha,"Wheat (Good)",2488
+2023-11,"West Bengal","Wheat (Sonalika)",2950
+2023-12,"Uttar Pradesh","Wheat (Dara)",2507
+2023-12,Odisha,"Wheat (Good)",2500
+2023-12,"West Bengal","Wheat (Sonalika)",2860
+2023-01,Telangana,"Sugar (S-30)",3580
+2023-02,Telangana,"Sugar (S-30)",3593
+2023-03,Telangana,"Sugar (S-30)",3608
+2023-04,Telangana,"Sugar (S-30)",3635
+2023-05,Telangana,"Sugar (S-30)",3673
+2023-06,Telangana,"Sugar (S-30)",3762
+2023-07,Telangana,"Sugar (S-30)",3830
+2023-08,Telangana,"Sugar (S-30)",3900
+2023-09,Telangana,"Sugar (S-30)",3977
+2023-10,Telangana,"Sugar (S-30)",4011
+2023-11,Telangana,"Sugar (S-30)",4083
+2023-12,Telangana,"Sugar (S-30)",3998
+2023-01,"Andhra Pradesh","Sugar (S-30)",3750
+2023-02,"Andhra Pradesh","Sugar (S-30)",3838
+2023-03,"Andhra Pradesh","Sugar (S-30)",3950
+2023-04,"Andhra Pradesh","Sugar (S-30)",3888
+2023-05,"Andhra Pradesh","Sugar (S-30)",3964
+2023-06,"Andhra Pradesh","Sugar (S-30)",4050
+2023-07,"Andhra Pradesh","Sugar (S-30)",4064
+2023-08,"Andhra Pradesh","Sugar (S-30)",4050
+2023-09,"Andhra Pradesh","Sugar (S-30)",4080
+2023-10,"Andhra Pradesh","Sugar (S-30)",4038
+2023-11,"Andhra Pradesh","Sugar (S-30)",4100
+2023-12,"Andhra Pradesh","Sugar (S-30)",4080
+2023-01,Bihar,"Sugar (M-30)",4095
+2023-02,Bihar,"Sugar (M-30)",4065
+2023-03,Bihar,"Sugar (M-30)",3990
+2023-04,Bihar,"Sugar (M-30)",4050
+2023-05,Bihar,"Sugar (M-30)",4078
+2023-06,Bihar,"Sugar (M-30)",4058
+2023-07,Bihar,"Sugar (M-30)",4090
+2023-08,Bihar,"Sugar (M-30)",4145
+2023-09,Bihar,"Sugar (M-30)",4200
+2023-10,Bihar,"Sugar (M-30)",4195
+2023-11,Bihar,"Sugar (M-30)",4200
+2023-12,Bihar,"Sugar (M-30)",4212
+2023-01,Haryana,Sugar,3933
+2023-02,Haryana,Sugar,3900
+2023-03,Haryana,Sugar,3896
+2023-04,Haryana,Sugar,3905
+2023-05,Haryana,Sugar,3913
+2023-06,Haryana,Sugar,1912
+2023-07,Haryana,Sugar,3915
+2023-08,Haryana,Sugar,3944
+2023-09,Haryana,Sugar,3913
+2023-10,Haryana,Sugar,3949
+2023-11,Haryana,Sugar,3938
+2023-12,Haryana,Sugar,3994
+2023-01,Maharashtra,Sugar,3450
+2023-02,Maharashtra,Sugar,3475
+2023-03,Maharashtra,Sugar,3470
+2023-04,Maharashtra,Sugar,3588
+2023-05,Maharashtra,Sugar,3588
+2023-06,Maharashtra,Sugar,3622
+2023-07,Maharashtra,Sugar,3668
+2023-08,Maharashtra,Sugar,3700
+2023-09,Maharashtra,Sugar,3830
+2023-10,Maharashtra,Sugar,3875
+2023-11,Maharashtra,Sugar,3938
+2023-12,Maharashtra,Sugar,4000
+2023-01,Odisha,"Sugar (S-30)",3964
+2023-02,Odisha,"Sugar (S-30)",4000
+2023-03,Odisha,"Sugar (S-30)",4000
+2023-04,Odisha,"Sugar (S-30)",4050
+2023-05,Odisha,"Sugar (S-30)",4100
+2023-06,Odisha,"Sugar (S-30)",4100
+2023-07,Odisha,"Sugar (S-30)",4100
+2023-08,Odisha,"Sugar (S-30)",4120
+2023-09,Odisha,"Sugar (S-30)",4224
+2023-10,Odisha,"Sugar (S-30)",4284
+2023-11,Odisha,"Sugar (S-30)",4300
+2023-12,Odisha,"Sugar (S-30)",4300
+2023-01,Punjab,"Sugar (Large)",4100
+2023-02,Punjab,"Sugar (Large)",4000
+2023-03,Punjab,"Sugar (Large)",4042
+2023-04,Punjab,"Sugar (Large)",4020
+2023-05,Punjab,"Sugar (Large)",4038
+2023-06,Punjab,"Sugar (Large)",4038
+2023-07,Punjab,"Sugar (Large)",3946
+2023-08,Punjab,"Sugar (Large)",3970
+2023-09,Punjab,"Sugar (Large)",3938
+2023-10,Punjab,"Sugar (Large)",3955
+2023-11,Punjab,"Sugar (Large)",4000
+2023-12,Punjab,"Sugar (Large)",4000
+2023-01,"Tamil Nadu","Sugar (OP)",3688
+2023-02,"Tamil Nadu","Sugar (OP)",3600
+2023-03,"Tamil Nadu","Sugar (OP)",3600
+2023-04,"Tamil Nadu","Sugar (OP)",3690
+2023-05,"Tamil Nadu","Sugar (OP)",3763
+2023-06,"Tamil Nadu","Sugar (OP)",3738
+2023-07,"Tamil Nadu","Sugar (OP)",3680
+2023-08,"Tamil Nadu","Sugar (OP)",3688
+2023-09,"Tamil Nadu","Sugar (OP)",3760
+2023-10,"Tamil Nadu","Sugar (OP)",3700
+2023-11,"Tamil Nadu","Sugar (OP)",3700
+2023-12,"Tamil Nadu","Sugar (OP)",3700
+2023-01,"Uttar Pradesh","Sugar (M-30)",3794
+2023-02,"Uttar Pradesh","Sugar (M-30)",3779
+2023-03,"Uttar Pradesh","Sugar (M-30)",3846
+2023-04,"Uttar Pradesh","Sugar (M-30)",3843
+2023-05,"Uttar Pradesh","Sugar (M-30)",3834
+2023-06,"Uttar Pradesh","Sugar (M-30)",3823
+2023-07,"Uttar Pradesh","Sugar (M-30)",3868
+2023-08,"Uttar Pradesh","Sugar (M-30)",3895
+2023-09,"Uttar Pradesh","Sugar (M-30)",3935
+2023-10,"Uttar Pradesh","Sugar (M-30)",3931
+2023-11,"Uttar Pradesh","Sugar (M-30)",3818
+2023-12,"Uttar Pradesh","Sugar (M-30)",3725
+2023-01,"Uttar Pradesh","Sugar (desi)",3704
+2023-02,"Uttar Pradesh","Sugar (desi)",3744
+2023-03,"Uttar Pradesh","Sugar (desi)",3794
+2023-04,"Uttar Pradesh","Sugar (desi)",3759
+2023-05,"Uttar Pradesh","Sugar (desi)",3729
+2023-06,"Uttar Pradesh","Sugar (desi)",3725
+2023-07,"Uttar Pradesh","Sugar (desi)",3717
+2023-08,"Uttar Pradesh","Sugar (desi)",3743
+2023-09,"Uttar Pradesh","Sugar (desi)",3774
+2023-10,"Uttar Pradesh","Sugar (desi)",3744
+2023-11,"Uttar Pradesh","Sugar (desi)",3823
+2023-12,"Uttar Pradesh","Sugar (desi)",3753
+2023-01,"West Bengal","Sugar (Medium)",3891
+2023-02,"West Bengal","Sugar (Medium)",3869
+2023-03,"West Bengal","Sugar (Medium)",3858
+2023-04,"West Bengal","Sugar (Medium)",3885
+2023-05,"West Bengal","Sugar (Medium)",3910
+2023-06,"West Bengal","Sugar (Medium)",3920
+2023-07,"West Bengal","Sugar (Medium)",3895
+2023-08,"West Bengal","Sugar (Medium)",4005
+2023-09,"West Bengal","Sugar (Medium)",4008
+2023-10,"West Bengal","Sugar (Medium)",4029
+2023-11,"West Bengal","Sugar (Medium)",4031
+2023-12,"West Bengal","Sugar (Medium)",3999
+2023-01,Delhi,"Sugar (M-30)",3625
+2023-02,Delhi,"Sugar (M-30)",3738
+2023-03,Delhi,"Sugar (M-30)",3750
+2023-04,Delhi,"Sugar (M-30)",3750
+2023-05,Delhi,"Sugar (M-30)",3725
+2023-06,Delhi,"Sugar (M-30)",3563
+2023-07,Delhi,"Sugar (M-30)",3600
+2023-08,Delhi,"Sugar (M-30)",3600
+2023-09,Delhi,"Sugar (M-30)",3600
+2023-10,Delhi,"Sugar (M-30)",3625
+2023-11,Delhi,"Sugar (M-30)",3650
+2023-12,Delhi,"Sugar (M-30)",3650
+2023-01,Punjab,"Sugar (Large)",4100
+2023-02,Punjab,"Sugar (Large)",4115
+2023-03,Punjab,"Sugar (Large)",3960
+2023-04,Punjab,"Sugar (Large)",3925
+2023-05,Punjab,"Sugar (Large)",4000
+2023-06,Punjab,"Sugar (Large)",4211
+2023-07,Punjab,"Sugar (Large)",4395
+2023-08,Punjab,"Sugar (Large)",4449
+2023-09,Punjab,"Sugar (Large)",4547
+2023-10,Punjab,"Sugar (Large)",4587
+2023-11,Punjab,"Sugar (Large)",4619
+2023-12,Punjab,"Sugar (Large)",4686
+2023-01,"Tamil Nadu","Sugar (OP)",3638
+2023-02,"Tamil Nadu","Sugar (OP)",3625
+2023-03,"Tamil Nadu","Sugar (OP)",3634
+2023-04,"Tamil Nadu","Sugar (OP)",3800
+2023-05,"Tamil Nadu","Sugar (OP)",3888
+2023-06,"Tamil Nadu","Sugar (OP)",3888
+2023-07,"Tamil Nadu","Sugar (OP)",3975
+2023-08,"Tamil Nadu","Sugar (OP)",3923
+2023-09,"Tamil Nadu","Sugar (OP)",4018
+2023-10,"Tamil Nadu","Sugar (OP)",4035
+2023-11,"Tamil Nadu","Sugar (OP)",4093
+2023-12,"Tamil Nadu","Sugar (OP)",4072
+2023-01,"Uttar Pradesh","Sugar (M-30)",3786
+2023-02,"Uttar Pradesh","Sugar (M-30)",3744
+2023-03,"Uttar Pradesh","Sugar (M-30)",3811
+2023-04,"Uttar Pradesh","Sugar (M-30)",3818
+2023-05,"Uttar Pradesh","Sugar (M-30)",3844
+2023-06,"Uttar Pradesh","Sugar (M-30)",3840
+2023-07,"Uttar Pradesh","Sugar (M-30)",3839
+2023-08,"Uttar Pradesh","Sugar (M-30)",3869
+2023-09,"Uttar Pradesh","Sugar (M-30)",3972
+2023-10,"Uttar Pradesh","Sugar (M-30)",4066
+2023-11,"Uttar Pradesh","Sugar (M-30)",4200
+2023-12,"Uttar Pradesh","Sugar (M-30)",4200
+2023-01,"Uttar Pradesh","Sugar (desi)",3755
+2023-02,"Uttar Pradesh","Sugar (desi)",3785
+2023-03,"Uttar Pradesh","Sugar (desi)",3788
+2023-04,"Uttar Pradesh","Sugar (desi)",3699
+2023-05,"Uttar Pradesh","Sugar (desi)",3839
+2023-06,"Uttar Pradesh","Sugar (desi)",3825
+2023-07,"Uttar Pradesh","Sugar (desi)",3853
+2023-08,"Uttar Pradesh","Sugar (desi)",3890
+2023-09,"Uttar Pradesh","Sugar (desi)",3983
+2023-10,"Uttar Pradesh","Sugar (desi)",4114
+2023-11,"Uttar Pradesh","Sugar (desi)",4265
+2023-12,"Uttar Pradesh","Sugar (desi)",4232
+2023-01,"West Bengal","Sugar (Medium)",3913
+2023-02,"West Bengal","Sugar (Medium)",3888
+2023-03,"West Bengal","Sugar (Medium)",3889
+2023-04,"West Bengal","Sugar (Medium)",4050
+2023-05,"West Bengal","Sugar (Medium)",4076
+2023-06,"West Bengal","Sugar (Medium)",4131
+2023-07,"West Bengal","Sugar (Medium)",4020
+2023-08,"West Bengal","Sugar (Medium)",4189
+2023-09,"West Bengal","Sugar (Medium)",4272
+2023-10,"West Bengal","Sugar (Medium)",4336
+2023-11,"West Bengal","Sugar (Medium)",4466
+2023-12,"West Bengal","Sugar (Medium)",4416
+2023-01,Delhi,"Sugar (M-30)",3650
+2023-02,Delhi,"Sugar (M-30)",3700
+2023-03,Delhi,"Sugar (M-30)",3700
+2023-04,Delhi,"Sugar (M-30)",3738
+2023-05,Delhi,"Sugar (M-30)",3750
+2023-06,Delhi,"Sugar (M-30)",3750
+2023-07,Delhi,"Sugar (M-30)",3763
+2023-08,Delhi,"Sugar (M-30)",3905
+2023-09,Delhi,"Sugar (M-30)",3950
+2023-10,Delhi,"Sugar (M-30)",4050
+2023-11,Delhi,"Sugar (M-30)",4200
+2023-12,Delhi,"Sugar (M-30)",4000
+2023-01,Bihar,"Gram (Desi)",5318
+2023-01,Bihar,Gram,5838
+2023-01,Gujarat,"Gram (Desi)",4756
+2023-01,Haryana,"Gram (Desi)",4898
+2023-01,"Jammu & Kashmir","Gram (Black)",6300
+2023-01,Bihar,"Gram (Desi)",5318
+2023-01,Bihar,Gram,5838
+2023-01,Gujarat,"Gram (Desi)",4756
+2023-01,Haryana,"Gram (Desi)",4898
+2023-01,"Jammu & Kashmir","Gram (Black)",6300
+2023-02,Bihar,"Gram (Desi)",5335
+2023-02,Bihar,Gram,5853
+2023-02,Gujarat,"Gram (Desi)",4749
+2023-02,Haryana,"Gram (Desi)",4850
+2023-02,"Jammu & Kashmir","Gram (Black)",6225
+2023-03,Bihar,"Gram (Desi)",5442
+2023-03,Bihar,Gram,5932
+2023-03,Gujarat,"Gram (Desi)",4839
+2023-03,Haryana,"Gram (Desi)",5078
+2023-03,"Jammu & Kashmir","Gram (Black)",6300
+2023-04,Bihar,"Gram (Desi)",5545
+2023-04,Bihar,Gram,5880
+2023-04,Gujarat,"Gram (Desi)",4781
+2023-04,Haryana,"Gram (Desi)",4883
+2023-04,"Jammu & Kashmir","Gram (Black)",6500
+2023-05,Bihar,"Gram (Desi)",5475
+2023-05,Bihar,Gram,5865
+2023-05,Gujarat,"Gram (Desi)",4790
+2023-05,Haryana,"Gram (Desi)",4775
+2023-05,"Jammu & Kashmir","Gram (Black)",6388
+2023-06,Bihar,"Gram (Desi)",5568
+2023-06,Bihar,Gram,5916
+2023-06,Gujarat,"Gram (Desi)",4821
+2023-06,Haryana,"Gram (Desi)",4752
+2023-06,"Jammu & Kashmir","Gram (Black)",6200
+2023-07,Bihar,"Gram (Desi)",5510
+2023-07,Bihar,Gram,5888
+2023-07,Gujarat,"Gram (Desi)",4985
+2023-07,Haryana,"Gram (Desi)",4928
+2023-07,"Jammu & Kashmir","Gram (Black)",6313
+2023-08,Bihar,"Gram (Desi)",5488
+2023-08,Bihar,Gram,5865
+2023-08,Gujarat,"Gram (Desi)",5373
+2023-08,Haryana,"Gram (Desi)",5545
+2023-08,"Jammu & Kashmir","Gram (Black)",7025
+2023-09,Bihar,"Gram (Desi)",5858
+2023-09,Bihar,Gram,6076
+2023-09,Gujarat,"Gram (Desi)",6068
+2023-09,Haryana,"Gram (Desi)",6182
+2023-09,"Jammu & Kashmir","Gram (Black)",7580
+2023-10,Bihar,"Gram (Desi)",6028
+2023-10,Bihar,Gram,6125
+2023-10,Gujarat,"Gram (Desi)",5955
+2023-10,Haryana,"Gram (Desi)",6098
+2023-10,"Jammu & Kashmir","Gram (Black)",7700
+2023-11,Bihar,"Gram (Desi)",6738
+2023-11,Bihar,Gram,6748
+2023-11,Gujarat,"Gram (Desi)",6026
+2023-11,Haryana,"Gram (Desi)",6163
+2023-11,"Jammu & Kashmir","Gram (Black)",7675
+2023-12,Bihar,"Gram (Desi)",6580
+2023-12,Bihar,Gram,6614
+2023-12,Gujarat,"Gram (Desi)",5716
+2023-12,Haryana,"Gram (Desi)",5870
+2023-12,"Jammu & Kashmir","Gram (Black)",7610
+2023-01,"Madhya Pradesh","Gram (Desi)",4462
+2023-02,"Madhya Pradesh","Gram (Desi)",4358
+2023-03,"Madhya Pradesh","Gram (Desi)",4614
+2023-04,"Madhya Pradesh","Gram (Desi)",4675
+2023-05,"Madhya Pradesh","Gram (Desi)",4538
+2023-06,"Madhya Pradesh","Gram (Desi)",4575
+2023-07,"Madhya Pradesh","Gram (Desi)",4638
+2023-08,"Madhya Pradesh","Gram (Desi)",4852
+2023-09,"Madhya Pradesh","Gram (Desi)",5526
+2023-10,"Madhya Pradesh","Gram (Desi)",5760
+2023-11,"Madhya Pradesh","Gram (Desi)",5763
+2023-12,"Madhya Pradesh","Gram (Desi)",5397
+2023-01,"Madhya Pradesh","Gram (No. 3)",4467
+2023-02,"Madhya Pradesh","Gram (No. 3)",4464
+2023-03,"Madhya Pradesh","Gram (No. 3)",4770
+2023-04,"Madhya Pradesh","Gram (No. 3)",4768
+2023-05,"Madhya Pradesh","Gram (No. 3)",4734
+2023-06,"Madhya Pradesh","Gram (No. 3)",4690
+2023-07,"Madhya Pradesh","Gram (No. 3)",4780
+2023-08,"Madhya Pradesh","Gram (No. 3)",5353
+2023-09,"Madhya Pradesh","Gram (No. 3)",6021
+2023-10,"Madhya Pradesh","Gram (No. 3)",5809
+2023-11,"Madhya Pradesh","Gram (No. 3)",5750
+2023-12,"Madhya Pradesh","Gram (No. 3)",5653
+2023-01,Maharashtra,Gram,4575
+2023-02,Maharashtra,Gram,4550
+2023-03,Maharashtra,Gram,4470
+2023-04,Maharashtra,Gram,4550
+2023-05,Maharashtra,Gram,4513
+2023-06,Maharashtra,Gram,4418
+2023-07,Maharashtra,Gram,4560
+2023-08,Maharashtra,Gram,4842
+2023-09,Maharashtra,Gram,5015
+2023-10,Maharashtra,Gram,5518
+2023-11,Maharashtra,Gram,5400
+2023-12,Maharashtra,Gram,5377
+2023-01,Maharashtra,"Gram (Garda)",5613
+2023-02,Maharashtra,"Gram (Garda)",5625
+2023-03,Maharashtra,"Gram (Garda)",5540
+2023-04,Maharashtra,"Gram (Garda)",5613
+2023-05,Maharashtra,"Gram (Garda)",5638
+2023-06,Maharashtra,"Gram (Garda)",5730
+2023-07,Maharashtra,"Gram (Garda)",5800
+2023-08,Maharashtra,"Gram (Garda)",5813
+2023-09,Maharashtra,"Gram (Garda)",6210
+2023-10,Maharashtra,"Gram (Garda)",6663
+2023-11,Maharashtra,"Gram (Garda)",7025
+2023-12,Maharashtra,"Gram (Garda)",7013
+2023-01,Punjab,"Gram (Black)",5950
+2023-02,Punjab,"Gram (Black)",5950
+2023-03,Punjab,"Gram (Black)",5965
+2023-04,Punjab,"Gram (Black)",6035
+2023-05,Punjab,"Gram (Black)",6027
+2023-06,Punjab,"Gram (Black)",6056
+2023-07,Punjab,"Gram (Black)",6100
+2023-08,Punjab,"Gram (Black)",6213
+2023-09,Punjab,"Gram (Black)",6490
+2023-10,Punjab,"Gram (Black)",6533
+2023-11,Punjab,"Gram (Black)",6568
+2023-12,Punjab,"Gram (Black)",6603
+2023-01,Rajasthan,Gram,4665
+2023-02,Rajasthan,Gram,4695
+2023-03,Rajasthan,Gram,4619
+2023-04,Rajasthan,Gram,4480
+2023-05,Rajasthan,Gram,4470
+2023-06,Rajasthan,Gram,4612
+2023-07,Rajasthan,Gram,4740
+2023-08,Rajasthan,Gram,5013
+2023-09,Rajasthan,Gram,5864
+2023-10,Rajasthan,Gram,5360
+2023-11,Rajasthan,Gram,-1
+2023-12,Rajasthan,Gram,5485
+2023-01,Rajasthan,"Gram (Local)",4960
+2023-02,Rajasthan,"Gram (Local)",4838
+2023-03,Rajasthan,"Gram (Local)",4876
+2023-04,Rajasthan,"Gram (Local)",4813
+2023-05,Rajasthan,"Gram (Local)",4818
+2023-06,Rajasthan,"Gram (Local)",4790
+2023-07,Rajasthan,"Gram (Local)",4800
+2023-08,Rajasthan,"Gram (Local)",5263
+2023-09,Rajasthan,"Gram (Local)",5880
+2023-10,Rajasthan,"Gram (Local)",5663
+2023-11,Rajasthan,"Gram (Local)",5613
+2023-12,Rajasthan,"Gram (Local)",5470
+2023-01,"Tamil Nadu",Gram,7600
+2023-02,"Tamil Nadu",Gram,7600
+2023-03,"Tamil Nadu",Gram,7600
+2023-04,"Tamil Nadu",Gram,7550
+2023-05,"Tamil Nadu",Gram,7475
+2023-06,"Tamil Nadu",Gram,7400
+2023-07,"Tamil Nadu",Gram,7400
+2023-08,"Tamil Nadu",Gram,7500
+2023-09,"Tamil Nadu",Gram,7840
+2023-10,"Tamil Nadu",Gram,7950
+2023-11,"Tamil Nadu",Gram,7525
+2023-12,"Tamil Nadu",Gram,7540
+2023-01,"Uttar Pradesh","Gram (Desi)",5706
+2023-02,"Uttar Pradesh","Gram (Desi)",5659
+2023-03,"Uttar Pradesh","Gram (Desi)",5660
+2023-04,"Uttar Pradesh","Gram (Desi)",5729
+2023-05,"Uttar Pradesh","Gram (Desi)",5704
+2023-06,"Uttar Pradesh","Gram (Desi)",5729
+2023-07,"Uttar Pradesh","Gram (Desi)",5665
+2023-08,"Uttar Pradesh","Gram (Desi)",5580
+2023-09,"Uttar Pradesh","Gram (Desi)",5760
+2023-10,"Uttar Pradesh","Gram (Desi)",6136
+2023-11,"Uttar Pradesh","Gram (Desi)",6424
+2023-12,"Uttar Pradesh","Gram (Desi)",6634
+2023-01,"Uttar Pradesh","Gram (Small)",5643
+2023-02,"Uttar Pradesh","Gram (Small)",5675
+2023-03,"Uttar Pradesh","Gram (Small)",5710
+2023-04,"Uttar Pradesh","Gram (Small)",5600
+2023-05,"Uttar Pradesh","Gram (Small)",5300
+2023-06,"Uttar Pradesh","Gram (Small)",5211
+2023-07,"Uttar Pradesh","Gram (Small)",5331
+2023-08,"Uttar Pradesh","Gram (Small)",5478
+2023-09,"Uttar Pradesh","Gram (Small)",5600
+2023-10,"Uttar Pradesh","Gram (Small)",6200
+2023-11,"Uttar Pradesh","Gram (Small)",6334
+2023-12,"Uttar Pradesh","Gram (Small)",6195
+2023-01,"Uttar Pradesh","Gram (dara)",5779
+2023-01,"West Bengal","Gram (Small)",5950
+2023-01,"West Bengal",Gram,5700
+2023-01,Delhi,"Gram (Yellow)",7000
+2023-02,"Uttar Pradesh","Gram (dara)",5675
+2023-02,"West Bengal","Gram (Small)",5850
+2023-02,"West Bengal",Gram,5575
+2023-02,Delhi,"Gram (Yellow)",7000
+2023-03,"Uttar Pradesh","Gram (dara)",5600
+2023-03,"West Bengal","Gram (Small)",5830
+2023-03,"West Bengal",Gram,5116
+2023-03,Delhi,"Gram (Yellow)",7000
+2023-04,"Uttar Pradesh","Gram (dara)",5575
+2023-04,"West Bengal","Gram (Small)",5900
+2023-04,"West Bengal",Gram,4920
+2023-04,Delhi,"Gram (Yellow)",7000
+2023-05,"Uttar Pradesh","Gram (dara)",5498
+2023-05,"West Bengal","Gram (Small)",5663
+2023-05,"West Bengal",Gram,4975
+2023-05,Delhi,"Gram (Yellow)",7025
+2023-06,"Uttar Pradesh","Gram (dara)",5510
+2023-06,"West Bengal","Gram (Small)",5980
+2023-06,"West Bengal",Gram,5400
+2023-06,Delhi,"Gram (Yellow)",7100
+2023-07,"Uttar Pradesh","Gram (dara)",5554
+2023-07,"West Bengal","Gram (Small)",5925
+2023-07,"West Bengal",Gram,5575
+2023-07,Delhi,"Gram (Yellow)",7025
+2023-08,"Uttar Pradesh","Gram (dara)",5596
+2023-08,"West Bengal","Gram (Small)",6175
+2023-08,"West Bengal",Gram,5750
+2023-08,Delhi,"Gram (Yellow)",6951
+2023-09,"Uttar Pradesh","Gram (dara)",5726
+2023-09,"West Bengal","Gram (Small)",6736
+2023-09,"West Bengal",Gram,6050
+2023-09,Delhi,"Gram (Yellow)",7280
+2023-10,"Uttar Pradesh","Gram (dara)",6470
+2023-10,"West Bengal","Gram (Small)",6981
+2023-10,"West Bengal",Gram,5975
+2023-10,Delhi,"Gram (Yellow)",7413
+2023-11,"Uttar Pradesh","Gram (dara)",6675
+2023-11,"West Bengal","Gram (Small)",7075
+2023-11,"West Bengal",Gram,5825
+2023-11,Delhi,"Gram (Yellow)",7460
+2023-12,"Uttar Pradesh","Gram (dara)",6770
+2023-12,"West Bengal","Gram (Small)",6875
+2023-12,"West Bengal",Gram,5800
+2023-12,Delhi,"Gram (Yellow)",7500
+2023-01,"Madhya Pradesh","Cotton (Fine)",8025
+2023-01,Karnataka,"Cotton (Banni)",8159
+2023-01,Karnataka,Cotton,6789
+2023-01,Telangana,Cotton,7650
+2023-01,Rajasthan,"Cotton (Desi)",10007
+2023-01,"Tamil Nadu","Cotton (LRA)",7225
+2023-02,"Madhya Pradesh","Cotton (Fine)",7910
+2023-02,Karnataka,"Cotton (Banni)",7781
+2023-02,Karnataka,Cotton,6534
+2023-02,Telangana,Cotton,7313
+2023-02,Rajasthan,"Cotton (Desi)",9963
+2023-02,"Tamil Nadu","Cotton (LRA)",8150
+2023-03,"Madhya Pradesh","Cotton (Fine)",7665
+2023-03,Karnataka,"Cotton (Banni)",7488
+2023-03,Karnataka,Cotton,5979
+2023-03,Telangana,Cotton,7060
+2023-03,Rajasthan,"Cotton (Desi)",9838
+2023-03,"Tamil Nadu","Cotton (LRA)",7060
+2023-04,"Madhya Pradesh","Cotton (Fine)",7764
+2023-04,Karnataka,"Cotton (Banni)",7518
+2023-04,Karnataka,Cotton,6184
+2023-04,Telangana,Cotton,7175
+2023-04,Rajasthan,"Cotton (Desi)",-1
+2023-04,"Tamil Nadu","Cotton (LRA)",6275
+2023-05,"Madhya Pradesh","Cotton (Fine)",7343
+2023-05,Karnataka,"Cotton (Banni)",7354
+2023-05,Karnataka,Cotton,6055
+2023-05,Telangana,Cotton,6825
+2023-05,Rajasthan,"Cotton (Desi)",-1
+2023-05,"Tamil Nadu","Cotton (LRA)",6100
+2023-06,"Madhya Pradesh","Cotton (Fine)",7041
+2023-06,Karnataka,"Cotton (Banni)",7140
+2023-06,Karnataka,Cotton,5566
+2023-06,Telangana,Cotton,6580
+2023-06,Rajasthan,"Cotton (Desi)",-1
+2023-06,"Tamil Nadu","Cotton (LRA)",5580
+2023-07,"Madhya Pradesh","Cotton (Fine)",6636
+2023-07,Karnataka,"Cotton (Banni)",6995
+2023-07,Karnataka,Cotton,6205
+2023-07,Telangana,Cotton,6050
+2023-07,Rajasthan,"Cotton (Desi)",-1
+2023-07,"Tamil Nadu","Cotton (LRA)",6050
+2023-08,"Madhya Pradesh","Cotton (Fine)",6800
+2023-08,Karnataka,"Cotton (Banni)",7568
+2023-08,Karnataka,Cotton,6416
+2023-08,Telangana,Cotton,6575
+2023-08,Rajasthan,"Cotton (Desi)",-1
+2023-08,"Tamil Nadu","Cotton (LRA)",6075
+2023-09,"Madhya Pradesh","Cotton (Fine)",-1
+2023-09,Karnataka,"Cotton (Banni)",7510
+2023-09,Karnataka,Cotton,6343
+2023-09,Telangana,Cotton,6620
+2023-09,Rajasthan,"Cotton (Desi)",-1
+2023-09,"Tamil Nadu","Cotton (LRA)",6060
+2023-10,"Madhya Pradesh","Cotton (Fine)",6250
+2023-10,Karnataka,"Cotton (Banni)",7185
+2023-10,Karnataka,Cotton,6348
+2023-10,Telangana,Cotton,6513
+2023-10,Rajasthan,"Cotton (Desi)",7350
+2023-10,"Tamil Nadu","Cotton (LRA)",5925
+2023-11,"Madhya Pradesh","Cotton (Fine)",7050
+2023-11,Karnataka,"Cotton (Banni)",7380
+2023-11,Karnataka,Cotton,6214
+2023-11,Telangana,Cotton,7052
+2023-11,Rajasthan,"Cotton (Desi)",7505
+2023-11,"Tamil Nadu","Cotton (LRA)",5600
+2023-12,"Madhya Pradesh","Cotton (Fine)",6777
+2023-12,Karnataka,"Cotton (Banni)",6669
+2023-12,Karnataka,Cotton,5790
+2023-12,Telangana,Cotton,6972
+2023-12,Rajasthan,"Cotton (Desi)",7000
+2023-12,"Tamil Nadu","Cotton (LRA)",5220
+2023-01,"Andhra Pradesh","Cotton (Hybrid)",8046
+2023-02,"Andhra Pradesh","Cotton (Hybrid)",7781
+2023-03,"Andhra Pradesh","Cotton (Hybrid)",7347
+2023-04,"Andhra Pradesh","Cotton (Hybrid)",7593
+2023-05,"Andhra Pradesh","Cotton (Hybrid)",7211
+2023-06,"Andhra Pradesh","Cotton (Hybrid)",7000
+2023-07,"Andhra Pradesh","Cotton (Hybrid)",6931
+2023-08,"Andhra Pradesh","Cotton (Hybrid)",7315
+2023-09,"Andhra Pradesh","Cotton (Hybrid)",7359
+2023-10,"Andhra Pradesh","Cotton (Hybrid)",7264
+2023-11,"Andhra Pradesh","Cotton (Hybrid)",7356
+2023-12,"Andhra Pradesh","Cotton (Hybrid)",6989
+2023-01,"Andhra Pradesh",Cotton,7444
+2023-02,"Andhra Pradesh",Cotton,7125
+2023-03,"Andhra Pradesh",Cotton,7120
+2023-04,"Andhra Pradesh",Cotton,7250
+2023-05,"Andhra Pradesh",Cotton,7063
+2023-06,"Andhra Pradesh",Cotton,6974
+2023-07,"Andhra Pradesh",Cotton,6400
+2023-08,"Andhra Pradesh",Cotton,6338
+2023-09,"Andhra Pradesh",Cotton,7050
+2023-10,"Andhra Pradesh",Cotton,6775
+2023-11,"Andhra Pradesh",Cotton,6838
+2023-12,"Andhra Pradesh",Cotton,6540
+2023-01,Gujarat,Cotton,8613
+2023-02,Gujarat,Cotton,8163
+2023-03,Gujarat,Cotton,8000
+2023-04,Gujarat,Cotton,8288
+2023-05,Gujarat,Cotton,7925
+2023-06,Gujarat,Cotton,7158
+2023-07,Gujarat,Cotton,7000
+2023-08,Gujarat,Cotton,-1
+2023-09,Gujarat,Cotton,6300
+2023-10,Gujarat,Cotton,6700
+2023-11,Gujarat,Cotton,7131
+2023-12,Gujarat,Cotton,6813
+2023-01,Gujarat,"Cotton (Shankar-6)",7313
+2023-02,Gujarat,"Cotton (Shankar-6)",7281
+2023-03,Gujarat,"Cotton (Shankar-6)",7165
+2023-04,Gujarat,"Cotton (Shankar-6)",7165
+2023-05,Gujarat,"Cotton (Shankar-6)",8013
+2023-06,Gujarat,"Cotton (Shankar-6)",7100
+2023-07,Gujarat,"Cotton (Shankar-6)",6550
+2023-08,Gujarat,"Cotton (Shankar-6)",6913
+2023-09,Gujarat,"Cotton (Shankar-6)",7525
+2023-10,Gujarat,"Cotton (Shankar-6)",7713
+2023-11,Gujarat,"Cotton (Shankar-6)",8488
+2023-12,Gujarat,"Cotton (Shankar-6)",8960
+2023-01,"Uttar Pradesh","Cotton (Desi)",11250
+2023-02,"Uttar Pradesh","Cotton (Desi)",10250
+2023-03,"Uttar Pradesh","Cotton (Desi)",8700
+2023-04,"Uttar Pradesh","Cotton (Desi)",8200
+2023-05,"Uttar Pradesh","Cotton (Desi)",8013
+2023-06,"Uttar Pradesh","Cotton (Desi)",7100
+2023-07,"Uttar Pradesh","Cotton (Desi)",6550
+2023-08,"Uttar Pradesh","Cotton (Desi)",6913
+2023-09,"Uttar Pradesh","Cotton (Desi)",7326
+2023-10,"Uttar Pradesh","Cotton (Desi)",7146
+2023-11,"Uttar Pradesh","Cotton (Desi)",6973
+2023-12,"Uttar Pradesh","Cotton (Desi)",6942
+2023-01,Haryana,"Cotton (American)",8460
+2023-02,Haryana,"Cotton (American)",8223
+2023-03,Haryana,"Cotton (American)",7850
+2023-04,Haryana,"Cotton (American)",7966
+2023-05,Haryana,"Cotton (American)",7440
+2023-06,Haryana,"Cotton (American)",7246
+2023-07,Haryana,"Cotton (American)",7085
+2023-08,Haryana,"Cotton (American)",7173
+2023-09,Haryana,"Cotton (American)",7326
+2023-10,Haryana,"Cotton (American)",7146
+2023-11,Haryana,"Cotton (American)",6973
+2023-12,Haryana,"Cotton (American)",6942

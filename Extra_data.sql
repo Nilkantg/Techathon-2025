@@ -1,0 +1,168 @@
+USE techathon;
+
+INSERT INTO data_2022 (date, state, variety, price) VALUES
+("2022-01", "Assam", "Mustard (Local)", 6200),
+("2022-02", "Assam", "Mustard (Local)", 6200),
+("2022-03", "Assam", "Mustard (Local)", 6200),
+("2022-04", "Assam", "Mustard (Local)", 6200),
+("2022-05", "Assam", "Mustard (Local)", 6200),
+("2022-06", "Assam", "Mustard (Local)", 6200),
+("2022-07", "Assam", "Mustard (Local)", 6200),
+("2022-08", "Assam", "Mustard (Local)", 6200),
+("2022-09", "Assam", "Mustard (Local)", 6200),
+("2022-10", "Assam", "Mustard (Local)", 5863),
+("2022-11", "Assam", "Mustard (Local)", 5750),
+("2022-12", "Assam", "Mustard (Local)", 5750),
+
+("2022-01", "Assam", "Mustard (Sarson)", 7350),
+("2022-02", "Assam", "Mustard (Sarson)", 7350),
+("2022-03", "Assam", "Mustard (Sarson)", 7350),
+("2022-04", "Assam", "Mustard (Sarson)", 7350),
+("2022-05", "Assam", "Mustard (Sarson)", 7350),
+("2022-06", "Assam", "Mustard (Sarson)", 7350),
+("2022-07", "Assam", "Mustard (Sarson)", 7350),
+("2022-08", "Assam", "Mustard (Sarson)", 7350),
+("2022-09", "Assam", "Mustard (Sarson)", 7350),
+("2022-10", "Assam", "Mustard (Sarson)", 7088),
+("2022-11", "Assam", "Mustard (Sarson)", 7000),
+("2022-12", "Assam", "Mustard (Sarson)", 7000),
+
+("2022-01", "Gujarat", "Mustard (Black/Red)", 6978),
+("2022-02", "Gujarat", "Mustard (Black/Red)", 6694),
+("2022-03", "Gujarat", "Mustard (Black/Red)", 6369),
+("2022-04", "Gujarat", "Mustard (Black/Red)", 6445),
+("2022-05", "Gujarat", "Mustard (Black/Red)", 6604),
+("2022-06", "Gujarat", "Mustard (Black/Red)", 6225),
+("2022-07", "Gujarat", "Mustard (Black/Red)", 6010),
+("2022-08", "Gujarat", "Mustard (Black/Red)", 5856),
+("2022-09", "Gujarat", "Mustard (Black/Red)", 5540),
+("2022-10", "Gujarat", "Mustard (Black/Red)", 5710),
+("2022-11", "Gujarat", "Mustard (Black/Red)", 6144),
+("2022-12", "Gujarat", "Mustard (Black/Red)", 5990),
+
+("2022-01", "Gujarat", "Mustard (Red/Black)", 6813),
+("2022-02", "Gujarat", "Mustard (Red/Black)", 6305),
+("2022-03", "Gujarat", "Mustard (Red/Black)", 6392),
+("2022-04", "Gujarat", "Mustard (Red/Black)", 6506),
+("2022-05", "Gujarat", "Mustard (Red/Black)", 6472),
+("2022-06", "Gujarat", "Mustard (Red/Black)", 6276),
+("2022-07", "Gujarat", "Mustard (Red/Black)", 6013),
+("2022-08", "Gujarat", "Mustard (Red/Black)", 5997),
+("2022-09", "Gujarat", "Mustard (Red/Black)", 5515),
+("2022-10", "Gujarat", "Mustard (Red/Black)", 5623),
+("2022-11", "Gujarat", "Mustard (Red/Black)", 6099),
+("2022-12", "Gujarat", "Mustard (Red/Black)", 5884),
+
+("2022-01", "Haryana", "Mustard", 6918),
+("2022-02", "Haryana", "Mustard", 7125),
+("2022-03", "Haryana", "Mustard", 6528),
+("2022-04", "Haryana", "Mustard", 6570),
+("2022-05", "Haryana", "Mustard", 6675),
+("2022-06", "Haryana", "Mustard", 6400),
+("2022-07", "Haryana", "Mustard", 6232),
+("2022-08", "Haryana", "Mustard", 6130),
+("2022-09", "Haryana", "Mustard", 5790),
+("2022-10", "Haryana", "Mustard", 5895),
+("2022-11", "Haryana", "Mustard", 6440),
+("2022-12", "Haryana", "Mustard", 6136),
+
+INSERT INTO data_2022 VALUES
+("2022-01", "Rajasthan", "Mustard", 6830),
+("2022-01", "Rajasthan", "Mustard (FAQ)", 6937),
+("2022-01", "Uttar Pradesh", "Mustard (Lahi Black)", 6925),
+("2022-01", "Est Bengal", "Mustard (Rai UP)", 7600),
+("2022-01", "West Bengal", "Mustard (Desi)", 6200),
+("2022-01", "Delhi", "Mustard (Laha)", 6663),
+
+("2022-02", "Rajasthan", "Mustard", 6688),
+("2022-02", "Rajasthan", "Mustard (FAQ)", 6964),
+("2022-02", "Uttar Pradesh", "Mustard (Lahi Black)", 6925),
+("2022-02", "Est Bengal", "Mustard (Rai UP)", 7750),
+("2022-02", "West Bengal", "Mustard (Desi)", 6375),
+("2022-02", "Delhi", "Mustard (Laha)", 6600),
+
+("2022-03", "Rajasthan", "Mustard", 6675),
+("2022-03", "Rajasthan", "Mustard (FAQ)", 6714),
+("2022-03", "Uttar Pradesh", "Mustard (Lahi Black)", 6875),
+("2022-03", "Est Bengal", "Mustard (Rai UP)", 7081),
+("2022-03", "West Bengal", "Mustard (Desi)", 6625),
+("2022-03", "Delhi", "Mustard (Laha)", 6675),
+
+("2022-04", "Rajasthan", "Mustard", 6966),
+("2022-04", "Rajasthan", "Mustard (FAQ)", 6602),
+("2022-04", "Uttar Pradesh", "Mustard (Lahi Black)", 6326),
+("2022-04", "Est Bengal", "Mustard (Rai UP)", 7105),
+("2022-04", "West Bengal", "Mustard (Desi)", 6490),
+("2022-04", "Delhi", "Mustard (Laha)", 6540),
+
+("2022-05", "Rajasthan", "Mustard", 6850),
+("2022-05", "Rajasthan", "Mustard (FAQ)", 6616),
+("2022-05", "Uttar Pradesh", "Mustard (Lahi Black)", 6520),
+("2022-05", "Est Bengal", "Mustard (Rai UP)", 7181),
+("2022-05", "West Bengal", "Mustard (Desi)", 6600),
+("2022-05", "Delhi", "Mustard (Laha)", 6425),
+
+("2022-06", "Rajasthan", "Mustard", 6725),
+("2022-06", "Rajasthan", "Mustard (FAQ)", 6398),
+("2022-06", "Uttar Pradesh", "Mustard (Lahi Black)", 6431),
+("2022-06", "Est Bengal", "Mustard (Rai UP)", 6925),
+("2022-06", "West Bengal", "Mustard (Desi)", 6600),
+("2022-06", "Delhi", "Mustard (Laha)", 6200),
+
+("2022-07", "Rajasthan", "Mustard", 6535),
+("2022-07", "Rajasthan", "Mustard (FAQ)", 6148),
+("2022-07", "Uttar Pradesh", "Mustard (Lahi Black)", 6406),
+("2022-07", "Est Bengal", "Mustard (Rai UP)", 6740),
+("2022-07", "West Bengal", "Mustard (Desi)", 6580),
+("2022-07", "Delhi", "Mustard (Laha)", 6400),
+
+("2022-08", "Rajasthan", "Mustard", 6563),
+("2022-08", "Rajasthan", "Mustard (FAQ)", 6235),
+("2022-08", "Uttar Pradesh", "Mustard (Lahi Black)", 6388),
+("2022-08", "Est Bengal", "Mustard (Rai UP)", 6875),
+("2022-08", "West Bengal", "Mustard (Desi)", 6488),
+("2022-08", "Delhi", "Mustard (Laha)", 6250),
+
+("2022-09", "Rajasthan", "Mustard", 6315),
+("2022-09", "Rajasthan", "Mustard (FAQ)", 5851),
+("2022-09", "Uttar Pradesh", "Mustard (Lahi Black)", 6237),
+("2022-09", "Est Bengal", "Mustard (Rai UP)", 6480),
+("2022-09", "West Bengal", "Mustard (Desi)", 6360),
+("2022-09", "Delhi", "Mustard (Laha)", 6240),
+
+("2022-10", "Rajasthan", "Mustard", 5875),
+("2022-10", "Rajasthan", "Mustard (FAQ)", 5986),
+("2022-10", "Uttar Pradesh", "Mustard (Lahi Black)", 6235),
+("2022-10", "Est Bengal", "Mustard (Rai UP)", 6475),
+("2022-10", "West Bengal", "Mustard (Desi)", 6463),
+("2022-10", "Delhi", "Mustard (Laha)", 6225),
+
+("2022-11", "Rajasthan", "Mustard", 5938),
+("2022-11", "Rajasthan", "Mustard (FAQ)", 6445),
+("2022-11", "Uttar Pradesh", "Mustard (Lahi Black)", 6188),
+("2022-11", "Est Bengal", "Mustard (Rai UP)", 6800),
+("2022-11", "West Bengal", "Mustard (Desi)", 6463),
+("2022-11", "Delhi", "Mustard (Laha)", 6300),
+
+("2022-12", "Rajasthan", "Mustard", 6295),
+("2022-12", "Rajasthan", "Mustard (FAQ)", 6067),
+("2022-12", "Uttar Pradesh", "Mustard (Lahi Black)", 6428),
+("2022-12", "West Bengal", "Mustard (Rai UP)", 6530),
+("2022-12", "West Bengal", "Mustard (Desi)", 6480),
+("2022-12", "Delhi", "Mustard (Laha)", 6360);
+
+INSERT INTO data_2022 VALUES 
+("2022-01", "Telangana", "Groundnut (Pods)", 6126),
+("2022-01", "Rajasthan", "Andhra Pradesh (Pods)", 5363),
+("2022-01", "Gujarat", "Groundnut (Bold)", 5305),
+("2022-01", "Gujarat", "Groundnut (Shelled Small)", 5200),
+("2022-01", "Karnataka", "Mustard (Desi)", 6480),
+("2022-01", "Delhi", "Mustard (Laha)", 6360);
+
+
+
+
+
+
+
+

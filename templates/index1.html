@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Price Prediction</title>
+</head>
+<body>
+    <h2>Select State and Crop</h2>
+    <form method="POST">
+        <label for="state">Select State:</label>
+        <select name="state" required>
+            {% for state in states %}
+                <option value="{{ state }}">{{ state }}</option>
+            {% endfor %}
+        </select>
+
+        <br><br>
+
+        <label for="crop">Select Crop:</label>
+        <select name="crop" required>
+            {% for crop in crops %}
+                <option value="{{ crop }}">{{ crop }}</option>
+            {% endfor %}
+        </select>
+
+        <br><br>
+        
+        <button type="submit">Predict Price</button>
+    </form>
+
+    {% if predicted_price is not none %}
+        <h3>Predicted Price for Next Year: ₹{{ predicted_price }}</h3>
+    {% endif %}
+</body>
+</html>

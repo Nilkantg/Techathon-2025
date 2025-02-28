@@ -1,0 +1,40 @@
+Crop,Disease,Organic_Pesticide,Inorganic_Pesticide
+Apple,Apple_scab,Neem oil,Chlorothalonil
+Apple,Black_rot,Sulfur (wettable sulfur),Myclobutanil
+Apple,Cedar_apple_rust,Neem oil,Propiconazole
+Apple,healthy,None (cultural practices),None (not needed)
+Blueberry,healthy,None (cultural practices),None (not needed)
+Cherry_(including_sour),Powdery_mildew,Neem oil,Azoxystrobin
+Cherry_(including_sour),healthy,None (cultural practices),None (not needed)
+Corn_(maize),Cercospora_leaf_spot_Gray_leaf_spot,Neem oil,Chlorothalonil
+Corn_(maize),Common_rust,Sulfur (wettable sulfur),Propiconazole
+Corn_(maize),Northern_Leaf_Blight,Neem oil,Azoxystrobin
+Corn_(maize),healthy,None (cultural practices),None (not needed)
+Grape,Black_rot,Neem oil,Chlorothalonil
+Grape,Esca_(Black_Measles),Neem oil,Tebuconazole
+Grape,Leaf_blight_(Isariopsis_Leaf_Spot),Neem oil,Propiconazole
+Grape,healthy,None (cultural practices),None (not needed)
+Orange,Haunglongbing_(Citrus_greening),Neem oil,Streptomycin (bacterial control)
+Peach,Bacterial_spot,Copper sulfate,Oxytetracycline
+Peach,healthy,None (cultural practices),None (not needed)
+Pepper_bell,Bacterial_spot,Copper hydroxide,Copper oxychloride
+Pepper_bell,healthy,None (cultural practices),None (not needed)
+Potato,Early_blight,Neem oil,Chlorothalonil
+Potato,Late_blight,Copper sulfate,Mancozeb
+Potato,healthy,None (cultural practices),None (not needed)
+Raspberry,healthy,None (cultural practices),None (not needed)
+Soybean,healthy,None (cultural practices),None (not needed)
+Squash,Powdery_mildew,Sulfur (wettable sulfur),Azoxystrobin
+Squash,healthy,None (cultural practices),None (not needed)
+Strawberry,Leaf_scorch,Neem oil,Chlorothalonil
+Strawberry,healthy,None (cultural practices),None (not needed)
+Tomato,Bacterial_spot,Copper hydroxide,Copper oxychloride
+Tomato,Early_blight,Neem oil,Chlorothalonil
+Tomato,Late_blight,Copper sulfate,Mancozeb
+Tomato,Leaf_Mold,Sulfur (wettable sulfur),Azoxystrobin
+Tomato,Septoria_leaf_spot,Neem oil,Chlorothalonil
+Tomato,Spider_mites_Two-spotted_spider_mite,Neem oil,Abamectin
+Tomato,Target_Spot,Neem oil,Chlorothalonil
+Tomato,Tomato_Yellow_Leaf_Curl_Virus,None (cultural practices),None (not applicable)
+Tomato,Tomato_mosaic_virus,None (cultural practices),None (not applicable)
+Tomato,healthy,None (cultural practices),None (not needed)

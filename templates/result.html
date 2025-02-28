@@ -1,6 +1,23 @@
 {% extends "base.html" %}
 {% block content %}
-<h1>Prediction Result</h1>
-<p>{{ result }}</p>
-<a href="/disease">Back to Upload</a>
+<div style="max-width: 600px; margin: auto; padding: 20px; font-family: Arial, sans-serif;">
+    <h1 style="text-align: center; color: #333;">Prediction Result</h1>
+    {% if result.status == 'success' %}
+        <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; background-color: #f9f9f9; margin-top: 20px;">
+            <h3 style="color: #007bff;">Predicted Crop and Disease</h3>
+            <p><strong>Crop:</strong> {{ result.crop }}</p>
+            <p><strong>Disease:</strong> {{ result.disease }}</p>
+            <p><strong>Organic Pesticide:</strong> {{ result.organic_pesticide }}</p>
+            <p><strong>Inorganic Pesticide:</strong> {{ result.inorganic_pesticide }}</p>
+        </div>
+    {% else %}
+        <div style="border: 1px solid #dc3545; border-radius: 8px; padding: 15px; background-color: #f8d7da; color: #721c24; margin-top: 20px;">
+            {{ result.error }}
+        </div>
+    {% endif %}
+    
+    <div style="text-align: center; margin-top: 20px;">
+        <a href="/disease" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Back to Upload</a>
+    </div>
+</div>
 {% endblock %}

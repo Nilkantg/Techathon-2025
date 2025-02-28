@@ -20,6 +20,8 @@ with open(r"Experiments\Andhra Pradesh\ap_model.pkl", "rb") as m:
 STATES = ["Maharashtra", "Rajasthan", "Andhra Pradesh", "Uttar Pradesh", "Madhya Pradesh"]
 CROPS = ["Wheat", "GroundNut", "Paddy", "Maize", "Sugarcane"]
 
+
+
 @app.route("/", methods=["GET", "POST"])
 def index():
     predicted_price = None

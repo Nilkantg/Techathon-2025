@@ -1,17 +1,24 @@
 from __future__ import division, print_function
+import pandas as pd
 import os
 import numpy as np
 from keras.models import Sequential
 from keras.layers import Conv2D, MaxPooling2D, BatchNormalization, Flatten, Dense, Dropout
 from keras.preprocessing import image
-from flask import Flask, request, render_template, redirect, url_for
+from flask import Flask, request, render_template, jsonify
 from werkzeug.utils import secure_filename
 
 app = Flask(__name__)
 
-MODEL_PATH = r'Model.hdf5'
+# Load the pesticide dataset
+pesticides_df = pd.read_csv("data/Pesticides dataset/Pesticide.csv")
 
-# Define the model architecture exactly as in the HDF5 config
+MODEL_PATH = r'Model.hdf5'
+UPLOAD_FOLDER = 'uploads'
+os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+
+# Define the model architecture
 print(" ** Model Building **")
 model = Sequential([
     Conv2D(96, (11, 11), strides=(4, 4), padding='valid', activation='relu', input_shape=(224, 224, 3)),
@@ -83,29 +90,61 @@ def model_predict(img_path, model):
         return f"Prediction error: {str(e)}"
     return None
 
-@app.route('/disease')
+@app.route('/ping', methods=['GET'])
+def ping():
+    return jsonify({"message": "Server is running!", "status": "success"})
+
+@app.route('/', methods=['GET'])
+def main():
+    return jsonify({"message": "Server is working!", "status": "success"})
+
+@app.route('/disease', methods=['GET'])
 def disease_index():
     return render_template('index.html')
 
-@app.route('/disease/predict', methods=['GET', 'POST'])
+@app.route('/disease/predict', methods=['POST'])
 def disease_upload():
-    if request.method == 'POST':
-        if 'file' not in request.files:
-            return "Error: No file uploaded"
-        f = request.files['file']
-        if f.filename == '':
-            return "Error: No file selected"
-        basepath = os.path.dirname(__file__)
-        file_path = os.path.join(basepath, 'uploads', secure_filename(f.filename))
-        f.save(file_path)
-        class_name = model_predict(file_path, model)
-        if isinstance(class_name, list) and len(class_name) == 2:
-            result = f"Predicted Crop: {class_name[0]}  Predicted Disease: {class_name[1].title().replace('_', ' ')}"
+    if 'file' not in request.files:
+        return jsonify({"error": "No file uploaded", "status": "error"}), 400
+    
+    f = request.files['file']
+    if f.filename == '':
+        return jsonify({"error": "No file selected", "status": "error"}), 400
+    
+    file_path = os.path.join(app.config['UPLOAD_FOLDER'], secure_filename(f.filename))
+    f.save(file_path)
+    
+    # Predict disease
+    class_name = model_predict(file_path, model)
+    
+    if isinstance(class_name, list) and len(class_name) == 2:
+        crop, disease = class_name
+        disease_name = disease.title().replace('_', ' ')
+        
+        # Fetch pesticides for the predicted disease
+        pesticides = pesticides_df[pesticides_df["Disease"] == disease][["Organic_Pesticide", "Inorganic_Pesticide"]]
+        
+        if not pesticides.empty:
+            organic = pesticides["Organic_Pesticide"].iloc[0] if pd.notna(pesticides["Organic_Pesticide"].iloc[0]) else "Not specified"
+            inorganic = pesticides["Inorganic_Pesticide"].iloc[0] if pd.notna(pesticides["Inorganic_Pesticide"].iloc[0]) else "Not specified"
         else:
-            result = f"Error: {class_name}"
-        return render_template('result.html', result=result)
-    return redirect(url_for('disease_index'))
+            organic = "Sorry, we don’t have related data for this disease."
+            inorganic = "Sorry, we don’t have related data for this disease."
+        
+        result = {
+            "crop": crop,
+            "disease": disease_name,
+            "organic_pesticide": organic,
+            "inorganic_pesticide": inorganic,
+            "status": "success"
+        }
+    else:
+        result = {
+            "error": str(class_name),
+            "status": "error"
+        }
+    
+    return jsonify(result)
 
 if __name__ == '__main__':
-    os.makedirs(os.path.join(os.path.dirname(__file__), 'uploads'), exist_ok=True)
     app.run(debug=True)

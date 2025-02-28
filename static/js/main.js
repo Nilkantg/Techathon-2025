@@ -7,8 +7,9 @@ document.getElementById('imageUpload').addEventListener('change', function(e) {
     }
 });
 
-document.getElementById('btn-predict').addEventListener('click', function() {
-    const formData = new FormData(document.getElementById('upload-file'));
+document.getElementById('upload-file').addEventListener('submit', function(e) {
+    e.preventDefault();
+    const formData = new FormData(this);
     const loader = document.querySelector('.loader');
     const result = document.getElementById('result');
 
@@ -19,13 +20,27 @@ document.getElementById('btn-predict').addEventListener('click', function() {
         method: 'POST',
         body: formData
     })
-    .then(response => response.text())
+    .then(response => response.json())
     .then(data => {
         loader.style.display = 'none';
-        result.innerHTML = `<span>${data}</span>`;
+        if (data.status === 'success') {
+            result.innerHTML = `
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Prediction Result</h5>
+                        <p><strong>Crop:</strong> ${data.crop}</p>
+                        <p><strong>Disease:</strong> ${data.disease}</p>
+                        <p><strong>Organic Pesticide:</strong> ${data.organic_pesticide}</p>
+                        <p><strong>Inorganic Pesticide:</strong> ${data.inorganic_pesticide}</p>
+                    </div>
+                </div>
+            `;
+        } else {
+            result.innerHTML = `<div class="alert alert-danger">${data.error}</div>`;
+        }
     })
     .catch(error => {
         loader.style.display = 'none';
-        result.innerHTML = `<span>Error: ${error}</span>`;
+        result.innerHTML = `<div class="alert alert-danger">Error: ${error.message}</div>`;
     });
 });

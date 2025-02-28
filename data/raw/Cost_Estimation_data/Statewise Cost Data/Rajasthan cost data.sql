@@ -1,15 +1,12 @@
 USE techathon;
 
 DROP TABLE IF EXISTS Uttar_pradesh_cost_data;
-CREATE TABLE IF NOT EXISTS Uttar_pradesh_cost_data (
-    Time_Period VARCHAR(25),
-    Crop_type VARCHAR(100),
-    State VARCHAR(50),
-    Cost INT,  -- INT doesn't need a size like (25) in most SQL implementations
-    Cost_of_Production INT,
-    Operational_Cost INT,
-    Fixed_Cost INT
-);
+CREATE TABLE IF NOT EXISTS Uttar_pradesh_cost_data(
+	Time_Period VARCHAR(25),
+    Crop_type VARCHAR(100),  -- Reduced size for efficiency
+    State VARCHAR(50),       
+    Cost INT(25) 
+    );
     
 INSERT INTO Uttar_pradesh_cost_data VALUES
 ("2021_22", "Paddy", "Uttar Pradesh", 74657),
@@ -67,10 +64,10 @@ INSERT INTO Uttar_pradesh_cost_data VALUES
 ("2017_18", "Soyabean", "Uttar Pradesh", null),
 ("2017_18", "Cotton", "Uttar Pradesh", null);    
 
--- ALTER TABLE Uttar_pradesh_cost_data 
--- ADD COLUMN Cost_of_Production INT(25),
--- ADD COLUMN Operational_Cost INT(25),
--- ADD COLUMN Fixed_Cost INT(25);
+ALTER TABLE Uttar_pradesh_cost_data 
+ADD COLUMN Cost_of_Production INT(25),
+ADD COLUMN Operational_Cost INT(25),
+ADD COLUMN Fixed_Cost INT(25);
 
 UPDATE Uttar_pradesh_cost_data
 SET
